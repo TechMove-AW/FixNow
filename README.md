@@ -169,6 +169,14 @@
 
 ### 2.3.4. Empathy Mapping.
 
+#### User Persona 1: Luis Gutiérrez (Profesional Técnico)
+
+![Empathy mapping u1](./img/Empathy-mapping-1.png)
+
+#### User Persona 2: Mariana Rodríguez (Cliente)
+
+![Empathy mapping u2](./img/Empathy-mapping-2.png)
+
 ### 2.3.5. As-is Scenario Mapping.
 
 ## 2.4. Ubiquitous Language.
