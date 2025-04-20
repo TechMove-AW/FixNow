@@ -179,6 +179,14 @@
 
 ### 2.3.5. As-is Scenario Mapping.
 
+#### User Persona 1: Luis Gutiérrez (Profesional Técnico)
+
+![As-is scenario mapping u1](./img/as-is-scenario-mapping-1.png)
+
+#### User Persona 2: Mariana Rodríguez (Cliente)
+
+![As-is scenario mapping u2](./img/as-is-scenario-mapping-2.png)
+
 ## 2.4. Ubiquitous Language.
 
 # Capítulo III: Requirements Specification
