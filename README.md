@@ -189,6 +189,25 @@
 
 ## 2.4. Ubiquitous Language.
 
+En esta sección se presenta un glosario de términos y conceptos utilizados en el dominio de negocio de FixNow.
+
+| Término en Inglés (Español) | Definición |
+|----------------------------|------------|
+| Account (Cuenta) | Representa la identidad digital de un usuario en la plataforma. Contiene las credenciales de acceso y el estado de la cuenta. |
+| User (Usuario) | Entidad base que representa a cualquier persona registrada en la plataforma, conteniendo su información personal básica. |
+| Customer (Cliente) | Usuario que busca servicios técnicos o profesionales a través de la plataforma. |
+| Worker (Trabajador Técnico) | Profesional técnico que ofrece sus servicios a través de la plataforma. Cuenta con experiencia verificable, habilidades específicas y certificaciones en su campo. |
+| Experience (Experiencia) | Registro histórico laboral de un Worker que valida su trayectoria profesional en diferentes empresas o roles. |
+| Review (Reseña) | Evaluación y comentario que un usuario realiza sobre el servicio recibido o proporcionado. |
+| Proposal (Propuesta) | Oferta formal de servicio que un Worker presenta a un Customer, incluyendo descripción del trabajo, precio y tiempo estimado. |
+| Chat (Chat) | Espacio de comunicación directa entre Customer y Worker para coordinar detalles del servicio. |
+| Message (Mensaje) | Unidad de comunicación dentro de un chat entre participantes. |
+| Sales Order Payment (Orden de Pago) | Registro financiero que documenta la transacción entre un Customer y un Worker por los servicios acordados. |
+| Ticket (Reclamo) | Registro formal de una disputa o inconformidad entre Customer y Worker que requiere resolución por parte de la plataforma. |
+| Hourly Rate (Tarifa por Hora) | Monto que un Worker establece como su tarifa de servicio por hora de trabajo. |
+| Field (Campo de Especialidad) | Área específica de expertise técnico en la que se desempeña un Worker. |
+| Skills (Habilidades) | Conjunto de competencias técnicas específicas que posee un Worker. |
+
 # Capítulo III: Requirements Specification
 
 ## 3.1. To-Be Scenario Mapping.
