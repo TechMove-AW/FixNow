@@ -162,10 +162,43 @@
 ## 2.3. Needfinding.
 
 ### 2.3.1. User Personas.
+-User persona para el Segmento 1 : Profesionales Tecnicos
+
+<img src="img/UserPersona2.jpg" alt="us1" width=75% />
+
+-User persona para el Segmento 2: Clientes
+
+<img src="img/UserPersona1.jpg" alt="us2" width=75% />
 
 ### 2.3.2. User Task Matrix.
 
+## Task Matrix para Profesional Técnico:
+
+| Tarea principal                                      | Frecuencia | Importancia |
+|-----------------------------------------------------|------------|-------------|
+| Registrarse como técnico en la plataforma           | Una vez    | Alta        |
+| Completar su perfil y subir certificaciones         | Una vez    | Alta        |
+| Recibir notificaciones de nuevos servicios          | Frecuente  | Alta        |
+| Aceptar o rechazar solicitudes de clientes          | Frecuente  | Alta        |
+
+## Task Matrix para Cliente:
+
+| Tarea principal                                                    | Frecuencia | Importancia |
+|-------------------------------------------------------------------|------------|-------------|
+| Buscar técnicos disponibles según ubicación y oficio              | Frecuente  | Alta        |
+| Revisar perfiles y calificaciones de técnicos                     | Frecuente  | Alta        |
+| Recibir confirmación y agendar el servicio                        | Frecuente  | Alta        |
+| Calificar al técnico luego del servicio                           | Frecuente  | Alta        |
+| Monitorear consumo de agua y electricidad                         | Frecuente  | Alta        |
+
 ### 2.3.3. User Journey Mapping.
+-Journey Map para el Segmento 1 : Profesionales Tecnicos
+
+<img src="img/JourneyMap1.png" alt="Entrevista1Seg1" width=75% />
+
+-Journey Map para el Segmento 2: Clientes
+
+<img src="img/JourneyMap2.png" alt="Entrevista1Seg1" width=75% />
 
 ### 2.3.4. Empathy Mapping.
 
