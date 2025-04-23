@@ -172,7 +172,7 @@
 
 ### 2.3.2. User Task Matrix.
 
-## Task Matrix para Profesional Técnico:
+- Task Matrix para Profesional Técnico:
 
 | Tarea principal                                      | Frecuencia | Importancia |
 |-----------------------------------------------------|------------|-------------|
@@ -181,7 +181,7 @@
 | Recibir notificaciones de nuevos servicios          | Frecuente  | Alta        |
 | Aceptar o rechazar solicitudes de clientes          | Frecuente  | Alta        |
 
-## Task Matrix para Cliente:
+- Task Matrix para Cliente:
 
 | Tarea principal                                                    | Frecuencia | Importancia |
 |-------------------------------------------------------------------|------------|-------------|
