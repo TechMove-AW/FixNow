@@ -401,7 +401,7 @@ El primer sprint se planificó durante una reunión en discord. Para ello, se cr
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 En esta parte se presentará el progreso alcanzado durante el primer sprint, enfocado en la implementación de la Landing Page estática. Para ilustrar este avance, se ha creado el siguiente video
 
-URL del video:https://youtu.be/O4TpwVee8DY <br>
+URL del video:https://youtu.be/sefT6klhVpI <br>
 
 * Fix Now pestaña principal <br>
 
