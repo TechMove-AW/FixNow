@@ -493,6 +493,24 @@ Al conocer la propuesta de la aplicación Fix Now, expresó un alto nivel de ace
 Además, manifestó estar dispuesto a pagar una suscripción mensual, ya que lo ve como una inversión en su crecimiento profesional. “Es como pagar por publicidad que realmente llega a quienes me necesitan”, mencionó. Destacó también que contar con funciones como el historial de servicios, opiniones verificadas de clientes y la posibilidad de chatear directamente con ellos, aportaría transparencia y eficiencia a su labor.
 Finalmente, calificó positivamente la idea de la StartUp Fix Now, felicitando el enfoque innovador y el compromiso por mejorar la conexión entre técnicos y usuarios. Sus comentarios refuerzan la necesidad de incluir requisitos funcionales enfocados en la visibilidad, reputación y facilidad de contacto para los técnicos, así como requisitos no funcionales centrados en la confianza, seguridad y experiencia de usuario dentro de la plataforma.
 
+**Entrevista 2:**
+Datos del entrevistador:
+- Nombre: Percy Alonso Muñiz Huayanca
+  
+Datos del entrevistado:
+- Nombre: Angel Garcia
+- Edad: 24 años
+- Distrito de residencia: Jesus Maria
+- Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202319563_upc_edu_pe/Ed63EY9TPVBKrYVVJoA-MqYBO83-0IpFwuecQshv5pPZWw?e=HeAZXC
+  
+![TECNICO 2 ENTREVISTA](https://github.com/user-attachments/assets/913d2a04-568b-413f-b808-d8a4d6cc30b1)
+
+**Resumen de la entrevista:**
+A partir de la entrevista realizada a Ángel García, plomero de 24 años que vive en el distrito de Jesús María, se recogieron observaciones valiosas desde la mirada de un profesional técnico con experiencia en el rubro. Ángel comentó que, aunque siempre ha trabajado bien y tiene clientes fieles, muchas veces se le complica encontrar nuevas personas que confíen en él, especialmente cuando no lo conocen o no tienen una referencia directa.
+Por eso, cuando se le presentó la propuesta de la plataforma Fix Now, mostró una actitud muy positiva. Le pareció una muy buena idea, ya que considera que sería una excelente manera de mostrar su trabajo, llegar a más personas y hacer crecer su clientela. “Con algo así, la gente puede ver quién soy, qué trabajos he hecho, y confiar más en llamarme”, señaló.
+Ángel también se mostró de acuerdo con pagar una suscripción mensual, ya que lo ve como una forma de invertir en su propio trabajo. “Es como tener un anuncio que está activo todo el tiempo, pero mejor, porque está dentro de una app que la gente usa cuando realmente necesita un técnico”, explicó. Además, valoró funciones como el historial de servicios, las opiniones de los clientes, y la opción de chatear directamente con ellos para coordinar trabajos, lo cual cree que agiliza bastante el proceso.
+Finalmente, Ángel felicitó la iniciativa y dio una calificación muy positiva a la StartUp Fix Now, destacando que ayuda tanto a los profesionales como a los usuarios. Sus comentarios permiten definir requisitos funcionales centrados en mejorar la visibilidad, reputación y facilidad de contacto para los técnicos, así como requisitos no funcionales relacionados con la confianza, la usabilidad y la eficiencia de la plataforma.
+
 **Entrevistas segmento 02: Usuarios Clientes**
 **Entrevista 1:**
 Datos del entrevistador:
