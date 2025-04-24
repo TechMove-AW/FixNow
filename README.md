@@ -430,6 +430,7 @@ URL del video:https://youtu.be/O4TpwVee8DY <br>
 
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+Durante este primer sprint, nos enfocamos únicamente en la creación de la Landing Page estática, por lo que no se trabajó con servicios web. Como resultado, en esta ocasión no se elaboró la documentación correspondiente al uso de servicios web.
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
