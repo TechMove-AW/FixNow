@@ -445,6 +445,12 @@ URL de despliegue de la Landing Page: https://github.com/TechMove-AW/FixNow-Land
 <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcYe_1UGJsRhUm5fcn2oCOgbziHGNpIQNqD2kyFVN88zxBMcK752nVpkkYa3tVXvl1HVt4GWSk-Nl1RQx-xB6TJWCJp0Ek6Z7tuQoF1DUQy_nPiIyeV_sgnCq1w5NMiu4VR6Pmq?key=fxuJ81i7FgPCpYxPYy6v26h7" />
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
+La asignación de tareas para la implementación se dividió por secciones, donde cada miembro del equipo fue responsable de desarrollar una parte de la landing page:
+*    Bustamante Leveau, Cameron Charllotte: Implementacion de la seccion Contacto
+*    De La Cruz Moreno, Roy Hernan:Implementacion de la seccion Producto Iot
+*    Hallasi Saravia, Miguel Angel:Implementacion de la seccion Servicios
+*    Muñiz Huayanca , Percy Alonso:Implementacion de la seccion Testimonios
+*    Urrutia Peña, Jasmin Adriana:Implementacion de la seccion Ver mas
 
 # Conclusiones
 
