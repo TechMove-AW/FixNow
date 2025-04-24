@@ -285,6 +285,7 @@ En esta sección se presenta un glosario de términos y conceptos utilizados en 
 ### 4.7. Software Object-Oriented Design.
 
 ### 4.7.1. Class Diagrams.
+![Class Diagram](./img/class-diagram.png)
 
 ### 4.7.2. Class Dictionary.
 
