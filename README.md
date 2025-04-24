@@ -336,14 +336,14 @@ Se han implementado sistemas de navegación claros, jerárquicos y adaptables se
 
 | Vista Previa Desktop Web Browser | Vista Previa Mobile Web Browser |
 |----------------------------------|----------------------------------|
-| <img src="img/landingwireframe.png" alt="landingwireframe" width=75% />  |<img src="img/landingwireframemobile.png" alt="landingwireframe2" width=75% /> |
+| <img src="img/landingwireframe.png" alt="landingwireframe" />  |<img src="img/landingwireframemobile.png" alt="landingwireframe2" width=85 /> |
 
 Link:[https://www.figma.com/design/GizyZC1lEsPasOO3mWmkQI/Untitled?node-id=1-2&t=GSnzJYQiwQ39h97p-1](https://www.figma.com/design/GizyZC1lEsPasOO3mWmkQI/Untitled?node-id=1-2&t=GSnzJYQiwQ39h97p-1)
 
 ### 4.3.2. Landing Page Mock-up.
 | Vista Previa Desktop Web Browser | Vista Previa Mobile Web Browser |
 |----------------------------------|----------------------------------|
-| <img src="img/landingMockup.png" alt="landingmockupmobile" width=75% />  |<img src="img/landingwireframemobile.png" alt="landingwireframe2" width=75% /> |
+| <img src="img/landingMockup.png" alt="landingmockupmobile"  />  |<img src="img/landingmockupmobile.png" alt="landingwireframe2" width=100/> |
 
 Link:[https://www.figma.com/design/GizyZC1lEsPasOO3mWmkQI/Untitled?node-id=1-2&t=GSnzJYQiwQ39h97p-1](https://www.figma.com/design/GizyZC1lEsPasOO3mWmkQI/Untitled?node-id=1-2&t=GSnzJYQiwQ39h97p-1)
 
