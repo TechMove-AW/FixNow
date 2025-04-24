@@ -28,6 +28,101 @@
 
 **Ciclo 2025-01**
 </div>
+## Registro de versiones del informe
+
+<table style="border-collapse:collapse;border-spacing:0" class="tg">
+  <thead>
+    <tr>
+      <th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Versión</th>
+      <th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Fecha</th>
+      <th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Autor</th>
+      <th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Descripción de modificación</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">TB1</td>
+      <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">20/04/2025</td>
+      <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+        Bustamante Leveau, Cameron Charllotte <br>
+        De La Cruz Moreno, Roy Hernan <br>
+        Hallasi Saravia, Miguel Angel<br>
+        Muñiz Huayanca , Percy Alonso <br>
+        Urrutia Peña, Jasmin Adriana
+      </td>
+      <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+        Creación del documento de trabajo en formato markdown, capítulo I, capítulo II, capítulo III, capítulo IV y capítulo V
+      </td>
+    </tr>
+  </tbody>
+</table>                                          
+
+</br>
+</br>
+
+## Project Report Collaboration Insights
+
+Enlace de la organización para el reporte del proyecto: https://github.com/TechMove-AW/FixNow 
+
+**TB1**
+
+Para el desarrollo del informe correspondiente a la entrega TB1, se estableció la implementación de secciones de la siguiente manera para cada integrante del equipo:
+
+|Integrante|Tareas Asignadas|
+|-|-|
+|Bustamante Leveau, Cameron Charllotte||
+|De La Cruz Moreno, Roy Hernan|Startup Profile, Descripción de la Startup, Perfiles de integrantes del equipo, Competidores, Análisis competitivo, Estrategias y tácticas frente a competidores, Entrevistas, Diseño de entrevistas, Registro de entrevistas, Análisis de entrevistas, Software Configuration Management, Software Development Environment Configuration,  Source Code Management, Source Code Style Guide & Conventions, Software Deployment Configuration, Landing Page Services & Applications Implementation, Sprint Planning 1, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Landing page IoT Proyect|
+|Hallasi Saravia, Miguel Angel|Empathy Mapping, As-is Scenario Mapping, Ubiquitous Language, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Class Diagrams, Class Dictionary, Database Diagram|
+|Muñiz Huayanca , Percy Alonso|To-Be Scenario Mapping, User Stories, Impact Mapping, Product Backlog, Registro de entrevistas, Análisis de entrevistas|
+|Urrutia Peña, Jasmin Adriana|Registro de entrevistas, User Personas, User Task Matrix, User Journey Mapping, Style Guidelines, General Style Guidelines, Web Style Guidelines, Information Architecture, Organization Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems, Navigation Systems, Landing Page UI Design, Landing Page Wireframe, Landing Page Wireframe, Web Applications Prototyping, Codigo Landing - Inicio - VerMas - Footer |
+
+## **Github Collaboration Insights**
+
+Todas las ramas se crearon siguiendo la metodología GitFlow, que garantiza una organización estructurada y eficiente del código. GitFlow facilita la colaboración en proyectos al establecer un flujo de trabajo estandarizado para el desarrollo, con ramas específicas para nuevas funcionalidades, corrección de errores y preparación de lanzamientos, asegurando un control de versiones más ordenado y predecible.
+
+GitHub también proporciona una visualización detallada del historial de las ramas principales, destacando los procesos de merge realizados. 
+
+
+Los integrantes son:
+
+* Cameron Charllotte (Bustamante2)
+* Roy Hernan (Przemekuwu)
+* Miguel Angel(mhallasi)
+* Percy Alonso (alomsoo)
+* Jasmin Adriana (SrtaYeis)
+
+
+**main:** es la rama principal del proyecto y se actualiza con cada entregable.
+
+**develop:**  es la rama principal para el desarrollo continuo del proyecto.
+
+**feature**: contiene los cambios constantes realizados por los artefactos relacionados con el sprint 1 del informe.
+
+Los siguientes gráficos representan analíticos de commits en el repositorio del informe. En los gráficos se incluye la cantidad de lineas de texto añadidas por cada integrante del equipo.<br>
+**TB1**
+
+## Student Outcome
+
+El curso contribuye al cumplimiento del Student Outcome ABET: </br> 
+**ABET – EAC - Student Outcome 3** 
+**Criterio:** Capacidad de comunicarse efectivamente con un rango de audiencias. 
+En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3.
+
+</br>
+
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Criterio específico</span></th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Acciones realizadas</span></th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Conclusiones</span></th></tr></thead>
+<tbody>
+<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Comunica oralmente con efectividad a diferentes rangos de audiencia </td>
+<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Cameron Charllotte: <br> TB1: <br> <br>Roy Hernan: <br> TB1:<br> <br>Miguel Angel: <br> TB1: <br> <br>Percy Alonso: <br> TB1:  <br> <br>Jasmin Adriana <br> TB1: <br><br>
+<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">TB1: Se logró un excelente primer avance del trabajo, cumpliendo con todos los aspectos del proyecto, lo que nos permitió obtener un resultado de alta calidad. El documento generado será útil para nuestro desarrollo profesional futuro en la planificación, ejecución y lanzamiento de proyectos en producción.<br> </td>
+</tr>
+<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Comunica por escrito con efectividad a diferentes rangos de audiencia.</td>
+<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Cameron Charllotte: <br> TB1: <br> <br>Roy Hernan: <br> TB1:<br> <br>Miguel Angel: <br> TB1:<br> <br>Percy Alonso: <br> TB1:  <br> <br>Jasmin Adriana: <br> TB1:<br> </td>
+<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">TB1: Como equipo, completamos este primer entregable creando una landing page que comunica de manera efectiva. Esto nos permitirá entregar un trabajo integral en el futuro, a pesar del reto que supusieron los plazos ajustados para la entrega del proyecto.<br><br></td>
+</tr>
+</tbody></table>
+</br></br>
+
 # Contenido
 
 1. [Capítulo I: Introducción](#capítulo-i-introducción)<br>
