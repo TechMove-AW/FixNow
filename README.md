@@ -234,8 +234,16 @@ La identidad de Fix Now se basa en transmitir profesionalismo, eficiencia y cerc
 #### Typography
 Para lograr una lectura cómoda y moderna, se seleccionó una combinación de tipografías con diferentes pesos y estilos que permiten estructurar jerarquías claras.
 - Montserrat y Poppins se utilizan en titulares por su robustez y claridad visual.
+  
+  <img src="img/letra1.png" alt="1" />
+  
 - Open Sans, DM Sans y Onest están destinados a párrafos y descripciones, aportando legibilidad y neutralidad.
+  
+   <img src="img/letra 2.png" alt="2" />
+   
 - Tipografías como Playfair Display, Playfair Display SC y Playwrite US Trad se usan en títulos decorativos o frases clave, mientras que Dancing Script aporta un toque más expresivo en elementos visuales que buscan una conexión emocional.
+  
+  <img src="img/letra3.png" alt="3" />
 
 #### Colors
  La paleta cromática fue cuidadosamente seleccionada para proyectar seguridad, eficiencia y modernidad:
@@ -244,18 +252,32 @@ Para lograr una lectura cómoda y moderna, se seleccionó una combinación de ti
 	- #29405A: azul profundo que transmite confianza y estabilidad.
 	- #2247C0: azul intenso que denota tecnología y profesionalismo.
 	- #3E72AD: azul medio que aporta frescura y balance.
+   
+ 	  <img src="img/color1.png" alt="4" />
+   	  
 
 - Secundarios:
 	- #42CACA: tono aqua que brinda dinamismo, innovación y frescura.
 	- #FFD900: amarillo brillante para llamados a la acción y elementos importantes.
+ 
+   	<img src="img/color2.png" alt="5" />
+
+    
 - Neutros:
 	- #000000, #D9D9D9, y #FFFFFF para mantener limpieza visual y contraste en la interfaz.
+   
+   	<img src="img/color3.png" alt="u" />
 
 #### Botones: Los botones de Fix Now son llamativos, accesibles y fáciles de identificar. Tienen esquinas redondeadas, efectos al hacer hover.
+<img src="img/boton.png" alt="y" />
+	
 
 #### Iconografia: La iconografía sigue un estilo minimalista y lineal, con íconos fácilmente reconocibles que mejoran la navegación.
+<img src="img/icono.png" alt="7" />
+
 
 #### Logo:	El logo de Fix Now combina tipografía moderna con un ícono representativo de tecnología y reparación. Refleja los valores de rapidez y confianza.
+<img src="img/logof.png" alt="8" />
 
 
 ### 4.1.2. Web Style Guidelines.
@@ -268,6 +290,8 @@ La experiencia web de Fix Now está diseñada pensando en una navegación intuit
 - Las tarjetas, formularios y paneles están diseñados siguiendo un estilo limpio, con íconos explicativos y elementos interactivos fácilmente reconocibles.
 
 Para el diseño de la landing page de Fix Now se utilizó el patrón Z debido a su eficacia en la lectura y escaneo visual en pantallas. Este patrón guía naturalmente la vista del usuario desde la parte superior izquierda hacia la derecha, bajando diagonalmente hasta el extremo inferior izquierdo y finalmente hacia la derecha otra vez, formando una "Z". Al seguir este recorrido visual intuitivo, se mejora la jerarquía de la información, se capta la atención del usuario rápidamente y se optimiza la conversión desde los primeros segundos de interacción.
+
+<img src="img/patronz.png" alt="8" />
 
 ## 4.2. Information Architecture.
 La arquitectura de información de Fix Now está estructurada con base en la claridad y facilidad de uso. Se ha diseñado pensando en minimizar la carga cognitiva de los usuarios y permitirles acceder rápidamente a la información o servicio que buscan. La experiencia se adapta tanto para nuevos visitantes como para usuarios frecuentes, brindando un recorrido fluido e intuitivo.
@@ -334,14 +358,62 @@ Se han implementado sistemas de navegación claros, jerárquicos y adaptables se
 
 ### 4.3.1. Landing Page Wireframe.
 
+| Vista Previa Desktop Web Browser | Vista Previa Mobile Web Browser |
+|----------------------------------|----------------------------------|
+| <img src="img/landingwireframe.png" alt="landingwireframe" />  |<img src="img/landingwireframemobile.png" alt="landingwireframe2" width=85 /> |
+
+Link:[https://www.figma.com/design/GizyZC1lEsPasOO3mWmkQI/Untitled?node-id=1-2&t=GSnzJYQiwQ39h97p-1](https://www.figma.com/design/GizyZC1lEsPasOO3mWmkQI/Untitled?node-id=1-2&t=GSnzJYQiwQ39h97p-1)
+
 ### 4.3.2. Landing Page Mock-up.
+| Vista Previa Desktop Web Browser | Vista Previa Mobile Web Browser |
+|----------------------------------|----------------------------------|
+| <img src="img/landingMockup.png" alt="landingmockupmobile"  />  |<img src="img/landingmockupmobile.png" alt="landingwireframe2" width=100/> |
+
+Link:[https://www.figma.com/design/GizyZC1lEsPasOO3mWmkQI/Untitled?node-id=1-2&t=GSnzJYQiwQ39h97p-1](https://www.figma.com/design/GizyZC1lEsPasOO3mWmkQI/Untitled?node-id=1-2&t=GSnzJYQiwQ39h97p-1)
 
 ## 4.4. Web Applications UX/UI Design.
-
 ### 4.4.1. Web Applications Wireframes.
 
-### 4.4.2. Web Applications Wireflow Diagrams.
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf366wweEsS-YOr4r_vYD_n2Q5ri0l4LWCcwYQTsKGpfgIGQNIOGBXOJl7QYbjKNjl2PNrqFQQgW7AsaIrTtl58sZg1q4_57r6A4PNtGTdibEumr59o0Noly5QC-T2pU-QamoXHLw?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcZ1KCk_miLxUdroC6qyfHcuLwdfq_veOXb6OGGn2cRX6QoIKtDOxJQeYROGpG1R_o2lhYYfWKQLSQA1i-L70-pD3ihTDnSEmhq9tO07LmTEwI-2E_BINRTKZEkpjnW7Ia9ezcicw?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcah65r9ZEJFfKYDmC5D3LLBILdJdtGx0XK9dw-KGmFKh_hZGQzy7k5xDWGvKBY54SOyWVHWEEOWdphOJqIrauy8akIgJKBkx9hqWLcCTARnEIVNzNBpvKmLKNTzcU533y4iPhlEQ?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfvl6UaD_7U9RTwfo7m8U2fLDlGIxnHXkqe0naGyZrz4haQadLL7aLi24wgcf-mLTR9oIwPTwDeFdTm_GiLpGnCipWcaUkG-g76PVAutr88mMeEMSLItTpAoHzBQTPo2tpC0s4S7A?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeBDlyhYJtZxmPBA-qu--zB4IO0aTwXGLlw9A24euVxDMZ8NEjkaMXjg_9krFEjYpUmFMJW0GsYgw-L48taUIvHwGCcznu-F7j9_Izgjwpe5RwR5ohph5ZYd8JZ0YnuyjIP51kz?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe8gr5sEAgLeB-Q-ydz2Yvm1wfMteAmAfl4gYrymNTFEWSjpE3Fx4MPOI7eXk5AwJl3YqiuSkgR0RNSaUmvmoDcGT38tGbpdbbF6_q7bkBns6NxtSYfYrPUpUXafbToO1WsDiP_?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfGoyeywgf2YYGUqegR1uAJaOo-2gBNYAOS6oLicLLnpp2Yp1eFuC-J1a0vl4uO17Ne0Dc5arLIhJKKUrnmvjl1-JASLLrw603Kko3x8xqSJxoDo3LPZmA2oDln6HohCvxjP6snng?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcNR40v0yBN73cYH64reZTZX4YWFzygXrKfZaoPSwz_hspiU7xA9cltcnzWIp0LEg6-DtFIjonYnu3tI1eoGKaOzHO3fNzzy-3UJdHZLuYC_al5bbLJdKInoUqb8or-r3iatXWnLg?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcgDDaS0qGVGV5Qe9-GJPCg1y3stQG0ce1R_f3Va0EUzhTfJ4sJIfRJ0hCBlc_E6eUOjGlTP2InHFjQot6AaG0O4OvRKujwxgZA9Zp-dwvi5qrMB17zRIiymbJHvZ5F4P2OjbPvjw?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdfF3aG7sRyy4Afi-hDmu-kTpwWY46A4j8wUagxiA7dawBV2b9plXWjc5LlopcwP4qj2Y8UEP1rIaazosrxbr5z0iV0islkb5fmm4IbD3AL58hVv1RXrJNSYK2IPIViq26H5iDjag?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdcMeXfRo915vPrLl2U3v3kNIQwc6PpaQippLL7M043pgUBoA8geU6sl_9rW5Gb-xzlxjXo25YDm9yVzqg9mOeqVJllUfRjUv5o1bUq2IjigXIEpWv_YoIe3BV5pf_wOwf5ix_-Hw?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf0s538TKV5r7gwIUbO_vv3HgTmtEsRdmBd633NqG2_LxzgrajurUU3oRAnWoddsA3i4bRKh_3yihOQsW2kAHJ02qz3VT0KuMhKHRZ9Gcw7df_Oh8s1aw_LdyxZ-SOXXSuIJCwr?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXezSrtJSb-rnTDCbXAqNek76GdRsh91VS3yH-KUypzb6EHCBNTKk2Yd0TVtBBbD2XlU4SavXwWVdjWhT7WIBclqtLlAhkEkFE4sio9KRdVwXUOKYlwG8Utq_sffDMOqVNA386fryw?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcOzhOQS7EEak3TrpfrQG4jAaND3h6orLF0RUfFA0-Sj0VsKTt5BTHmuB93xJxyN2fqkqZTF-3tfA6JIaJOwsQ5pBbn4ljPEcOuQP6_ODVezSz711oa9Ely68q1de5-m-yKOSzrmg?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd-tlxr4nCHXFVk6YPZYkxCHfa677RP2O8cHVdRKbEpr5IHJqE_FFoI2cYIfiwL8n6C2zxUY5nYc5chJmIbCYN_s3NCVjktjQFUtYKabH2hXBM3xuGUQBY4YdCKP1BMcYiLN7XX?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe3ryWTuiFM9XhBqovzVIdlRMRpjJ85ZYU_ntpiVAkOb54-fMUK0_jzD5nerX3mm9y28Xgoixnl3NbCk3NFa2l8jIv6oJDGmgsHfwTC_YAVnmANhlWzJHHDP0snx8-ADuKLcPSysQ?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfX9_9rfCBJm3n3W-MHNWFJhX33d5_4VnRPRz-PJ6EkmqU8mDhjzg_GI97Kbo_xqGJPhXGbJYP0lNCIwQ5sWL8YeKCJXiHVPw4xMwMsYGC87m0RyQkvd1G3ozZV2NqhQaiXMVI2?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeJb0vFO83ae9e50tMiyYs1M1M02KQttWJQ9jRgGlHu6oLEbxZQluZpZF_JHj6vjzb2glGSQBSeuYFmaE3cL5oLJhLSuq-OnNWuL0rhCyJIMr8URgpp4vkd7ChdAe8XDivWk3akzA?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdjhLPuTBxU5akIRWO0BGPRWKWnxa8TkI0wNtUvHvEcR183_aRS7F1KmW0IAfrYF6VfAwM7bP-IHK9_sGF10YejNSHAOdVsPtoaOMiyJNwxnn7CjJVBQaiaQCXAIGwXeDCSYYUI?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcGfJPDm3b4TD0IgptcaxfrjvP2sVefgPpfCwwWiEXxSowd5IElgiqPK8jAEeD4Xc8ZpHnfwulv6fN64xyL44aeBo6pJ9ss2zq40tLD6BQPO80zOhppb7yOh9cI223nGVF23PLxKg?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcwFzt2YeyK3mH0GlTZm5-uMtvkQnNzyMDRUgXtpeYTfysNc-FakSgpvzY7oawDlY75Zs16-ucYZ5CFX3IGgPXxFn9-hSnao9Lnj4tq7Gk9G3iC3AmS2EEkaFISnRDbc_j8Xv94?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXePY_v8DbEqXj3GqRWscCJMmslb38OuAo0g8acWlyzL2LhG7sLHM1wKpCY5cs-44QgTLngBKQBDJyLQuPR0yc-IbIOhqD_9TaxHHg_MqLqy_SKbRD-P2QyNy9bAMp0s9odbhJ1M3w?key=7rHwqlj_RdIsExdWTIYPrLCO" />
 
+### 4.4.2. Web Applications Wireflow Diagrams.
+ <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXckLWRvejYEk4ec8eEp3e383PBxtnH3Hqln4H9MOF99wAVJ0qBLYpgqwlT2UgXJsRcxA2hDKYSgQ_QBUpxxvAxhGUGWs2v25pCvbFC04sjNGfPqNw3xjF6vCIempmy3WYGPv1vo?key=Xj2P6QILjgqkfn9BAsC6eih2" />
+ <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdQeUsSNR4xlKrYbxN96vTlkSpF51JELSocta2oSxFYFGEFptwgpTGQrcnn70c5wnScHu1MnmU_2bXJbS74LRK-79-M9VL8Ks3PatTIMEo9HWbhv4AyCpTVMYGwK_Q8jTfg7sKO5w?key=Xj2P6QILjgqkfn9BAsC6eih2" />
+ <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcw9OCY4JXPcNLdLEUG5fWhJX_GjfPjACtNqoP63pz-aBl6npNqxrk1e_uiQisoHhFVnKmkP-hhkkScnGmAhEYo7FlA8IPvoQj0labtHJ3rzxNln63tTXvtmX-zVlJ8vAOjhFAW?key=Xj2P6QILjgqkfn9BAsC6eih2" />
+ <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeT5XSitLJ4qmEbyWK4Qs9XxBE-fF64B47sO_6JdpGbJz9QmMzmHJsb8kfQfdqy7r6czXKAPNwKd1byqBWcrZJVyasJ9whO5T2IhJ8yACqzAfyY-LACOtj6dN8FqWUCcjFIp8D5Gg?key=Xj2P6QILjgqkfn9BAsC6eih2" />
+ <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcXvANbLg2KDqpvbxfwrOr4SJtF-FpWwYMlhMtWZ52GgCU5zNU0t9P3JyRrPfMjn52j_gdazBqiyFvHChVRWEDMNdi2O9QV1OWQ__tao9M_c2sbdv5Jm8pdtGaScj9aOT7IcJ-wWQ?key=Xj2P6QILjgqkfn9BAsC6eih2" />
+ <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcl063RLjyAQD291RfjEdOHWXmROhIl2JOp5MRqx5s2Hsv5hmGs0pIzJHg3DOWh3SD5eszaMKWkVyauDdHlDoAJrw_f55Cupy9RMmFNGVezCt7ogy-j22cU4cb_zGC2S2jNUv3qQQ?key=Xj2P6QILjgqkfn9BAsC6eih2" />
+ <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXea5-PYyP-6sQW3GYyIqKc_x2wkCvZQ1eNBsy7yI5nGhLpP63v5_VZ5TNXfH4YwgdqMw_5gH5WOzjrGKV1OKe5e1KQq4xviV0bzcYkGAMK-ETEUdORc0D2w2WOc2SMNS_XoSVr1sw?key=Xj2P6QILjgqkfn9BAsC6eih2" />
+ <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXesAWrQevXsLyjhIcgQnCNri6mC2wRrWDxXAJ2kr8GBBMufBJpGY67oHWCgGraJUod9c-Evlpz0d6M_86MJPwdjHokqE16k_pKIFiFCZVXSKElsC2accNwEyH0j7jfsj04kqi7GFQ?key=Xj2P6QILjgqkfn9BAsC6eih2" />
+ <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfNgMJ3beKpHxwz0O445SOtqATr-eJ5lPwy0fVoqzpBPqjlH_774sVwtCoi0OQ-zF6fZ1jQ8gmvia069UDIx4egBVOiyzA6m490sDEp4zHLcLdUpcIBRW8VCxeP7FAatZjrERE?key=Xj2P6QILjgqkfn9BAsC6eih2" />
+ <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcFgf1SM8IZV9AxSvhAqpff2_bmcJrXr0mfAnDcuCcrSWF6WU5FnxR4NjIeZWzzRjTGV3hHUdGvvCWU44Who5Y09rIWJ3CgbyM67bj1r_2WQFjkaunsJWApMAdcVv8DsQ119nll?key=Xj2P6QILjgqkfn9BAsC6eih2" />
+ <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXea0M7p8KZkV9AvgBl_qpA_u7FXyjTceqMHsZSL6nFi8-6xfWgNCdcmE1JTSQu7YH-8Gw7pmacfKAXxcp7934BjyGCpWhRenGiHTVLKRYTskykZKms1QBbm-diT1t_wEeeY12DwyQ?key=Xj2P6QILjgqkfn9BAsC6eih2" />
+ <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf7f-SeuGkoMj12t_xcwsOFOx5sQwb-_m4FZfW5_w5Et7Sz3QyCHmsk_7XPpBveCQjfAgFdIykGpj4TCzAfhwyaKa9EKhO1qy6lDDp-zj0996LpXYBvE12bQ9geU3sboC6adqs7?key=Xj2P6QILjgqkfn9BAsC6eih2" />
+ <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeB2Z6yVXP9hcf9WIRuEoZeFMPm9y5WYXlylS7Pzb1_TUCLbimI3LtZD5QVxR01MCgQIAgNVPgDbGwefY5xfKqsdLOrJ6Nlt2V9lRFJfykm518SF4407YaA4UNaZdz5oif8LIBV?key=Xj2P6QILjgqkfn9BAsC6eih2" />
+  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdEkIOYE6YpY0ildGMFRzS9ECCLJXAbOUtDoj_CDnMlkKUHhE-QRFkofVjVYSNwQgqagF-knPiV-IlWbD6DuoD0MFGMdCI6meyhqeyU9bq0ua10vzZzYos1doGLK1afvJEk-5WLKg?key=Xj2P6QILjgqkfn9BAsC6eih2" />
+ <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcBF_57nyCbiE55ghMdYY-57AU2Y5D2SUI7dKmNF_Ih6H8EXK4T9akgcKCHNkX1MLD35bbAln8d-8Kjm2SnqgHFcsXlAJ7DBum3-eOyEfnmUhiO7Jv1aDL9dSvFtITnkCAY_Dwn8A?key=Xj2P6QILjgqkfn9BAsC6eih2" />
+- Link: https://lucid.app/lucidchart/c33c35cc-3799-4ebf-ba24-e5ec8b31cf8d/edit?invitationId=inv_c22e7ea2-ee1b-40db-a30f-d77ecfa9ab29
 
 
 
