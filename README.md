@@ -371,7 +371,6 @@ Link:[https://www.figma.com/design/GizyZC1lEsPasOO3mWmkQI/Untitled?node-id=1-2&t
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
 
-
 <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf366wweEsS-YOr4r_vYD_n2Q5ri0l4LWCcwYQTsKGpfgIGQNIOGBXOJl7QYbjKNjl2PNrqFQQgW7AsaIrTtl58sZg1q4_57r6A4PNtGTdibEumr59o0Noly5QC-T2pU-QamoXHLw?key=7rHwqlj_RdIsExdWTIYPrLCO" />
 <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcZ1KCk_miLxUdroC6qyfHcuLwdfq_veOXb6OGGn2cRX6QoIKtDOxJQeYROGpG1R_o2lhYYfWKQLSQA1i-L70-pD3ihTDnSEmhq9tO07LmTEwI-2E_BINRTKZEkpjnW7Ia9ezcicw?key=7rHwqlj_RdIsExdWTIYPrLCO" />
 <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcah65r9ZEJFfKYDmC5D3LLBILdJdtGx0XK9dw-KGmFKh_hZGQzy7k5xDWGvKBY54SOyWVHWEEOWdphOJqIrauy8akIgJKBkx9hqWLcCTARnEIVNzNBpvKmLKNTzcU533y4iPhlEQ?key=7rHwqlj_RdIsExdWTIYPrLCO" />
@@ -396,7 +395,22 @@ Link:[https://www.figma.com/design/GizyZC1lEsPasOO3mWmkQI/Untitled?node-id=1-2&t
 <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXePY_v8DbEqXj3GqRWscCJMmslb38OuAo0g8acWlyzL2LhG7sLHM1wKpCY5cs-44QgTLngBKQBDJyLQuPR0yc-IbIOhqD_9TaxHHg_MqLqy_SKbRD-P2QyNy9bAMp0s9odbhJ1M3w?key=7rHwqlj_RdIsExdWTIYPrLCO" />
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
-
+ <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXckLWRvejYEk4ec8eEp3e383PBxtnH3Hqln4H9MOF99wAVJ0qBLYpgqwlT2UgXJsRcxA2hDKYSgQ_QBUpxxvAxhGUGWs2v25pCvbFC04sjNGfPqNw3xjF6vCIempmy3WYGPv1vo?key=Xj2P6QILjgqkfn9BAsC6eih2" />
+ <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdQeUsSNR4xlKrYbxN96vTlkSpF51JELSocta2oSxFYFGEFptwgpTGQrcnn70c5wnScHu1MnmU_2bXJbS74LRK-79-M9VL8Ks3PatTIMEo9HWbhv4AyCpTVMYGwK_Q8jTfg7sKO5w?key=Xj2P6QILjgqkfn9BAsC6eih2" />
+ <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcw9OCY4JXPcNLdLEUG5fWhJX_GjfPjACtNqoP63pz-aBl6npNqxrk1e_uiQisoHhFVnKmkP-hhkkScnGmAhEYo7FlA8IPvoQj0labtHJ3rzxNln63tTXvtmX-zVlJ8vAOjhFAW?key=Xj2P6QILjgqkfn9BAsC6eih2" />
+ <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeT5XSitLJ4qmEbyWK4Qs9XxBE-fF64B47sO_6JdpGbJz9QmMzmHJsb8kfQfdqy7r6czXKAPNwKd1byqBWcrZJVyasJ9whO5T2IhJ8yACqzAfyY-LACOtj6dN8FqWUCcjFIp8D5Gg?key=Xj2P6QILjgqkfn9BAsC6eih2" />
+ <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcXvANbLg2KDqpvbxfwrOr4SJtF-FpWwYMlhMtWZ52GgCU5zNU0t9P3JyRrPfMjn52j_gdazBqiyFvHChVRWEDMNdi2O9QV1OWQ__tao9M_c2sbdv5Jm8pdtGaScj9aOT7IcJ-wWQ?key=Xj2P6QILjgqkfn9BAsC6eih2" />
+ <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcl063RLjyAQD291RfjEdOHWXmROhIl2JOp5MRqx5s2Hsv5hmGs0pIzJHg3DOWh3SD5eszaMKWkVyauDdHlDoAJrw_f55Cupy9RMmFNGVezCt7ogy-j22cU4cb_zGC2S2jNUv3qQQ?key=Xj2P6QILjgqkfn9BAsC6eih2" />
+ <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXea5-PYyP-6sQW3GYyIqKc_x2wkCvZQ1eNBsy7yI5nGhLpP63v5_VZ5TNXfH4YwgdqMw_5gH5WOzjrGKV1OKe5e1KQq4xviV0bzcYkGAMK-ETEUdORc0D2w2WOc2SMNS_XoSVr1sw?key=Xj2P6QILjgqkfn9BAsC6eih2" />
+ <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXesAWrQevXsLyjhIcgQnCNri6mC2wRrWDxXAJ2kr8GBBMufBJpGY67oHWCgGraJUod9c-Evlpz0d6M_86MJPwdjHokqE16k_pKIFiFCZVXSKElsC2accNwEyH0j7jfsj04kqi7GFQ?key=Xj2P6QILjgqkfn9BAsC6eih2" />
+ <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfNgMJ3beKpHxwz0O445SOtqATr-eJ5lPwy0fVoqzpBPqjlH_774sVwtCoi0OQ-zF6fZ1jQ8gmvia069UDIx4egBVOiyzA6m490sDEp4zHLcLdUpcIBRW8VCxeP7FAatZjrERE?key=Xj2P6QILjgqkfn9BAsC6eih2" />
+ <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcFgf1SM8IZV9AxSvhAqpff2_bmcJrXr0mfAnDcuCcrSWF6WU5FnxR4NjIeZWzzRjTGV3hHUdGvvCWU44Who5Y09rIWJ3CgbyM67bj1r_2WQFjkaunsJWApMAdcVv8DsQ119nll?key=Xj2P6QILjgqkfn9BAsC6eih2" />
+ <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXea0M7p8KZkV9AvgBl_qpA_u7FXyjTceqMHsZSL6nFi8-6xfWgNCdcmE1JTSQu7YH-8Gw7pmacfKAXxcp7934BjyGCpWhRenGiHTVLKRYTskykZKms1QBbm-diT1t_wEeeY12DwyQ?key=Xj2P6QILjgqkfn9BAsC6eih2" />
+ <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf7f-SeuGkoMj12t_xcwsOFOx5sQwb-_m4FZfW5_w5Et7Sz3QyCHmsk_7XPpBveCQjfAgFdIykGpj4TCzAfhwyaKa9EKhO1qy6lDDp-zj0996LpXYBvE12bQ9geU3sboC6adqs7?key=Xj2P6QILjgqkfn9BAsC6eih2" />
+ <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeB2Z6yVXP9hcf9WIRuEoZeFMPm9y5WYXlylS7Pzb1_TUCLbimI3LtZD5QVxR01MCgQIAgNVPgDbGwefY5xfKqsdLOrJ6Nlt2V9lRFJfykm518SF4407YaA4UNaZdz5oif8LIBV?key=Xj2P6QILjgqkfn9BAsC6eih2" />
+  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdEkIOYE6YpY0ildGMFRzS9ECCLJXAbOUtDoj_CDnMlkKUHhE-QRFkofVjVYSNwQgqagF-knPiV-IlWbD6DuoD0MFGMdCI6meyhqeyU9bq0ua10vzZzYos1doGLK1afvJEk-5WLKg?key=Xj2P6QILjgqkfn9BAsC6eih2" />
+ <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcBF_57nyCbiE55ghMdYY-57AU2Y5D2SUI7dKmNF_Ih6H8EXK4T9akgcKCHNkX1MLD35bbAln8d-8Kjm2SnqgHFcsXlAJ7DBum3-eOyEfnmUhiO7Jv1aDL9dSvFtITnkCAY_Dwn8A?key=Xj2P6QILjgqkfn9BAsC6eih2" />
+- Link: https://lucid.app/lucidchart/c33c35cc-3799-4ebf-ba24-e5ec8b31cf8d/edit?invitationId=inv_c22e7ea2-ee1b-40db-a30f-d77ecfa9ab29
 
 
 
