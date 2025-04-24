@@ -138,6 +138,16 @@ Visión: Ser la plataforma líder en Latinoamérica en la conexión eficiente en
 ## 1.2. Solution Profile
 
 ### 1.2.1 Antecedentes y problemática
+-    **What (Qué):** Fix Now es una aplicación que conecta a usuarios con profesionales especializados en oficios como fontanería, carpintería, electricidad, entre otros servicios difíciles de encontrar, e incorpora un sistema de monitoreo en tiempo real para detectar posibles fugas de agua y electricidad en el hogar.
+-    **Where (Dónde):** Inicialmente, el servicio se implementará en zonas urbanas con mayor demanda de mantenimiento del hogar y acceso a internet, con planes de expandirse a nivel nacional e internacional conforme crezca la base de usuarios y técnicos registrados.
+-    **When (Cuándo):** El desarrollo y validación de la plataforma está proyectado a corto plazo, con una versión beta lista en los próximos meses. El lanzamiento oficial se realizará una vez finalizada la etapa de pruebas con usuarios reales y técnicos certificados.
+-    **Who (Quién):** El equipo fundador está conformado por jóvenes emprendedores enfocados en tecnología, sostenibilidad y desarrollo social. Fix Now está dirigido a usuarios residenciales y pequeñas empresas que necesiten servicios técnicos confiables, y a profesionales independientes que busquen más oportunidades laborales.
+-    **Why (Por qué):** Existe una gran demanda de servicios técnicos confiables, pero también una dificultad para encontrar especialistas disponibles, especialmente en oficios menos comunes. Además, muchas fugas de recursos como agua y luz no se detectan a tiempo, generando gastos innecesarios. Fix Now soluciona ambos problemas con una única plataforma eficiente, útil y sostenible.
+-    **How (Cómo):** Mediante una aplicación intuitiva, los usuarios pueden buscar y contactar profesionales verificados según su ubicación y necesidad. Además, los hogares conectados al sistema de monitoreo podrán recibir alertas cuando se detecten patrones anómalos de consumo de agua o electricidad, permitiendo una rápida intervención.
+-    **How Much (Cuánto):** Fix Now se plantea como un modelo freemium:
+1.- El acceso básico a la plataforma será gratuito para usuarios y profesionales.
+2.- Se cobrará una comisión por cada servicio concretado a través de la app.
+3.- El monitoreo inteligente será parte de un plan premium con suscripción mensual asequible, dependiendo del tamaño del hogar y los sensores instalados.
 
 ### 1.2.2 Lean UX Process
 
