@@ -483,11 +483,11 @@ Con el objetivo de comprender mejor las necesidades, comportamientos y expectati
 ### 2.3.1. User Personas.
 -User persona para el Segmento 1 : Profesionales Tecnicos
 
-<img src="img/UserPersona2.jpg" alt="us1" width=75% />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcItIHcIBWoPWJxJEv7AjhKXO_J0SBOs5QrLd-zelW2FfQzKaAGkr3BmwJuUp_3rJuGvMbdALIlwI_jpHGbpBD8KYTtqu6-66w7Yy9RRBz8kRefW5fuVFtA7REH5CGNHCRjLyuB?key=pBJWG96xHxpH_57aWDst0Zo_" alt="us1" width=75% />
 
 -User persona para el Segmento 2: Clientes
 
-<img src="img/UserPersona1.jpg" alt="us2" width=75% />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcu_sDF3a1cL1LdxDCXsDtAs3_NMy1uH5ejD35vQfpE7Zytbl7PyLRgN1k9BnHo66hsq_R1MWUkQdue2V1-IvyJEo65otbgi2zdTeUGrhjlHXPw3NHcIRIxVcY0nTtHsBBYd9gV?key=pBJWG96xHxpH_57aWDst0Zo_" alt="us2" width=75% />
 
 ### 2.3.2. User Task Matrix.
 
@@ -513,31 +513,31 @@ Con el objetivo de comprender mejor las necesidades, comportamientos y expectati
 ### 2.3.3. User Journey Mapping.
 -Journey Map para el Segmento 1 : Profesionales Tecnicos
 
-<img src="img/JourneyMap1.png" alt="Entrevista1Seg1" width=75% />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfFG1lX-vcOMKc_ipgY0tG60hqeSByWOJiAMmJOtLVd7OXF-iUd58XFpVrqGH3qxJ3WLepsCyb1zi7826iF-330ABRuUFvyeWttyPyYW29Quuvmcs7efl1GkOrVw1jBO5FI_Yi2Yg?key=pBJWG96xHxpH_57aWDst0Zo_" alt="Entrevista1Seg1" width=75% />
 
 -Journey Map para el Segmento 2: Clientes
 
-<img src="img/JourneyMap2.png" alt="Entrevista1Seg1" width=75% />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd0DKNAVKVAgsL9mvG46rSlX64P4hSHFsDcmXf6q8keNx-V3xZyQnph0Y_QkXffiGbw6mjmiW5j1yf4sN2uko8fL4K1z09TQmpX546NlMV7E9WTpTppZ8aFxm8q0_HK0CCaqFuU?key=pBJWG96xHxpH_57aWDst0Zo_" alt="Entrevista1Seg1" width=75% />
 
 ### 2.3.4. Empathy Mapping.
 
 #### User Persona 1: Luis Gutiérrez (Profesional Técnico)
 
-![Empathy mapping u1](./img/Empathy-mapping-1.png)
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfkyY9VbjaAhBHY7SG8T5_WCHUZDtDZ0nAPF77PuV09i04iFeAmlM3F2Geupg4yVYwimARZV88nqt_QbUyVfRkE3C2Kq9K-VDAfUIDSOJ_OwK8tBKlpt4rGke3VWpdqWhzvsFm6yA?key=pBJWG96xHxpH_57aWDst0Zo_">
 
 #### User Persona 2: Mariana Rodríguez (Cliente)
 
-![Empathy mapping u2](./img/Empathy-mapping-2.png)
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcGP6R5uc3hPaZ8lt4RWMeonntLvCpNk8WuCxh9p89I0_loOe7wN-eD-8wBeVBsI7FYz5LUB-uiqwghMv2lAuKkAzqW-5NIbkdp80Y6M_iyWQfD9wDPaeNFjH0dy9Zor4L8nYyxWg?key=pBJWG96xHxpH_57aWDst0Zo_">
 
 ### 2.3.5. As-is Scenario Mapping.
 
 #### User Persona 1: Luis Gutiérrez (Profesional Técnico)
 
-![As-is scenario mapping u1](./img/as-is-scenario-mapping-1.png)
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeA5WpwqvP6cx4utpa3VweOAOb1SaZK8dLteEZ0GkZLgRakMmapYjluRTzsMlIAH9Aes2MEhL1QRSd1FV077V7iuaAZ1GDuVmvLdVjH6bKZOHpRELIVs60hPZEbsj49thfKjPaZaw?key=pBJWG96xHxpH_57aWDst0Zo_">
 
 #### User Persona 2: Mariana Rodríguez (Cliente)
 
-![As-is scenario mapping u2](./img/as-is-scenario-mapping-2.png)
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdixcScLSj8Ao0tn4AZVt2QhbCK6PUgHHOPx8I0rT-RP722lS-57c7S6vWrdBWanYzXBoep0W0VfXDgeNcuufUj2fQm1x4_15XyT-kLBMRprlCO0ctY37UTEd8x4_Inp0iKpbjS7w?key=pBJWG96xHxpH_57aWDst0Zo_">
 
 ## 2.4. Ubiquitous Language.
 
@@ -587,15 +587,15 @@ La identidad de Fix Now se basa en transmitir profesionalismo, eficiencia y cerc
 Para lograr una lectura cómoda y moderna, se seleccionó una combinación de tipografías con diferentes pesos y estilos que permiten estructurar jerarquías claras.
 - Montserrat y Poppins se utilizan en titulares por su robustez y claridad visual.
   
-  <img src="img/letra1.png" alt="1" />
+  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdRuDnrKJoLPZCDREGw_U6AkCRffMeRvJoUZ110c0_Vp9hGxMKQe3KF38c1ReOJThDOyGs03p_sZE56xC4mZ7NMPYc40pik0OQNrDEJ3e_lzK6LhIxpyKDvnx_MCwvu3XF1ph4zuA?key=pBJWG96xHxpH_57aWDst0Zo_" alt="1" />
   
 - Open Sans, DM Sans y Onest están destinados a párrafos y descripciones, aportando legibilidad y neutralidad.
   
-   <img src="img/letra 2.png" alt="2" />
+   <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeYfnWt5RgfkSOnRU8Dg9hSmdFQ-B2fR_HB3vMf68mLy1q1730NYozs_gBG1iHYw2xfty4PiNkNN1sJaAqyq3V5ATCzbYcpkfxE5LPc5o1R7YcgXMu_9w477NE1C0-0LhJbL9aWMA?key=pBJWG96xHxpH_57aWDst0Zo_" alt="2" />
    
 - Tipografías como Playfair Display, Playfair Display SC y Playwrite US Trad se usan en títulos decorativos o frases clave, mientras que Dancing Script aporta un toque más expresivo en elementos visuales que buscan una conexión emocional.
   
-  <img src="img/letra3.png" alt="3" />
+  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf019jzED3eiflwSW0eWRn88kbTcU3pNEqyRQdfBCNBJjvM49hOFTR8tbDAb12cpWVfKdFSlClLd9rD1FnLR2jql4JVe0dyq2_FahcSUW9gF9BhJ4gX4P5GU6Rm4_IAWPx-lXhEuA?key=pBJWG96xHxpH_57aWDst0Zo" alt="3" />
 
 #### Colors
  La paleta cromática fue cuidadosamente seleccionada para proyectar seguridad, eficiencia y modernidad:
@@ -605,31 +605,31 @@ Para lograr una lectura cómoda y moderna, se seleccionó una combinación de ti
 	- #2247C0: azul intenso que denota tecnología y profesionalismo.
 	- #3E72AD: azul medio que aporta frescura y balance.
    
- 	  <img src="img/color1.png" alt="4" />
+ 	  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc1GudLqMQrPKc5lMZxXFPCilUSAm343ipZ1TXpah87yoMuAPbws7Y1x9TBECMnHWDzlEpT4yebL1e3c7Uax_jBXeKHuXC-vhLvYnKpQTfXpXtysoGAptqFmFbl6CSgZBV6bUmi?key=pBJWG96xHxpH_57aWDst0Zo_" />
    	  
 
 - Secundarios:
 	- #42CACA: tono aqua que brinda dinamismo, innovación y frescura.
 	- #FFD900: amarillo brillante para llamados a la acción y elementos importantes.
  
-   	<img src="img/color2.png" alt="5" />
+   	<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd9z0Ao9nvpZUXpZnRvRTVhuZEGd4p27VsGMs6ZGZ4yOUWdsqY6eDfAbbpsSoi17IH4WabXj5C2PnNiiO2e4mZPzqDVRZIfsymL2eGEDJNQzHOCWBTP4pRZE_Wd5gPl_gi1xILE?key=pBJWG96xHxpH_57aWDst0Zo_" />
 
     
 - Neutros:
 	- #000000, #D9D9D9, y #FFFFFF para mantener limpieza visual y contraste en la interfaz.
    
-   	<img src="img/color3.png" alt="u" />
+   	<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdjPadb8KXLuN3cXcC36jz7zHwrCkIR0B6vtQCxlp7Qmu_s-OzHztIss2PJK5rZjmiUowMGeAPE0hT-EcmOiTA0Gd7HWt_oLALDtWOcuG5NXSCiv8QkBT6zGCIFWL2686YXM3OGgg?key=pBJWG96xHxpH_57aWDst0Zo_" />
 
 #### Botones: Los botones de Fix Now son llamativos, accesibles y fáciles de identificar. Tienen esquinas redondeadas, efectos al hacer hover.
-<img src="img/boton.png" alt="y" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe7XMr8bcCrSvwArt1CgUNK6vMlV7BA5kg1DmdLsoyUovVP0j1OZDy8Jse_2yQHUg6GW9JYJNUYMC6qrCsjjmlWaj1_eh9mpWPUPAQhC3Xm9bUOKVvwHaNTMbNH6x88aN9xLjQZ6w?key=pBJWG96xHxpH_57aWDst0Zo_" alt="y" />
 	
 
 #### Iconografia: La iconografía sigue un estilo minimalista y lineal, con íconos fácilmente reconocibles que mejoran la navegación.
-<img src="img/icono.png" alt="7" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfvG1-JgpOuOP1BtP8rIJxr6Tzua9NJMfHN-E90h75-Emy3YaGtx7Qqe8v-QT74CdM529JKQ06HbpF4p6dc6oMVJppkxEwCdoM6IXSrkoQWrZwOppeIIk8-Kwu4oGasvUjdV5dR?key=pBJWG96xHxpH_57aWDst0Zo_" alt="7" />
 
 
 #### Logo:	El logo de Fix Now combina tipografía moderna con un ícono representativo de tecnología y reparación. Refleja los valores de rapidez y confianza.
-<img src="img/logof.png" alt="8" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc7qa8jOaKzjpoJLOlcKyq2HdCEPwADfOYThmGOunVxUYWGwbzdFwi-VU6Ode1MgmGV-YeDEqbS21w5NL0AMbAb5JQSP4N38ALwIXcfGO6RNm81BMQbJYMpNNv190dFOVLXMTBJ8A?key=pBJWG96xHxpH_57aWDst0Zo_" alt="8" />
 
 
 ### 4.1.2. Web Style Guidelines.
@@ -643,7 +643,7 @@ La experiencia web de Fix Now está diseñada pensando en una navegación intuit
 
 Para el diseño de la landing page de Fix Now se utilizó el patrón Z debido a su eficacia en la lectura y escaneo visual en pantallas. Este patrón guía naturalmente la vista del usuario desde la parte superior izquierda hacia la derecha, bajando diagonalmente hasta el extremo inferior izquierdo y finalmente hacia la derecha otra vez, formando una "Z". Al seguir este recorrido visual intuitivo, se mejora la jerarquía de la información, se capta la atención del usuario rápidamente y se optimiza la conversión desde los primeros segundos de interacción.
 
-<img src="img/patronz.png" alt="8" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfYpIYlsFQ5GdnjR8QS2xaiicgiZRlLzjHB15spiuTCHOdw_hcqi_IB8A92TpNqunzskpOh4uhZE4xY0HcI8P9ogmeppd0IyaeK9Vcyfw-aAjaDTZNF-Ngo7th1uVjOr_fSfi3L7g?key=pBJWG96xHxpH_57aWDst0Zo_" />
 
 ## 4.2. Information Architecture.
 La arquitectura de información de Fix Now está estructurada con base en la claridad y facilidad de uso. Se ha diseñado pensando en minimizar la carga cognitiva de los usuarios y permitirles acceder rápidamente a la información o servicio que buscan. La experiencia se adapta tanto para nuevos visitantes como para usuarios frecuentes, brindando un recorrido fluido e intuitivo.
@@ -712,16 +712,16 @@ Se han implementado sistemas de navegación claros, jerárquicos y adaptables se
 
 | Vista Previa Desktop Web Browser | Vista Previa Mobile Web Browser |
 |----------------------------------|----------------------------------|
-| <img src="img/landingwireframe.png" alt="landingwireframe" />  |<img src="img/landingwireframemobile.png" alt="landingwireframe2" width=85 /> |
+| <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfPkpKdp3FPyoVWkqVjfBXrMr5Ix4kzwTRznu0rGG7o2rtf16dH1_xfFFFP28Q7utOU2Jqj93KmZQjFQTbGVlC-AFG8uCxBqdqqdRQZcvj5MgI-hiK3a4zsKvImMQozIvwNmRvnJg?key=pBJWG96xHxpH_57aWDst0Zo_" />  |<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcfKliKVVLG58f9fi8VBQogCErApMPqvcdN4-93hj_r-1IOL6y9gmUb6WJkiVH5uooS5uXwjhPD_A7IYDCInSG2_PJj-vb1IUgQEStqK1ypjGW2V5L1s8rltRCR547Ax6F1Ie7-DQ?key=pBJWG96xHxpH_57aWDst0Zo_" /> |
 
-Link:[https://www.figma.com/design/GizyZC1lEsPasOO3mWmkQI/Untitled?node-id=1-2&t=GSnzJYQiwQ39h97p-1](https://www.figma.com/design/GizyZC1lEsPasOO3mWmkQI/Untitled?node-id=1-2&t=GSnzJYQiwQ39h97p-1)
+-	Link: https://www.figma.com/design/GizyZC1lEsPasOO3mWmkQI/Untitled?node-id=1-2&t=GSnzJYQiwQ39h97p-1
 
 ### 4.3.2. Landing Page Mock-up.
 | Vista Previa Desktop Web Browser | Vista Previa Mobile Web Browser |
 |----------------------------------|----------------------------------|
-| <img src="img/landingMockup.png" alt="landingmockupmobile"  />  |<img src="img/landingmockupmobile.png" alt="landingwireframe2" width=100/> |
+| <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeSbLZSjbebGh1XHhhzWWLJ3efQzk6qdBPovN1-NNIpDQVUZY8l5rTKqnYxxRofnEmzU8OAhkxSq6w91Mis0s02lztjVPaQ5s-HM8epQIKqahMCCiXjC7NRWz73PC90If7oWRvQOQ?key=pBJWG96xHxpH_57aWDst0Zo_"  />  |<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcqH07gDahpawTHCGB6d7HTI7zowm00Qgr1Y3JfUIxhlcFJZ-epS2M6qfueo5nXhWj2_-RlOP7vl-acEuTx2REktRcrr7Q8FNxtuxhibVjwPCEdhZSrUroyNjSItZkD0gnsUdidkQ?key=pBJWG96xHxpH_57aWDst0Zo_" width=100/> |
 
-Link:[https://www.figma.com/design/GizyZC1lEsPasOO3mWmkQI/Untitled?node-id=1-2&t=GSnzJYQiwQ39h97p-1](https://www.figma.com/design/GizyZC1lEsPasOO3mWmkQI/Untitled?node-id=1-2&t=GSnzJYQiwQ39h97p-1)
+-	Link:https://www.figma.com/design/GizyZC1lEsPasOO3mWmkQI/Untitled?node-id=1-2&t=GSnzJYQiwQ39h97p-1
 
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
