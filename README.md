@@ -227,74 +227,47 @@ En esta sección se presenta un glosario de términos y conceptos utilizados en 
 ## 4.1.1 Style Guidelines. 
 Esta sección establece las bases visuales y comunicacionales de Fix Now, garantizando coherencia en toda la experiencia digital. Se crea un repositorio común para el equipo con assets gráficos, fuentes y reglas visuales que mantienen una presentación profesional, accesible y funcional tanto en web como en móvil.
 
-La identidad de Fix Now se basa en transmitir profesionalismo, eficiencia y cercanía. La marca busca posicionarse como una solución tecnológica de confianza para quienes necesitan servicios técnicos de calidad, así como para quienes desean monitorear el consumo de recursos en sus hogares de manera sencilla. Por eso se escogieron los siguientes style guidelines.
-
-- Typography
-Para lograr una lectura cómoda y moderna, se seleccionó una combinación de tipografías con diferentes pesos y estilos que permiten estructurar jerarquías claras.
-Montserrat y Poppins se utilizan en titulares por su robustez y claridad visual.
-
-
-Open Sans, DM Sans y Onest están destinados a párrafos y descripciones, aportando legibilidad y neutralidad.
-
-
-
-- Tipografías como Playfair Display, Playfair Display SC y Playwrite US Trad se usan en títulos decorativos o frases clave, mientras que Dancing Script aporta un toque más expresivo en elementos visuales que buscan una conexión emocional.
-	
-
-
-
-
-
-- Colors
- La paleta cromática fue cuidadosamente seleccionada para proyectar seguridad, eficiencia y modernidad:
-- Primarios:
-
-
-#29405A: azul profundo que transmite confianza y estabilidad.
-
-
-#2247C0: azul intenso que denota tecnología y profesionalismo.
-
-
-#3E72AD: azul medio que aporta frescura y balance.
-
-
-
-- Secundarios:
-
-#42CACA: tono aqua que brinda dinamismo, innovación y frescura.
-
-
-#FFD900: amarillo brillante para llamados a la acción y elementos importantes.
-
-
-
-
-
-- Neutros: #000000, #D9D9D9, y #FFFFFF para mantener limpieza visual y contraste en la interfaz.
-
-
-
-
-- Botones: Los botones de Fix Now son llamativos, accesibles y fáciles de identificar. Tienen esquinas redondeadas, efectos al hacer hover.
-
-
-
-
-- Iconografia: La iconografía sigue un estilo minimalista y lineal, con íconos fácilmente reconocibles que mejoran la navegación.
-
-
-
-
-
-- Logo:	El logo de Fix Now combina tipografía moderna con un ícono representativo de tecnología y reparación. Refleja los valores de rapidez y confianza.
-
-
-
-
 ### 4.1.1. General Style Guidelines.
 
+La identidad de Fix Now se basa en transmitir profesionalismo, eficiencia y cercanía. La marca busca posicionarse como una solución tecnológica de confianza para quienes necesitan servicios técnicos de calidad, así como para quienes desean monitorear el consumo de recursos en sus hogares de manera sencilla. Por eso se escogieron los siguientes style guidelines.
+
+#### Typography
+Para lograr una lectura cómoda y moderna, se seleccionó una combinación de tipografías con diferentes pesos y estilos que permiten estructurar jerarquías claras.
+- Montserrat y Poppins se utilizan en titulares por su robustez y claridad visual.
+- Open Sans, DM Sans y Onest están destinados a párrafos y descripciones, aportando legibilidad y neutralidad.
+- Tipografías como Playfair Display, Playfair Display SC y Playwrite US Trad se usan en títulos decorativos o frases clave, mientras que Dancing Script aporta un toque más expresivo en elementos visuales que buscan una conexión emocional.
+
+#### Colors
+ La paleta cromática fue cuidadosamente seleccionada para proyectar seguridad, eficiencia y modernidad:
+ 
+- Primarios:
+	- #29405A: azul profundo que transmite confianza y estabilidad.
+	- #2247C0: azul intenso que denota tecnología y profesionalismo.
+	- #3E72AD: azul medio que aporta frescura y balance.
+
+- Secundarios:
+	- #42CACA: tono aqua que brinda dinamismo, innovación y frescura.
+	- #FFD900: amarillo brillante para llamados a la acción y elementos importantes.
+- Neutros:
+	- #000000, #D9D9D9, y #FFFFFF para mantener limpieza visual y contraste en la interfaz.
+
+#### Botones: Los botones de Fix Now son llamativos, accesibles y fáciles de identificar. Tienen esquinas redondeadas, efectos al hacer hover.
+
+#### Iconografia: La iconografía sigue un estilo minimalista y lineal, con íconos fácilmente reconocibles que mejoran la navegación.
+
+#### Logo:	El logo de Fix Now combina tipografía moderna con un ícono representativo de tecnología y reparación. Refleja los valores de rapidez y confianza.
+
+
 ### 4.1.2. Web Style Guidelines.
+
+La experiencia web de Fix Now está diseñada pensando en una navegación intuitiva, con elementos visuales bien jerarquizados y adaptados a distintos tamaños de pantalla.
+
+	- Se prioriza la legibilidad y claridad, con títulos grandes, espacios generosos y botones que destacan sobre el fondo.
+	- Los botones tienen esquinas redondeadas, efectos de hover suaves, y cambios de color que comunican interactividad.
+	- Las interfaces están construidas para ser completamente responsive, adaptándose fluidamente a dispositivos como laptops, tablets y pantallas grandes.
+	- Las tarjetas, formularios y paneles están diseñados siguiendo un estilo limpio, con íconos explicativos y elementos interactivos fácilmente reconocibles.
+
+Para el diseño de la landing page de Fix Now se utilizó el patrón Z debido a su eficacia en la lectura y escaneo visual en pantallas. Este patrón guía naturalmente la vista del usuario desde la parte superior izquierda hacia la derecha, bajando diagonalmente hasta el extremo inferior izquierdo y finalmente hacia la derecha otra vez, formando una "Z". Al seguir este recorrido visual intuitivo, se mejora la jerarquía de la información, se capta la atención del usuario rápidamente y se optimiza la conversión desde los primeros segundos de interacción.
 
 ## 4.2. Information Architecture.
 
