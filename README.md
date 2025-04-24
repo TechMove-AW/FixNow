@@ -22,8 +22,10 @@
 | Nombre                              | Código    |
 | ----------------------------------- | ---------- |
 | Bustamante Leveau Cameron Charllotte | u20231a804 |
-| Urrutia Peña Jasmin Adriana          | u202310008 |
-| Hallasi Saravia Miguel Angel | u202312391 |
+| De La Cruz Moreno, Roy Hernan | u202218634 |
+| Hallasi Saravia, Miguel Angel | u202312391 |
+|Muñiz Huayanca , Percy Alonso | u202310008 |
+|Muñiz Huayanca , Percy Alonso | u202319563 |
 
 
 **Ciclo 2025-01**
