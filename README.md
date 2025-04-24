@@ -281,6 +281,7 @@ En esta sección se presenta un glosario de términos y conceptos utilizados en 
 # Capítulo V: Product Implementation, Validation & Deployment
 
 ## 5.1. Software Configuration Management.
+En esta sección el equipo establece las decisiones y convenciones que permitirán mantener la consistencia durante el ciclo de vida. Se incluyen secciones internas para Source Code Management, Development Environment Configuration y Deployment Configuration
 
 ## 5.1.1. Software Development Environment Configuration.
 
