@@ -481,8 +481,30 @@ En esta sección se presenta un glosario de términos y conceptos utilizados en 
 # Conclusiones
 
 ## 6.1 Conclusiones y recomendaciones
-
+TB1: 
+- En este primer entregable, el equipo TechMove ha cumplido con los objetivos establecidos, desarrollando un informe exhaustivo que refleja los avances del proyecto y creando una landing page funcional y estéticamente agradable. A través de un enfoque meticuloso y bien estructurado, se ha logrado comunicar de manera clara los beneficios del producto a los usuarios, estableciendo una base sólida para el desarrollo futuro del proyecto. Este paso inicial asegura que la estructura y visión de TechMove se transmitan con precisión, facilitando la progresión hacia fases más complejas.
 
 # Bibliografía
 
+- The Markdown Guide. (s.f.). The Markdown Guide. Recuperado de [https://www.markdownguide.org/ ](https://www.markdownguide.org/)
+
+- Tamim, N. (s.f.). How to use PlantUML with Markdown [Gist]. GitHub. Recuperado de [https://gist.github.com/noamtamim/f11982b28602bd7e604c233fbe9d910f ](https://gist.github.com/noamtamim/f11982b28602bd7e604c233fbe9d910f)
+
+- Structurizr. (s.f.). Embedding diagrams. Recuperado de [https://docs.structurizr.com/cloud/embed ]https://docs.structurizr.com/cloud/embed
+
+- Mendel, J. (s.f.). Seriously, what’s your (startup’s) problem? Medium. Recuperado de [ https://medium.com/@jakemendel/seriously-whats-your-startup-s-problemb3a884c54ab4](https://medium.com/@jakemendel/seriously-whats-your-startup-s-problemb3a884c54ab4)
+
+- ProgresSA Lean. (s.f.). 5W+2H - Técnica de análisis de problemas. Recuperado de [https://www.progressalean.com/5w2h-tecnica-de-analisis-de-problemas/ ](https://www.progressalean.com/5w2h-tecnica-de-analisis-de-problemas/)
+
+- W3Schools. (s.f.). HTML Style Guide and Coding Conventions. Recuperado de [https://www.w3schools.com/html/html5_syntax.asp ](https://www.w3schools.com/html/html5_syntax.asp)
+
+- Google. (s.f.). Google HTML/CSS Style Guide. Recuperado de [https://google.github.io/styleguide/htmlcssguide.html ](https://google.github.io/styleguide/htmlcssguide.html)
+
+- SpecFlow. (s.f.). Gherkin Conventions for Readable Specifications. Recuperado de [https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/ ](https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/)
+
+- Tune, N. (s.f.). Domain-Driven Architecture Diagrams. Medium. Recuperado de [https://medium.com/nick-tune-tech-strategy-blog/domain-driven-architecture ](https://medium.com/nick-tune-tech-strategy-blog/domain-driven-architecture)
+
 # Anexos
+Video TB1: [https://drive.google.com/drive/folders/1FYpaCOuHbd2BEJQIOvsucBLAkW1WAv82?usp=sharing](https://drive.google.com/drive/folders/1FYpaCOuHbd2BEJQIOvsucBLAkW1WAv82?usp=sharing)
+Informe de Participacion: [https://docs.google.com/document/d/1k1vP93oioMjgFpdE4xLzgPQv96H5MYqSUJ3iejzpEWo/edit?usp=sharing](https://docs.google.com/document/d/1k1vP93oioMjgFpdE4xLzgPQv96H5MYqSUJ3iejzpEWo/edit?usp=sharing)
+Link PPT:  [https://www.canva.com/design/DAGlhH0TIek/whdxIiLgy_T4ruGcK8JMyg/edit?utm_content=DAGlhH0TIek&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGlhH0TIek/whdxIiLgy_T4ruGcK8JMyg/edit?utm_content=DAGlhH0TIek&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
