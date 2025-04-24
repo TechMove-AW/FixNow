@@ -285,6 +285,39 @@ En esta sección el equipo establece las decisiones y convenciones que permitir�
 
 ## 5.1.1. Software Development Environment Configuration.
 
+El equipo utiliza diversas herramientas en cada etapa del trabajo, desde la planificación hasta la ejecución y finalización del proyecto
+
+**Herramientas usadas:**
+
+**WhatsApp:** Aplicación de mensajería instantánea, disponible para Android e iOS. Es parte de Meta y cuenta con una versión web. [https://www.whatsapp.com/].
+
+**Discord:** Aplicación que permite la creación de un servidor que permite la creación de salas [https://discord.com/].
+
+#### Project Management
+
+**Trello:** Se utilizará para gestionar el Product Backlog, planificar los sprints y organizar las tareas. Trello permite a los miembros del equipo visualizar el progreso, gestionar prioridades y facilitar la colaboración mediante tableros y listas.  
+**Beneficio:** Facilita la visibilidad del estado de cada tarea, mejora la planificación y permite una mayor agilidad en la ejecución de los sprints.
+
+#### Requirements Management
+
+- **Miro:** Ayudará a administrar ideas, gestionar User Stories y planificar requisitos. Es una herramienta visual colaborativa que permite crear diagramas y mapas conceptuales.  
+  **Beneficio:** Mejora la claridad y alineación entre los stakeholders, permite la rápida iteración y evaluación de ideas, y ayuda a consolidar los requisitos del producto.
+
+#### Software Development
+
+-    **WebStorm:** Un IDE especializado en el desarrollo de aplicaciones web con tecnologías como JavaScript, HTML, CSS y Vue.js.
+    **Beneficios:** WebStorm ofrece características avanzadas como el autocompletado de código, depuración en tiempo real e integración con herramientas de control de versiones como Git, mejorando la productividad del equipo de frontend.
+-    **Angular**: Framework de desarrollo web basado en TypeScript, utilizado para crear aplicaciones web dinámicas, escalables y de alto rendimiento.
+    **Beneficios:** Angular ofrece una arquitectura robusta basada en componentes reutilizables, inyección de dependencias y enlace bidireccional de datos, lo que permite desarrollar interfaces ricas de manera estructurada. Además, su CLI (Command Line Interface) facilita la generación de código, pruebas y               despliegue, mejorando la eficiencia del equipo de desarrollo.
+-    **Github**: Plataforma para la gestión del código fuente, donde se integrará el código a través del control de versiones. Permite la colaboración en equipo y un flujo de trabajo ordenado mediante pull requests, revisiones de código, y la implementación de integraciones continuas.
+    **Beneficios:** GitHub asegura la trazabilidad de los cambios en el código, ofrece control sobre versiones estables y facilita la colaboración entre desarrolladores
+
+#### Software Testing
+
+-    **Google Drive:** Herramienta colaborativa para documentar 
+    **Beneficios:** Proporciona una plataforma para la creación de documentación técnica y pruebas en equipo
+
+
 ### 5.1.2. Source Code Management.
 
 ### 5.1.3. Source Code Style Guide & Conventions.
