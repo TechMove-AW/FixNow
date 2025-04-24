@@ -320,17 +320,17 @@ El equipo utiliza diversas herramientas en cada etapa del trabajo, desde la plan
 
 ### 5.1.2. Source Code Management.
 
-El equipo utilizará GitHub como plataforma de control de versiones, apoyado en el sistema Git. Esta herramienta facilita la colaboración entre los miembros del equipo, permitiendo trabajar de forma simultánea y organizada.
-Enlace al repositorio Gihub: https://github.com/TechMove-AW/FixNow  
-Enlace al landing page: https://github.com/TechMove-AW/FixNow-LandingPage 
-**Flujo de trabajo con GitFlow**
+El equipo utilizará GitHub como plataforma de control de versiones, apoyado en el sistema Git. Esta herramienta facilita la colaboración entre los miembros del equipo, permitiendo trabajar de forma simultánea y organizada.<br>
+Enlace al repositorio Gihub: https://github.com/TechMove-AW/FixNow  <br>
+Enlace al landing page: https://github.com/TechMove-AW/FixNow-LandingPage <br>
+**Flujo de trabajo con GitFlow**<br>
 Para el control de versiones se adoptará el modelo GitFlow, descrito por Vincent Driessen, el cual establece una estructura clara para el desarrollo colaborativo mediante ramas específicas:
 -    **main:** Rama principal que contiene las versiones estables del proyecto.
 -    **develop:** Rama donde se integran las nuevas funcionalidades antes de pasar a producción.
--    **Feature:** Ramas individuales para cada funcionalidad nueva. Se derivan desde develop y se nombran siguiendo el formato feature/nombre-descriptivo.
-**Conventional Commits**
-Para mantener un historial de commits claro y estructurado, se empleará la convención Conventional Commits, que utiliza el siguiente formato:
-Ejemplos de tipos comunes:
+-    **Feature:** Ramas individuales para cada funcionalidad nueva. Se derivan desde develop y se nombran siguiendo el formato feature/nombre-descriptivo.<br>
+**Conventional Commits** <br>
+Para mantener un historial de commits claro y estructurado, se empleará la convención Conventional Commits, que utiliza el siguiente formato:<br>
+Ejemplos de tipos comunes:<br>
 -    **feat:** Nueva funcionalidad
 -    **fix:** Corrección de errores
 -    **docs:** Cambios en la documentación
