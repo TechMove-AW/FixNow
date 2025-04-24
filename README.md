@@ -988,12 +988,12 @@ En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
 
 **Segmento 1: User**
 
-![USER](https://github.com/user-attachments/assets/ceb0bc33-82ce-410f-84ce-cb33fab8fc41)
+![USER](https://github.com/user-attachments/assets/c143b85e-5f11-440c-ba69-79189ef95c82)
 
 
 **Segmento 2: Tecnico Profesional**
 
-![TECNICO](https://github.com/user-attachments/assets/6090b25c-cf11-4741-b3ad-42b1b5bfe986)
+![TECNICO](https://github.com/user-attachments/assets/c5a17f58-d5be-4b7e-a077-8393420c8cfb)
 
 
 ## 3.4. Product Backlog.
