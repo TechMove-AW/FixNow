@@ -348,8 +348,31 @@ Link:[https://www.figma.com/design/GizyZC1lEsPasOO3mWmkQI/Untitled?node-id=1-2&t
 Link:[https://www.figma.com/design/GizyZC1lEsPasOO3mWmkQI/Untitled?node-id=1-2&t=GSnzJYQiwQ39h97p-1](https://www.figma.com/design/GizyZC1lEsPasOO3mWmkQI/Untitled?node-id=1-2&t=GSnzJYQiwQ39h97p-1)
 
 ## 4.4. Web Applications UX/UI Design.
-
 ### 4.4.1. Web Applications Wireframes.
+
+
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf366wweEsS-YOr4r_vYD_n2Q5ri0l4LWCcwYQTsKGpfgIGQNIOGBXOJl7QYbjKNjl2PNrqFQQgW7AsaIrTtl58sZg1q4_57r6A4PNtGTdibEumr59o0Noly5QC-T2pU-QamoXHLw?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcZ1KCk_miLxUdroC6qyfHcuLwdfq_veOXb6OGGn2cRX6QoIKtDOxJQeYROGpG1R_o2lhYYfWKQLSQA1i-L70-pD3ihTDnSEmhq9tO07LmTEwI-2E_BINRTKZEkpjnW7Ia9ezcicw?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcah65r9ZEJFfKYDmC5D3LLBILdJdtGx0XK9dw-KGmFKh_hZGQzy7k5xDWGvKBY54SOyWVHWEEOWdphOJqIrauy8akIgJKBkx9hqWLcCTARnEIVNzNBpvKmLKNTzcU533y4iPhlEQ?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfvl6UaD_7U9RTwfo7m8U2fLDlGIxnHXkqe0naGyZrz4haQadLL7aLi24wgcf-mLTR9oIwPTwDeFdTm_GiLpGnCipWcaUkG-g76PVAutr88mMeEMSLItTpAoHzBQTPo2tpC0s4S7A?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeBDlyhYJtZxmPBA-qu--zB4IO0aTwXGLlw9A24euVxDMZ8NEjkaMXjg_9krFEjYpUmFMJW0GsYgw-L48taUIvHwGCcznu-F7j9_Izgjwpe5RwR5ohph5ZYd8JZ0YnuyjIP51kz?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe8gr5sEAgLeB-Q-ydz2Yvm1wfMteAmAfl4gYrymNTFEWSjpE3Fx4MPOI7eXk5AwJl3YqiuSkgR0RNSaUmvmoDcGT38tGbpdbbF6_q7bkBns6NxtSYfYrPUpUXafbToO1WsDiP_?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfGoyeywgf2YYGUqegR1uAJaOo-2gBNYAOS6oLicLLnpp2Yp1eFuC-J1a0vl4uO17Ne0Dc5arLIhJKKUrnmvjl1-JASLLrw603Kko3x8xqSJxoDo3LPZmA2oDln6HohCvxjP6snng?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcNR40v0yBN73cYH64reZTZX4YWFzygXrKfZaoPSwz_hspiU7xA9cltcnzWIp0LEg6-DtFIjonYnu3tI1eoGKaOzHO3fNzzy-3UJdHZLuYC_al5bbLJdKInoUqb8or-r3iatXWnLg?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcgDDaS0qGVGV5Qe9-GJPCg1y3stQG0ce1R_f3Va0EUzhTfJ4sJIfRJ0hCBlc_E6eUOjGlTP2InHFjQot6AaG0O4OvRKujwxgZA9Zp-dwvi5qrMB17zRIiymbJHvZ5F4P2OjbPvjw?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdfF3aG7sRyy4Afi-hDmu-kTpwWY46A4j8wUagxiA7dawBV2b9plXWjc5LlopcwP4qj2Y8UEP1rIaazosrxbr5z0iV0islkb5fmm4IbD3AL58hVv1RXrJNSYK2IPIViq26H5iDjag?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdcMeXfRo915vPrLl2U3v3kNIQwc6PpaQippLL7M043pgUBoA8geU6sl_9rW5Gb-xzlxjXo25YDm9yVzqg9mOeqVJllUfRjUv5o1bUq2IjigXIEpWv_YoIe3BV5pf_wOwf5ix_-Hw?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf0s538TKV5r7gwIUbO_vv3HgTmtEsRdmBd633NqG2_LxzgrajurUU3oRAnWoddsA3i4bRKh_3yihOQsW2kAHJ02qz3VT0KuMhKHRZ9Gcw7df_Oh8s1aw_LdyxZ-SOXXSuIJCwr?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXezSrtJSb-rnTDCbXAqNek76GdRsh91VS3yH-KUypzb6EHCBNTKk2Yd0TVtBBbD2XlU4SavXwWVdjWhT7WIBclqtLlAhkEkFE4sio9KRdVwXUOKYlwG8Utq_sffDMOqVNA386fryw?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcOzhOQS7EEak3TrpfrQG4jAaND3h6orLF0RUfFA0-Sj0VsKTt5BTHmuB93xJxyN2fqkqZTF-3tfA6JIaJOwsQ5pBbn4ljPEcOuQP6_ODVezSz711oa9Ely68q1de5-m-yKOSzrmg?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd-tlxr4nCHXFVk6YPZYkxCHfa677RP2O8cHVdRKbEpr5IHJqE_FFoI2cYIfiwL8n6C2zxUY5nYc5chJmIbCYN_s3NCVjktjQFUtYKabH2hXBM3xuGUQBY4YdCKP1BMcYiLN7XX?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe3ryWTuiFM9XhBqovzVIdlRMRpjJ85ZYU_ntpiVAkOb54-fMUK0_jzD5nerX3mm9y28Xgoixnl3NbCk3NFa2l8jIv6oJDGmgsHfwTC_YAVnmANhlWzJHHDP0snx8-ADuKLcPSysQ?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfX9_9rfCBJm3n3W-MHNWFJhX33d5_4VnRPRz-PJ6EkmqU8mDhjzg_GI97Kbo_xqGJPhXGbJYP0lNCIwQ5sWL8YeKCJXiHVPw4xMwMsYGC87m0RyQkvd1G3ozZV2NqhQaiXMVI2?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeJb0vFO83ae9e50tMiyYs1M1M02KQttWJQ9jRgGlHu6oLEbxZQluZpZF_JHj6vjzb2glGSQBSeuYFmaE3cL5oLJhLSuq-OnNWuL0rhCyJIMr8URgpp4vkd7ChdAe8XDivWk3akzA?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdjhLPuTBxU5akIRWO0BGPRWKWnxa8TkI0wNtUvHvEcR183_aRS7F1KmW0IAfrYF6VfAwM7bP-IHK9_sGF10YejNSHAOdVsPtoaOMiyJNwxnn7CjJVBQaiaQCXAIGwXeDCSYYUI?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcGfJPDm3b4TD0IgptcaxfrjvP2sVefgPpfCwwWiEXxSowd5IElgiqPK8jAEeD4Xc8ZpHnfwulv6fN64xyL44aeBo6pJ9ss2zq40tLD6BQPO80zOhppb7yOh9cI223nGVF23PLxKg?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcwFzt2YeyK3mH0GlTZm5-uMtvkQnNzyMDRUgXtpeYTfysNc-FakSgpvzY7oawDlY75Zs16-ucYZ5CFX3IGgPXxFn9-hSnao9Lnj4tq7Gk9G3iC3AmS2EEkaFISnRDbc_j8Xv94?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXePY_v8DbEqXj3GqRWscCJMmslb38OuAo0g8acWlyzL2LhG7sLHM1wKpCY5cs-44QgTLngBKQBDJyLQuPR0yc-IbIOhqD_9TaxHHg_MqLqy_SKbRD-P2QyNy9bAMp0s9odbhJ1M3w?key=7rHwqlj_RdIsExdWTIYPrLCO" />
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
