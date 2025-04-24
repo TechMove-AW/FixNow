@@ -354,6 +354,21 @@ El equipo adoptará guías de estilo y convenciones para asegurar que el código
 -    Guía de estilo: Se aplicarán las Gherkin Conventions for Readable Specifications. Gherkin es un lenguaje de especificación utilizado para escribir pruebas automatizadas de comportamiento (BDD). Esta guía proporciona recomendaciones para escribir características y escenarios de manera clara y comprensible, facilitando la colaboración entre desarrolladores y no desarrolladores.<br>
 
 ### 5.1.4. Software Deployment Configuration.
+La configuración del despliegue garantizará que las aplicaciones se ejecuten de manera eficiente y sin errores en los entornos de producción. Se implementarán las siguientes prácticas y herramientas para asegurar un proceso de despliegue ágil, fiable y automatizado:<br>
+-    **Landing Page:**<br>
+    -    **Plataforma de Despliegue:** La página de aterrizaje será desplegada en GitHub, aprovechando su integración directa con el control de versiones de GitHub. Esto permite que el contenido sea publicado y actualizado automáticamente en el dominio asociado.<br>
+    -    **Flujo de Trabajo CI/CD:** Se implementará un flujo de trabajo de Integración y Despliegue Continuos (CI/CD). Cada vez que se realice un push en la rama principal (main o master), GitHub Actions se encargará de construir y desplegar la página automáticamente. Esta integración continua asegura que los cambios en el código se reflejen de inmediato en el entorno de producción sin intervención manual.<br>
+
+
+**Integrantes del equipo:**
+
+| **Correo Electrónico**          | **Nombre Completo**              |
+|---------------------------------|----------------------------------|
+| U20231a804@upc.edu.pe           | Bustamante Leveau, Cameron Charllotte       |
+| u202218634@upc.edu.pe           | De La Cruz Moreno, Roy Hernan |
+| u202312391@upc.edu.pe           | Hallasi Saravia, Miguel Angel     |
+| U202319563@upc.edu.pe           | Muñiz Huayanca .Percy Alonso  |
+| U202310008@upc.edu.pe           | Urrutia Peña, Jasmin Adriana|
 
 ## 5.2. Landing Page, Services & Applications Implementation.
 
