@@ -399,6 +399,35 @@ El primer sprint se planificó durante una reunión en discord. Para ello, se cr
 #### 5.2.1.4. Development Evidence for Sprint Review.
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
+En esta parte se presentará el progreso alcanzado durante el primer sprint, enfocado en la implementación de la Landing Page estática. Para ilustrar este avance, se ha creado el siguiente video
+
+URL del video:https://youtu.be/O4TpwVee8DY <br>
+
+* Fix Now pestaña principal <br>
+
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc1vffCnKtWxyKyabvTnqGrkmY9RbBsEH5gJ3_wHDgkF35dNwHzIHmkvoO8jilHQe_CZbsfE6k7fnT0K8p-LTYb6aWrEb2a46RbRpaoxjoM3yoUvl2qcmE7eXH8z1Pgl1DEjF4npg?key=fxuJ81i7FgPCpYxPYy6v26h7" />
+
+* Ver mas<br>
+
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfgXzXgXI2yEo4iP_Yhfosk7sHYD9S2kfHxyrGmdB1NIRFkjyYl_A2VpyiX8-2DcuZ-qPz_WKCPdZNUksBfNl18-_iUpTjQv8hcUTtsviXrgjbGvopYtBVGi-VFkqWFpdYTYVPclQ?key=fxuJ81i7FgPCpYxPYy6v26h7" />
+
+* Servicios<br>
+
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXePwgZyTGcWr-K506vpd4DiH-HRbjCXczNmZcqitOTBen9AjBVJmLyTicSnAgv3j3QGV784QhfwoxuBh30ZH26gTpG8Z7rONPQPiJzVnRHneH13galQ1N9cY6K8nbvlb79C5zFY0Q?key=fxuJ81i7FgPCpYxPYy6v26h7" />
+
+* Producto Iot <br>
+
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe8EwToUUlxro1SvHxi-4-mgCY5Kv9y43rvZAiw-IBSlIxKFk_OQzVtqymYmOaMqSXc6aF-vdLVdG4hLaguBuEd9cDBkaNZd81TbCjb0ShUYguAJ1zUECzQh1CGODawAu7MZfzA?key=fxuJ81i7FgPCpYxPYy6v26h7" />
+
+* Testimonios <br>
+
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc0kWgnuXzSrpClB5M2svdlIPzLCEGxIGNhnWFg66cAfxFx-8Uci5iVVcb7Jy66DWuSTLITlMgCwb7_ZictpvJd_1WYbM9SkrbMf_JLAsFqg8dvjBJw8lymcXbyO7CGBmwI3aNSlA?key=fxuJ81i7FgPCpYxPYy6v26h7" />
+
+* Contacto <br>
+
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf642IOW5WWukP3qlKgqIOTF6IRRY_7gQvO6TbLbfyAYuOtbnerVnS99aFqoq_cA4A0ElMVA5ZII22hhzocIfVLO8NyEFcx96cnfSLz92B5uDTl6zJBOAJA641Ec0KNFqek3tS_KA?key=fxuJ81i7FgPCpYxPYy6v26h7" /> 
+
+
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
