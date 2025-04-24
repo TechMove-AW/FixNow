@@ -146,6 +146,11 @@
 # Capítulo II: Requirements Elicitation & Analysis
 
 ## 2.1. Competidores.
+| Competidor| Descripción| Características| Logo
+|------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|------|
+| **1. Ayfix**     | Conecta a tecnicos con usuarios enfocado mas en limpieza y reparaciones comunes | Canal de distribución principal: Aplicaciones de descarga y paginas web                            |<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfQupxHnI-Nv3HXRk4g3yrOiJyiCWJt9SuBYKHbZyI1FhkSG8v8Yn9j1tG2ElMZ5z8vy-fMJ1CvezZGPVLwA8nb5o5_Qsx8WVNhej_TC1YXp_1RvBROBO2zFKa5lybz9T9snOGzRg?key=7rHwqlj_RdIsExdWTIYPrLCO" />|
+| **2. Servicio Tecnico de empresas como sodimac o Maestro**        | Ofecen mantenimiento del hogar, pero no cuentan con un sistema de monitoreo inteligente en tiempo real | Canal de distribución principal: Pagina web, tienda fisica y atencion telefonica                                   |<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfAk3n-xv8nhRYxZsWZm3wb_QYbbHg8fe9zXodXQVETc1OQTdQihFHRXWWt6ElvAi2wpAwbY98pOZXFSLkLcxlZsaD1y_X4RX6OR35ix_58EQbldSAmt7jF7D2DKb-dEi56HAeDbA?key=7rHwqlj_RdIsExdWTIYPrLCO"/>|
+| **3. Sistemas de domótica (como Google Nest o Xiaomi Home)** | Ofrecen monitoreo inteligente, pero requieren instalación costosa y no están integrados con servicios humanos como técnicos.                                                   | Canal de distribución principal: Canal de distribución principal: Pagina web y tienda física      |<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdonNQaiL2E0e4X5_Uz6KIHTyCuVqdWzz0q550v4adqZF983mpBHpLrvdQB9ZO0WqiqdGk3w1N5lDZ36KeZ8ijedQdV4qTQCD5DnIyMLQNnM-urCB-A8xlJzLkQ5dvk7v7rngffsQ?key=7rHwqlj_RdIsExdWTIYPrLCO"/>|
 
 ### 2.1.1. Análisis competitivo.
 
