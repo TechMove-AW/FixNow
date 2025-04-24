@@ -101,7 +101,9 @@ Los integrantes son:
 **feature**: contiene los cambios constantes realizados por los artefactos relacionados con el sprint 1 del informe.
 
 Los siguientes gráficos representan analíticos de commits en el repositorio del informe. En los gráficos se incluye la cantidad de lineas de texto añadidas por cada integrante del equipo.<br>
-**TB1**
+**TB1**</br> 
+
+<img src= "https://lh7-rt.googleusercontent.com/docsz/AD_4nXceiVKsyXQ-i1jUx1VwWfDzloKWV4CUBkjakMIS4Rn0gmBKMF7lu1LiJL1hsMkN5qhcgMKxm5z2RpUEbJ8wZCMSUO0Wp5honr129BJYSe00HpCuXllOTYFqmyla-MlOogCBs43w?key=pBJWG96xHxpH_57aWDst0Zo_">
 
 ## Student Outcome
 
@@ -471,21 +473,108 @@ Con el objetivo de comprender mejor las necesidades, comportamientos y expectati
 11.    ¿Qué valoraría más en una plataforma como Fix Now? (mayor visibilidad, facilidad de pago, agenda organizada, herramientas de cotización, etc.)
 12.    ¿Qué días y horarios sueles tener más disponibilidad para atender servicios?
 
-
 ### 2.2.2. Registro de entrevistas.
+**Entrevistas segmento 01: Tecnicos Profesionales**
+**Entrevista 1:**
+Datos del entrevistador:
+- Nombre: Percy Alonso Muñiz Huayanca
+  
+Datos del entrevistado:
+- Nombre: Juan Pablo Yataco Juarez
+- Edad: 25 años
+- Distrito de residencia: Surco
+- Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202319563_upc_edu_pe/Ebk-f3Lf-8xIooqn8ik57HMB0SbQZenxnUYfvrt_SroG2w?e=A4DM6V
+  
+![TECNICO 1 ENTREVISTA](https://github.com/user-attachments/assets/d4daebfa-6568-45fe-a3d5-b3fef652c21d)
+
+**Resumen de la entrevista:**
+A partir de la entrevista realizada al usuario Juan Pablo Yataco Juarez, de 25 años y residente en el distrito de Surco, se identificaron importantes insights desde la perspectiva de un técnico electricista que busca mejorar su alcance y posicionamiento profesional. Juan Pablo comentó que uno de los mayores desafíos en su rubro es hacerse conocido y generar confianza entre los potenciales clientes, ya que muchas veces depende únicamente del boca a boca y las recomendaciones informales.
+Al conocer la propuesta de la aplicación Fix Now, expresó un alto nivel de aceptación y entusiasmo. Considera que una plataforma como esta sería muy útil tanto para técnicos como para clientes, ya que permitiría dar visibilidad a su trabajo, demostrar su experiencia y recibir evaluaciones que respalden su profesionalismo. Para él, estar presente en una aplicación confiable representa una oportunidad de promoción, algo similar a una vitrina digital donde puede ofrecer sus servicios con respaldo y seguridad.
+Además, manifestó estar dispuesto a pagar una suscripción mensual, ya que lo ve como una inversión en su crecimiento profesional. “Es como pagar por publicidad que realmente llega a quienes me necesitan”, mencionó. Destacó también que contar con funciones como el historial de servicios, opiniones verificadas de clientes y la posibilidad de chatear directamente con ellos, aportaría transparencia y eficiencia a su labor.
+Finalmente, calificó positivamente la idea de la StartUp Fix Now, felicitando el enfoque innovador y el compromiso por mejorar la conexión entre técnicos y usuarios. Sus comentarios refuerzan la necesidad de incluir requisitos funcionales enfocados en la visibilidad, reputación y facilidad de contacto para los técnicos, así como requisitos no funcionales centrados en la confianza, seguridad y experiencia de usuario dentro de la plataforma.
+
+**Entrevista 2:**
+Datos del entrevistador:
+- Nombre: Percy Alonso Muñiz Huayanca
+  
+Datos del entrevistado:
+- Nombre: Angel Garcia
+- Edad: 24 años
+- Distrito de residencia: Jesus Maria
+- Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202319563_upc_edu_pe/Ed63EY9TPVBKrYVVJoA-MqYBO83-0IpFwuecQshv5pPZWw?e=HeAZXC
+  
+![TECNICO 2 ENTREVISTA](https://github.com/user-attachments/assets/913d2a04-568b-413f-b808-d8a4d6cc30b1)
+
+**Resumen de la entrevista:**
+A partir de la entrevista realizada a Ángel García, plomero de 24 años que vive en el distrito de Jesús María, se recogieron observaciones valiosas desde la mirada de un profesional técnico con experiencia en el rubro. Ángel comentó que, aunque siempre ha trabajado bien y tiene clientes fieles, muchas veces se le complica encontrar nuevas personas que confíen en él, especialmente cuando no lo conocen o no tienen una referencia directa.
+Por eso, cuando se le presentó la propuesta de la plataforma Fix Now, mostró una actitud muy positiva. Le pareció una muy buena idea, ya que considera que sería una excelente manera de mostrar su trabajo, llegar a más personas y hacer crecer su clientela. “Con algo así, la gente puede ver quién soy, qué trabajos he hecho, y confiar más en llamarme”, señaló.
+Ángel también se mostró de acuerdo con pagar una suscripción mensual, ya que lo ve como una forma de invertir en su propio trabajo. “Es como tener un anuncio que está activo todo el tiempo, pero mejor, porque está dentro de una app que la gente usa cuando realmente necesita un técnico”, explicó. Además, valoró funciones como el historial de servicios, las opiniones de los clientes, y la opción de chatear directamente con ellos para coordinar trabajos, lo cual cree que agiliza bastante el proceso.
+Finalmente, Ángel felicitó la iniciativa y dio una calificación muy positiva a la StartUp Fix Now, destacando que ayuda tanto a los profesionales como a los usuarios. Sus comentarios permiten definir requisitos funcionales centrados en mejorar la visibilidad, reputación y facilidad de contacto para los técnicos, así como requisitos no funcionales relacionados con la confianza, la usabilidad y la eficiencia de la plataforma.
+
+**Entrevistas segmento 02: Usuarios Clientes**
+**Entrevista 1:**
+Datos del entrevistador:
+- Nombre: Urrutia Peña, Jasmin Adriana
+  
+Datos del entrevistado:
+- Nombre: Jean Fabio Noriega Collado
+- Edad: 18 años
+- Distrito de residencia: Pueblo Libre
+- Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202319563_upc_edu_pe/EbvrGD-V1SZLlRPR2tkQKXYBeyOyFXmuXU9YfZYKQc9Zwg?e=Wb3yCp
+  
+![USER 1 ENTREVISTA](https://github.com/user-attachments/assets/5e6221a9-f04d-4fe2-b109-ecbc31da0b58)
+
+**Resumen de la entrevista:**
+A partir de la entrevista realizada al usuario Jean Fabio, se identificaron necesidades clave relacionadas con la búsqueda y contratación de servicios técnicos, así como el interés en el monitoreo de recursos en el hogar. El usuario expresó que actualmente recurre a recomendaciones informales, lo que conlleva a problemas como falta de disponibilidad, poca transparencia en precios y desconfianza en los diagnósticos. Mostró una actitud positiva hacia el uso de una aplicación que verifique la identidad y experiencia de los técnicos, que permita visualizar opiniones de otros clientes y gestionar el historial de contrataciones. Asimismo, valoró la posibilidad de monitorear en tiempo real el consumo de agua y electricidad, recibiendo alertas ante posibles fugas, lo cual considera útil especialmente para quienes viven en departamentos con medidores poco confiables. Entre las funcionalidades deseadas resaltó: chat con técnicos, lista de favoritos, historial de servicios y variedad de opciones. Finalmente, mencionó estar dispuesto a pagar una suscripción mensual razonable por estas funcionalidades, siempre que estén claramente diferenciadas del costo de los arreglos. Estas observaciones se traducen en requisitos funcionales y no funcionales clave para el desarrollo de Fix Now.
+
+**Entrevista 2:**
+Datos del entrevistador:
+- Nombre: Percy Alonso Muñiz Huayanca
+  
+Datos del entrevistado:
+- Nombre: Jarol Saquiray Vargas
+- Edad: 23 años
+- Distrito de residencia: Miraflores
+- Enlace:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202319563_upc_edu_pe/ETXao-NHP-xJtGphx-0YxlEBoov9H-qqx4fiThSr4fl20g?e=2nbCNK
+- Duracion de la entrevista: 5 minutos y 15 segundos
+  
+![USER 2 ENTREVISTA](https://github.com/user-attachments/assets/1b44e91d-2a19-4b78-91bf-159342daf83f)
+
+**Resumen de la entrevista:**
+A partir de la entrevista realizada al usuario Jarol Saquiray Vargas, de 18 años y residente en el distrito de Miraflores, se identificaron necesidades clave vinculadas a la búsqueda y contratación de servicios técnicos, así como un fuerte interés por el monitoreo del consumo de recursos en el hogar. Jarol mencionó que usualmente depende de recomendaciones de conocidos o familiares para contactar técnicos, lo cual le ha generado inconvenientes como demoras, falta de claridad en los costos y dudas sobre la veracidad de los diagnósticos que recibe.
+Mostró apertura y entusiasmo hacia el uso de una aplicación que brinde mayor seguridad al momento de contratar, mediante la verificación de identidad y experiencia de los técnicos, la posibilidad de consultar reseñas de otros usuarios, y el acceso a un historial completo de contrataciones pasadas. Además, valoró altamente una funcionalidad que permita el monitoreo en tiempo real del consumo de agua y luz, especialmente útil en edificios con medidores poco precisos. Las alertas ante consumos anómalos o fugas también fueron percibidas como herramientas muy útiles para prevenir gastos innecesarios.
+Entre las funcionalidades que considera importantes destacó: la posibilidad de chatear directamente con los técnicos, guardar contactos frecuentes en una lista de favoritos, y contar con una buena variedad de profesionales disponibles en diferentes rubros. Finalmente, Jarol indicó que estaría dispuesto a pagar una suscripción mensual siempre que las funcionalidades ofrecidas estén bien diferenciadas de los costos propios de los servicios técnicos. Estas percepciones permiten identificar tanto requisitos funcionales como no funcionales esenciales para el diseño y desarrollo de la plataforma Fix Now.
 
 ### 2.2.3. Análisis de entrevistas.
+
+**Análisis segmento 01: Tecnicos Profesionales**
+Por el lado del técnico entrevistado, encontramos que uno de sus principales desafíos es hacerse conocido. Comentó que depende del boca a boca para conseguir clientes, lo que limita su crecimiento. Al conocer Fix Now, vio una gran oportunidad para promocionar su trabajo de forma más profesional. Le gustó la idea de tener un perfil dentro de la app, con opiniones reales de clientes y un historial de trabajos que lo respalde.
+
+También valoró poder chatear directamente con los usuarios y que exista un sistema que le dé visibilidad frente a nuevos clientes. Incluso dijo estar dispuesto a pagar una suscripción mensual, ya que lo considera una inversión en su carrera.
+
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf9rRSOTjJ6B7KLtJ2_4D1LXW_wJKKGw7-RFUg6lvAbrHW2-ldmYQfObVFHBqUl31Wrs9irGoY_eaRBgYKbg_SpbPXsA9LeeV1lPoROWXqBJMom9GRIQWzq669_2MZLpqDvAruV?key=nAxYtxlcX6lKVUaMmr4vPw9d">
+
+**Analisis segmento 02: Usuarios Clientes**
+Los clientes entrevistados coincidieron en que encontrar técnicos de confianza no es fácil. La mayoría recurre a recomendaciones de conocidos, pero esto no siempre funciona. A veces los técnicos no están disponibles, cobran de más o no dan confianza. Todos valoraron mucho la idea de contar con una app que verifique a los técnicos, que muestre opiniones de otros usuarios y que permita tener un historial de los servicios realizados.
+
+También les pareció útil poder comunicarse directamente con los técnicos desde la app, guardar a sus favoritos y tener varias opciones para elegir. Además, mostraron interés en la función de monitoreo de consumo de agua y electricidad, sobre todo quienes viven en departamentos con medidores poco confiables. Poder ver su consumo en tiempo real y recibir alertas en caso de fugas les daría tranquilidad y control sobre sus gastos. Ambos dijeron estar dispuestos a pagar una suscripción mensual si las funciones están bien explicadas y no incluyen los costos del servicio técnico.
+
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd8f62neH4YyXDoR1uTgrdCbeLFkks5UgWu-YOt44Tfy7H9c-KuSWsJ3JCxK4FBFTQZLpIktuQIHQ11C3KqQuJ_WqPFs1qUVC1EPY-h7TQVxK0hpiqE3D9t2L0IUa0IRtlhgp7D?key=nAxYtxlcX6lKVUaMmr4vPw9d">
+
+Conclusión
+En general, las entrevistas confirmaron que Fix Now responde a necesidades reales. Los clientes buscan seguridad, transparencia y facilidad. Los técnicos necesitan herramientas para crecer profesionalmente y llegar a más personas. Ambos segmentos mostraron interés en la propuesta y en las funcionalidades planteadas, lo cual refuerza el valor de la plataforma que estamos construyendo.
+
 
 ## 2.3. Needfinding.
 
 ### 2.3.1. User Personas.
 -User persona para el Segmento 1 : Profesionales Tecnicos
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcu_sDF3a1cL1LdxDCXsDtAs3_NMy1uH5ejD35vQfpE7Zytbl7PyLRgN1k9BnHo66hsq_R1MWUkQdue2V1-IvyJEo65otbgi2zdTeUGrhjlHXPw3NHcIRIxVcY0nTtHsBBYd9gV?key=pBJWG96xHxpH_57aWDst0Zo_" alt="us2" width=75% />
 
-<img src="img/UserPersona2.jpg" alt="us1" width=75% />
 
 -User persona para el Segmento 2: Clientes
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcItIHcIBWoPWJxJEv7AjhKXO_J0SBOs5QrLd-zelW2FfQzKaAGkr3BmwJuUp_3rJuGvMbdALIlwI_jpHGbpBD8KYTtqu6-66w7Yy9RRBz8kRefW5fuVFtA7REH5CGNHCRjLyuB?key=pBJWG96xHxpH_57aWDst0Zo_" alt="us1" width=75% />
 
-<img src="img/UserPersona1.jpg" alt="us2" width=75% />
 
 ### 2.3.2. User Task Matrix.
 
@@ -511,31 +600,31 @@ Con el objetivo de comprender mejor las necesidades, comportamientos y expectati
 ### 2.3.3. User Journey Mapping.
 -Journey Map para el Segmento 1 : Profesionales Tecnicos
 
-<img src="img/JourneyMap1.png" alt="Entrevista1Seg1" width=75% />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfFG1lX-vcOMKc_ipgY0tG60hqeSByWOJiAMmJOtLVd7OXF-iUd58XFpVrqGH3qxJ3WLepsCyb1zi7826iF-330ABRuUFvyeWttyPyYW29Quuvmcs7efl1GkOrVw1jBO5FI_Yi2Yg?key=pBJWG96xHxpH_57aWDst0Zo_" alt="Entrevista1Seg1" width=75% />
 
 -Journey Map para el Segmento 2: Clientes
 
-<img src="img/JourneyMap2.png" alt="Entrevista1Seg1" width=75% />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd0DKNAVKVAgsL9mvG46rSlX64P4hSHFsDcmXf6q8keNx-V3xZyQnph0Y_QkXffiGbw6mjmiW5j1yf4sN2uko8fL4K1z09TQmpX546NlMV7E9WTpTppZ8aFxm8q0_HK0CCaqFuU?key=pBJWG96xHxpH_57aWDst0Zo_" alt="Entrevista1Seg1" width=75% />
 
 ### 2.3.4. Empathy Mapping.
 
 #### User Persona 1: Luis Gutiérrez (Profesional Técnico)
 
-![Empathy mapping u1](./img/Empathy-mapping-1.png)
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfkyY9VbjaAhBHY7SG8T5_WCHUZDtDZ0nAPF77PuV09i04iFeAmlM3F2Geupg4yVYwimARZV88nqt_QbUyVfRkE3C2Kq9K-VDAfUIDSOJ_OwK8tBKlpt4rGke3VWpdqWhzvsFm6yA?key=pBJWG96xHxpH_57aWDst0Zo_">
 
 #### User Persona 2: Mariana Rodríguez (Cliente)
 
-![Empathy mapping u2](./img/Empathy-mapping-2.png)
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcGP6R5uc3hPaZ8lt4RWMeonntLvCpNk8WuCxh9p89I0_loOe7wN-eD-8wBeVBsI7FYz5LUB-uiqwghMv2lAuKkAzqW-5NIbkdp80Y6M_iyWQfD9wDPaeNFjH0dy9Zor4L8nYyxWg?key=pBJWG96xHxpH_57aWDst0Zo_">
 
 ### 2.3.5. As-is Scenario Mapping.
 
 #### User Persona 1: Luis Gutiérrez (Profesional Técnico)
 
-![As-is scenario mapping u1](./img/as-is-scenario-mapping-1.png)
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeA5WpwqvP6cx4utpa3VweOAOb1SaZK8dLteEZ0GkZLgRakMmapYjluRTzsMlIAH9Aes2MEhL1QRSd1FV077V7iuaAZ1GDuVmvLdVjH6bKZOHpRELIVs60hPZEbsj49thfKjPaZaw?key=pBJWG96xHxpH_57aWDst0Zo_">
 
 #### User Persona 2: Mariana Rodríguez (Cliente)
 
-![As-is scenario mapping u2](./img/as-is-scenario-mapping-2.png)
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdixcScLSj8Ao0tn4AZVt2QhbCK6PUgHHOPx8I0rT-RP722lS-57c7S6vWrdBWanYzXBoep0W0VfXDgeNcuufUj2fQm1x4_15XyT-kLBMRprlCO0ctY37UTEd8x4_Inp0iKpbjS7w?key=pBJWG96xHxpH_57aWDst0Zo_">
 
 ## 2.4. Ubiquitous Language.
 
@@ -561,16 +650,597 @@ En esta sección se presenta un glosario de términos y conceptos utilizados en 
 # Capítulo III: Requirements Specification
 
 ## 3.1. To-Be Scenario Mapping.
+Aquí se expone el análisis de los escenarios, organizando una tabla que detalla la situación que necesita ser optimizada para el segmento objetivo. Se examinan los pasos a seguir y se describe cómo se perciben.
+
+**Segmento 1: Tecnico Profesional**
+
+![MAPPING TECNICO](https://github.com/user-attachments/assets/ec3618bf-93da-41e8-8e83-fed3298c9c61)
+**Segmento 1: User**
+
+![MAPPING USER](https://github.com/user-attachments/assets/e9e2515d-70f9-4953-b919-0b723551ed6e)
 
 ## 3.2. User Stories.
+Los user Stories (historias de ususario) son descripciones cortas que nos ayuda a identificar las funcionalidades desde la perspectiva del usuario final y como desarrollador. Acontinuación, listaremos los user stories necesarias para nuestro Startup. 
 
-### 3.2.3 User Stories
-
-### 3.2.4 Technical Stories
-
+<table border="1px">
+    <tr>
+      <th>Epic / Story ID</th>
+      <th>Título</th>
+      <th>Descripción</th>
+    </tr>
+    <tr>
+      <td>EP01</td>
+      <td>Registro y Gestión de Perfil de Usuario</td>
+      <td>Como usuario (cliente o técnico) de Fix Now, quiero crear, visualizar, editar y gestionar mi perfil para tener mis datos actualizados y poder utilizar la plataforma correctamente.</td>
+    </tr>
+    <tr>
+      <td>EP02</td>
+      <td>Búsqueda y Contacto de Profesionales</td>
+      <td>Como cliente, quiero buscar profesionales por especialidad, ubicación y reputación, y contactarlos fácilmente para solicitar sus servicios.</td>
+    </tr>
+    <tr>
+      <td>EP03</td>
+      <td>Gestión de Servicios Técnicos (para Profesionales)</td>
+      <td>Como profesional técnico, quiero gestionar mi perfil de servicios, disponibilidad y recibir solicitudes de trabajo a través de la plataforma.</td>
+    </tr>
+    <tr>
+      <td>EP04</td>
+      <td>Monitoreo Inteligente del Hogar (para Clientes)</td>
+      <td>Como cliente con el dispositivo IoT, quiero visualizar el consumo de agua y electricidad en tiempo real y recibir alertas de posibles anomalías.</td>
+    </tr>
+    <tr>
+      <td>EP05</td>
+      <td>Gestión de Solicitudes y Contrataciones</td>
+      <td>Como cliente, quiero gestionar mis solicitudes de servicio, ver el estado de las contrataciones y realizar pagos de forma segura. Como profesional, quiero gestionar las solicitudes recibidas y confirmar los trabajos.</td>
+    </tr>
+    <tr>
+      <td>EP06</td>
+      <td>Sistema de Calificaciones y Reseñas</td>
+      <td>Como cliente, quiero calificar y dejar reseñas sobre los servicios o profesionales, y ver las calificaciones y reseñas de otros para tomar decisiones informadas.</td>
+    </tr>
+    <tr>
+      <td>EP07</td>
+      <td>Gestión del Plan Premium y Dispositivo IoT</td>
+      <td>Como cliente, quiero suscribirme al plan premium, gestionar mi suscripción y configurar el dispositivo IoT para el monitoreo.</td>
+    </tr>
+  </table>
+  
+  <table border="1px">
+      <tr>
+          <th>Epic / Story ID</th>
+          <th>Título</th>
+          <th>Descripción</th>
+          <th>Criterios de Aceptación</th>
+          <th>Relacionado con (Epic ID)</th>
+      </tr>
+      <tr>
+          <td>US01</td>
+          <td>Registro de Nuevo Usuario (Cliente)</td>
+          <td><b>Como</b> nuevo cliente,
+          <b>Quiero</b> registrarme en la plataforma
+          <b>Para</b> poder buscar y contratar profesionales.</td>
+          <td>
+              <b>Scenario 1: Registro exitoso.</b> <br/>
+              <b>Dado que</b>  soy un nuevo cliente<br/>
+              <b>Cuando</b> ingreso un correo electrónico válido, una contraseña segura y mi ubicación, y acepto los términos y condiciones <br/>
+              <b>Entonces</b> mi cuenta de cliente es creada.<br/>
+              <br>
+              <b>Scenario 2: Registro con datos inválidos </b> <br/>
+              <b>Dado que</b>  soy un nuevo cliente,<br/>
+              <b>Cuando</b> ingreso un correo electrónico inválido o una contraseña débil, <br/>
+              <b>Entonces</b> recibo un mensaje de error indicando qué campos debo corregir.<br/>
+          <td>EP01</td>
+      </tr>
+      <tr>
+          <td>US02</td>
+          <td>Registro de Nuevo Profesional Técnico</td>
+          <td><b>Como</b> nuevo profesional técnico,
+          <b>Quiero</b> registrarme en la plataforma detallando mis especialidades, experiencia y datos de contacto 
+          <b>Para</b> para poder ofrecer mis servicios.</td>
+          <td>
+              <b>Scenario 1: Registro exitoso.</b> <br/>
+              <b>Dado que</b> soy un nuevo profesional, <br/>
+              <b>Cuando</b> ingreso mis datos personales, especialidades, años de experiencia y certificaciones (opcional), y acepto los términos y condiciones <br/>
+              <b>Entonces</b> mi perfil de técnico es creado y está pendiente de verificación (si aplica).<br/>
+              <br>
+              <b>Scenario 2: Registro incompleto. </b> <br/>
+              <b>Dado que</b> que soy un nuevo profesional,<br/>
+              <b>Cuando</b>  no completo todos los campos obligatorios (ej. especialidad), <br/>
+              <b>Entonces</b> recibo un mensaje indicando qué información falta.<br/>
+          <td>EP01</td>
+      </tr>
+      <tr>
+          <td>US03</td>
+          <td>Editar Perfil de Usuario</td>
+          <td><b>Como</b> usuario registrado (cliente o técnico),
+          <b>Quiero</b> poder editar la información de mi perfil (datos de contacto, ubicación, especialidades, tarifas, etc.)
+          <b>Para</b> mantenerla actualizada.</td>
+          <td>
+              <b>Scenario 1: Edición exitosa.</b> <br/>
+              <b>Dado que</b> un usuario registrado, <br/>
+              <b>Cuando</b> modifico un campo de mi perfil y guardo los cambio,<br/>
+              <b>Entonces</b> a información se actualiza correctamente.<br/>
+              <br>
+              <b>Scenario 2: Intento de guardar datos inválidos.</b> <br/>
+              <b>Dado que</b> soy un usuario registrado,<br/>
+              <b>Cuando</b> intento guardar un número de teléfono con un formato incorrecto, <br/>
+              <b>Entonces</b> recibo un mensaje de error.<br/>
+          <td>EP01</td>
+      </tr>
+      <tr>
+        <td>US04</td>
+        <td>Buscar Profesionales por Especialidad y Ubicación</td>
+        <td><b>Como</b> cliente,<br/>
+            <b>Quiero</b> buscar profesionales filtrando por el tipo de servicio que necesito (ej. fontanero) y mi ubicación<br/>
+            <b>Para</b> encontrar opciones cercanas.</td>
+        <td>
+          <b>Scenario 1: Búsqueda con resultados.</b><br/>
+          <b>Dado que</b> necesito un fontanero<br/>
+          <b>Cuando</b> selecciono 'fontanería' y mi ubicación<br/>
+          <b>Entonces</b> veo una lista de fontaneros disponibles en mi zona.<br/><br/>
+          <b>Scenario 2: Búsqueda sin resultados.</b><br/>
+          <b>Dado que</b> necesito un electricista en una zona rural<br/>
+          <b>Cuando</b> selecciono 'electricista' y mi ubicación, y no hay profesionales disponibles<br/>
+          <b>Entonces</b> veo un mensaje indicando que no se encontraron resultados.<br/>
+        </td>
+        <td>EP02</td>
+      </tr>
+      <tr>
+        <td>US05</td>
+        <td>Ver Perfil Detallado del Profesional</td>
+        <td><b>Como</b> cliente,<br/>
+            <b>Quiero</b> ver el perfil de un profesional que incluye su experiencia, calificaciones, comentarios de otros usuarios y tarifas estimadas<br/>
+            <b>Para</b> evaluar su idoneidad.</td>
+        <td>
+          <b>Scenario 1: Ver perfil completo.</b><br/>
+          <b>Dado que</b> he encontrado un profesional en la lista de búsqueda<br/>
+          <b>Cuando</b> hago clic en su nombre<br/>
+          <b>Entonces</b> veo su descripción, años de experiencia, promedio de calificaciones, lista de comentarios y un rango de precios por sus servicios.<br/>
+        </td>
+        <td>EP02</td>
+      </tr>
+      <tr>
+        <td>US06</td>
+        <td>Contactar al Profesional</td>
+        <td><b>Como</b> cliente,<br/>
+            <b>Quiero</b> poder contactar directamente a un profesional a través de la plataforma (ej. enviar mensaje, solicitar cotización)<br/>
+            <b>Para</b> discutir mi necesidad y coordinar el servicio.</td>
+        <td>
+          <b>Scenario 1: Enviar mensaje.</b><br/>
+          <b>Dado que</b> estoy viendo el perfil de un profesional<br/>
+          <b>Cuando</b> utilizo la función de "Enviar mensaje"<br/>
+          <b>Entonces</b> mi mensaje es enviado al profesional.<br/><br/>
+          <b>Scenario 2: Solicitar cotización.</b><br/>
+          <b>Dado que</b> estoy viendo el perfil de un profesional<br/>
+          <b>Cuando</b> utilizo la función de "Solicitar cotización"<br/>
+          <b>Entonces</b> se abre un formulario para detallar mi requerimiento.
+        </td>
+        <td>EP02</td>
+      </tr>
+      <tr>
+        <td>US07</td>
+        <td>Configurar Perfil de Servicios</td>
+        <td><b>Como</b> profesional técnico,<br/>
+            <b>Quiero</b> detallar los tipos de servicios que ofrezco, mi área de cobertura, mis tarifas y mi disponibilidad horaria<br/>
+            <b>Para</b> que los clientes tengan información clara.</td>
+        <td>
+          <b>Scenario 1: Configuración exitosa.</b><br/>
+          <b>Dado que</b> soy un profesional registrado<br/>
+          <b>Cuando</b> edito la sección de "Mis servicios" y guardo los cambios<br/>
+          <b>Entonces</b> mi perfil de servicios se actualiza con la información proporcionada.<br/><br/>
+          <b>Scenario 2: Ingreso de tarifa inválida.</b><br/>
+          <b>Dado que</b> soy un profesional registrado<br/>
+          <b>Cuando</b> intento guardar una tarifa con un formato no numérico<br/>
+          <b>Entonces</b> recibo un mensaje de error.
+        </td>
+        <td>EP03</td>
+      </tr>
+      <tr>
+        <td>US08</td>
+        <td>Recibir y Gestionar Solicitudes de Servicio</td>
+        <td><b>Como</b> profesional técnico,<br/>
+            <b>Quiero</b> recibir notificaciones de nuevas solicitudes de servicio que coincidan con mis especialidades<br/>
+            <b>Para</b> poder aceptarlas o rechazarlas.</td>
+        <td>
+          <b>Scenario 1: Recibir notificación.</b><br/>
+          <b>Dado que</b> un cliente ha solicitado un servicio en mi área y especialidad<br/>
+          <b>Entonces</b> recibo una notificación en la plataforma.<br/><br/>
+          <b>Scenario 2: Aceptar solicitud.</b><br/>
+          <b>Dado que</b> he recibido una solicitud<br/>
+          <b>Cuando</b> la reviso y la acepto<br/>
+          <b>Entonces</b> el cliente es notificado de mi aceptación y la solicitud se marca como "aceptada".<br/><br/>
+          <b>Scenario 3: Rechazar solicitud.</b><br/>
+          <b>Dado que</b> he recibido una solicitud que no puedo atender<br/>
+          <b>Cuando</b> la reviso y la rechazo<br/>
+          <b>Entonces</b> el cliente es notificado de mi rechazo.
+        </td>
+        <td>EP03</td>
+      </tr>
+      <tr>
+        <td>US09</td>
+        <td>Gestionar Disponibilidad</td>
+        <td><b>Como</b> profesional técnico,<br/>
+            <b>Quiero</b> poder indicar los días y horarios en los que estoy disponible para trabajar<br/>
+            <b>Para</b> evitar recibir solicitudes cuando no pueda atenderlas.</td>
+        <td>
+          <b>Scenario 1: Actualizar disponibilidad.</b><br/>
+          <b>Dado que</b> quiero actualizar mi horario de trabajo<br/>
+          <b>Cuando</b> accedo a la sección de disponibilidad y modifico mi calendario<br/>
+          <b>Entonces</b> mi disponibilidad se actualiza en la plataforma.
+        </td>
+        <td>EP03</td>
+      </tr>
+      <tr>
+        <td>US10</td>
+        <td>Visualizar Consumo en Tiempo Real</td>
+        <td><b>Como</b> cliente con el dispositivo IoT instalado,<br/>
+            <b>Quiero</b> ver un panel intuitivo que muestre mi consumo actual de agua y electricidad en tiempo real<br/>
+            <b>Para</b> monitorear mi uso en el momento.</td>
+        <td>
+          <b>Scenario 1: Mostrar datos de consumo.</b><br/>
+          <b>Dado que</b> tengo el dispositivo IoT conectado<br/>
+          <b>Cuando</b> accedo a la sección de monitoreo<br/>
+          <b>Entonces</b> veo gráficos o indicadores con mi consumo actual de agua y electricidad.<br/><br/>
+          <b>Scenario 2: No hay datos disponibles.</b><br/>
+          <b>Dado que</b> el dispositivo IoT está desconectado<br/>
+          <b>Cuando</b> accedo a la sección de monitoreo<br/>
+          <b>Entonces</b> veo un mensaje indicando que los datos no están disponibles.
+        </td>
+        <td>EP04</td>
+      </tr>
+      <tr>
+        <td>US11</td>
+        <td>Recibir Alertas de Consumo Anómalo</td>
+        <td><b>Como</b> cliente con el dispositivo IoT,<br/>
+            <b>Quiero</b> recibir alertas automáticas en mi dispositivo móvil si se detecta un patrón de consumo inusual<br/>
+            <b>Para</b> prevenir posibles fugas o problemas.</td>
+        <td>
+          <b>Scenario 1: Alerta de fuga de agua.</b><br/>
+          <b>Dado que</b> hay un aumento repentino en mi consumo de agua fuera de lo normal<br/>
+          <b>Entonces</b> recibo una notificación en mi celular alertándome sobre una posible fuga.<br/><br/>
+          <b>Scenario 2: Alerta de sobreconsumo eléctrico.</b><br/>
+          <b>Dado que</b> mi consumo eléctrico supera un umbral predefinido<br/>
+          <b>Entonces</b> recibo una notificación alertándome sobre un posible sobreconsumo.
+        </td>
+        <td>EP04</td>
+      </tr>
+      <tr>
+        <td>US12</td>
+        <td>Ver Historial de Consumo</td>
+        <td><b>Como</b> cliente con el dispositivo IoT,<br/>
+            <b>Quiero</b> poder ver un historial de mi consumo de agua y electricidad por día, semana o mes<br/>
+            <b>Para</b> identificar tendencias y optimizar mi uso.</td>
+        <td>
+          <b>Scenario 1: Ver historial diario.</b><br/>
+          <b>Dado que</b> quiero revisar mi consumo de ayer<br/>
+          <b>Cuando</b> selecciono la vista diaria<br/>
+          <b>Entonces</b> veo un gráfico con mi consumo de agua y electricidad por horas.<br/><br/>
+          <b>Scenario 2: Ver historial mensual.</b><br/>
+          <b>Dado que</b> quiero comparar mi consumo de este mes con el anterior<br/>
+          <b>Cuando</b> selecciono la vista mensual<br/>
+          <b>Entonces</b> veo un resumen de mi consumo total por día de cada mes.
+        </td>
+        <td>EP04</td>
+      </tr>
+      <tr>
+        <td>US13</td>
+        <td>Crear Nueva Solicitud de Servicio</td>
+        <td><b>Como</b> cliente,<br/>
+            <b>Quiero</b> poder crear una solicitud de servicio detallando el problema, mi ubicación y adjuntando fotos si es necesario<br/>
+            <b>Para</b> que los profesionales puedan entender mi necesidad.</td>
+        <td>
+          <b>Scenario 1: Solicitud creada con éxito.</b><br/>
+          <b>Dado que</b> necesito un servicio<br/>
+          <b>Cuando</b> completo el formulario de solicitud con la descripción del problema, mi ubicación y adjunto una foto<br/>
+          <b>Entonces</b> mi solicitud es enviada a los profesionales relevantes.<br/><br/>
+          <b>Scenario 2: Falta información obligatoria.</b><br/>
+          <b>Dado que</b> necesito un servicio<br/>
+          <b>Cuando</b> no completo el campo de descripción del problema<br/>
+          <b>Entonces</b> recibo un mensaje indicando que es un campo obligatorio.
+        </td>
+        <td>EP05</td>
+      </tr>
+      <tr>
+        <td>US14</td>
+        <td>Ver Estado de Mis Solicitudes</td>
+        <td><b>Como</b> cliente,<br/>
+            <b>Quiero</b> poder ver el estado de las solicitudes de servicio que he creado (ej. pendiente, en revisión, aceptada, finalizada)<br/>
+            <b>Para</b> estar informado del proceso.</td>
+        <td>
+          <b>Scenario 1: Ver lista de solicitudes.</b><br/>
+          <b>Dado que</b> he creado varias solicitudes<br/>
+          <b>Cuando</b> accedo a la sección de "Mis solicitudes"<br/>
+          <b>Entonces</b> veo una lista con el estado actual de cada una.<br/><br/>
+          <b>Scenario 2: Ver detalles de una solicitud.</b><br/>
+          <b>Dado que</b> quiero saber más sobre una solicitud específica<br/>
+          <b>Cuando</b> hago clic en ella<br/>
+          <b>Entonces</b> veo los detalles completos y las interacciones con los profesionales.
+        </td>
+        <td>EP05</td>
+      </tr>
+      <tr>
+        <td>US15</td>
+        <td>Realizar Pago del Servicio</td>
+        <td><b>Como</b> cliente,<br/>
+            <b>Quiero</b> poder realizar el pago de forma segura a través de la plataforma una vez que el servicio ha sido completado<br/>
+            <b>Para</b> cerrar el proceso satisfactoriamente.</td>
+        <td>
+          <b>Scenario 1: Pago exitoso.</b><br/>
+          <b>Dado que</b> el servicio ha finalizado<br/>
+          <b>Cuando</b> selecciono la opción de pagar y completo la información de mi método de pago<br/>
+          <b>Entonces</b> el pago se procesa correctamente y recibo una confirmación.<br/><br/>
+          <b>Scenario 2: Error en el pago.</b><br/>
+          <b>Dado que</b> el servicio ha finalizado<br/>
+          <b>Cuando</b> intento realizar el pago con una tarjeta inválida<br/>
+          <b>Entonces</b> recibo un mensaje de error indicando que el pago no pudo ser procesado.
+        </td>
+        <td>EP05</td>
+      </tr>
+      <tr>
+        <td>US16</td>
+        <td>Calificar y Dejar Reseña (Cliente)</td>
+        <td><b>Como</b> cliente,<br/>
+            <b>Quiero</b> poder calificar al profesional y dejar una reseña sobre la calidad del servicio recibido<br/>
+            <b>Para</b> compartir mi experiencia con otros usuarios.</td>
+        <td>
+          <b>Scenario 1: Calificación y reseña exitosas.</b><br/>
+          <b>Dado que</b> un servicio ha sido completado<br/>
+          <b>Cuando</b> accedo a la opción de calificar, selecciono una puntuación y escribo un comentario<br/>
+          <b>Entonces</b> mi calificación y reseña son guardadas y visibles para otros.<br/><br/>
+          <b>Scenario 2: Calificación sin reseña.</b><br/>
+          <b>Dado que</b> un servicio ha sido completado<br/>
+          <b>Cuando</b> solo selecciono una calificación sin escribir un comentario<br/>
+          <b>Entonces</b> la calificación es guardada.
+        </td>
+        <td>EP06</td>
+      </tr>
+      <tr>
+        <td>US17</td>
+        <td>Ver Calificaciones y Reseñas de Profesionales</td>
+        <td><b>Como</b> cliente,<br/>
+            <b>Quiero</b> ver las calificaciones promedio y las reseñas dejadas por otros clientes sobre un profesional<br/>
+            <b>Para</b> tomar una decisión informada antes de contactarlo.</td>
+        <td>
+          <b>Scenario 1: Ver promedio y lista de reseñas.</b><br/>
+          <b>Dado que</b> estoy viendo el perfil de un profesional<br/>
+          <b>Entonces</b> veo su calificación promedio y una lista de las reseñas dejadas por otros clientes.
+        </td>
+        <td>EP06</td>
+      </tr>
+      <tr>
+        <td>US18</td>
+        <td>Calificar y Recibir Reseñas (Profesional)</td>
+        <td><b>Como</b> profesional técnico,<br/>
+            <b>Quiero</b> ver las calificaciones y reseñas que los clientes han dejado sobre mis servicios<br/>
+            <b>Para</b> entender mi reputación en la plataforma.</td>
+        <td>
+          <b>Scenario 1: Ver mis calificaciones y reseñas.</b><br/>
+          <b>Dado que</b> soy un profesional registrado<br/>
+          <b>Cuando</b> accedo a mi perfil<br/>
+          <b>Entonces</b> veo mi calificación promedio y la lista de reseñas que he recibido.
+        </td>
+        <td>EP06</td>
+      </tr>
+      <tr>
+        <td>US19</td>
+        <td>Suscribirse al Plan Premium</td>
+        <td><b>Como</b> cliente,<br/>
+            <b>Quiero</b> poder suscribirme al plan premium<br/>
+            <b>Para</b> acceder a la funcionalidad de monitoreo inteligente y otros beneficios adicionales.</td>
+        <td>
+          <b>Scenario 1: Suscripción exitosa.</b><br/>
+          <b>Dado que</b> quiero acceder al monitoreo<br/>
+          <b>Cuando</b> selecciono el plan premium y completo la información de pago<br/>
+          <b>Entonces</b> mi suscripción se activa.<br/><br/>
+          <b>Scenario 2: Suscripción cancelada.</b><br/>
+          <b>Dado que</b> quiero cancelar mi suscripción premium<br/>
+          <b>Cuando</b> accedo a la sección de suscripción y confirmo la cancelación<br/>
+          <b>Entonces</b> mi suscripción es dada de baja.
+        </td>
+        <td>EP07</td>
+      </tr>
+      <tr>
+        <td>US20</td>
+        <td>Configurar Dispositivo IoT</td>
+        <td><b>Como</b> cliente con una suscripción premium,<br/>
+            <b>Quiero</b> recibir instrucciones claras sobre cómo instalar y configurar el dispositivo IoT en mi hogar<br/>
+            <b>Para</b> empezar a monitorear mi consumo.</td>
+        <td>
+          <b>Scenario 1: Ver guía de configuración.</b><br/>
+          <b>Dado que</b> tengo una suscripción premium<br/>
+          <b>Cuando</b> accedo a la sección de configuración del IoT<br/>
+          <b>Entonces</b> veo una guía paso a paso con instrucciones y diagramas.
+        </td>
+        <td>EP07</td>
+      </tr>
+      <tr>
+        <td>US21</td>
+        <td>Vincular Dispositivo IoT a la Cuenta</td>
+        <td><b>Como</b> cliente con el dispositivo IoT instalado,<br/>
+            <b>Quiero</b> poder vincularlo a mi cuenta en la plataforma<br/>
+            <b>Para</b> que los datos de consumo se asocien a mi hogar.</td>
+        <td>
+          <b>Scenario 1: Vinculación exitosa.</b><br/>
+          <b>Dado que</b> he instalado el dispositivo<br/>
+          <b>Cuando</b> ingreso el código de vinculación en la app<br/>
+          <b>Entonces</b> el dispositivo se conecta a mi cuenta.
+        </td>
+        <td>EP07</td>
+      </tr>
+  </table>
+  
 ## 3.3. Impact Mapping.
+En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
+
+**Segmento 1: Tecnico Profesional**
+
+![TECNICO](https://github.com/user-attachments/assets/c5a17f58-d5be-4b7e-a077-8393420c8cfb)
+
+**Segmento 2: User Cliente**
+
+![USER](https://github.com/user-attachments/assets/c143b85e-5f11-440c-ba69-79189ef95c82)
+
+
 
 ## 3.4. Product Backlog.
+
+<table border="1px">
+  <tr>
+    <th>#Orden</th>
+    <th>User Story Id</th>
+    <th>Título</th>
+    <th>Descripción</th>
+    <th>StoryPoints</th>
+  </tr>
+  <tr>
+    <td>01</td>
+    <td>US01</td>
+    <td>Registro de Nuevo Usuario (Cliente)</td>
+    <td>Como nuevo cliente, Quiero registrarme en la plataforma Para poder buscar y contratar profesionales.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>02</td>
+    <td>US02</td>
+    <td>Registro de Nuevo Profesional Técnico</td>
+    <td>Como nuevo profesional técnico, Quiero registrarme detallando mis especialidades Para ofrecer mis servicios.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>03</td>
+    <td>US03</td>
+    <td>Editar Perfil de Usuario</td>
+    <td>Como usuario registrado, Quiero editar mi información Para mantenerla actualizada.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>04</td>
+    <td>US04</td>
+    <td>Buscar Profesionales por Especialidad y Ubicación</td>
+    <td>Como cliente, Quiero buscar profesionales filtrando por servicio y ubicación Para encontrar opciones cercanas.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>05</td>
+    <td>US05</td>
+    <td>Ver Perfil Detallado del Profesional</td>
+    <td>Como cliente, Quiero ver experiencia y calificaciones Para evaluar idoneidad.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>06</td>
+    <td>US06</td>
+    <td>Contactar al Profesional</td>
+    <td>Como cliente, Quiero contactar profesionales Para coordinar servicios.</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td>07</td>
+    <td>US07</td>
+    <td>Configurar Perfil de Servicios</td>
+    <td>Como profesional, Quiero detallar servicios y tarifas Para informar a clientes.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>08</td>
+    <td>US08</td>
+    <td>Recibir y Gestionar Solicitudes de Servicio</td>
+    <td>Como profesional, Quiero recibir notificaciones Para aceptar/rechazar trabajos.</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td>09</td>
+    <td>US09</td>
+    <td>Gestionar Disponibilidad</td>
+    <td>Como profesional, Quiero indicar horarios disponibles Para evitar conflictos.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>US10</td>
+    <td>Visualizar Consumo en Tiempo Real</td>
+    <td>Como cliente con IoT, Quiero ver consumo actual Para monitorear uso.</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>US11</td>
+    <td>Recibir Alertas de Consumo Anómalo</td>
+    <td>Como cliente con IoT, Quiero alertas automáticas Para prevenir problemas.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td>US12</td>
+    <td>Ver Historial de Consumo</td>
+    <td>Como cliente con IoT, Quiero ver historial Para optimizar uso.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>US13</td>
+    <td>Crear Nueva Solicitud de Servicio</td>
+    <td>Como cliente, Quiero crear solicitudes detalladas Para describir necesidades.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td>US14</td>
+    <td>Ver Estado de Mis Solicitudes</td>
+    <td>Como cliente, Quiero ver estados Para seguir progreso.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>US15</td>
+    <td>Realizar Pago del Servicio</td>
+    <td>Como cliente, Quiero pagar seguro Para finalizar servicio.</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td>16</td>
+    <td>US16</td>
+    <td>Calificar y Dejar Reseña (Cliente)</td>
+    <td>Como cliente, Quiero evaluar servicios Para compartir experiencia.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>US17</td>
+    <td>Ver Calificaciones de Profesionales</td>
+    <td>Como cliente, Quiero ver evaluaciones Para decidir mejor.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>18</td>
+    <td>US18</td>
+    <td>Calificar y Recibir Reseñas (Profesional)</td>
+    <td>Como profesional, Quiero ver mis calificaciones Para entender reputación.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>US19</td>
+    <td>Suscribirse al Plan Premium</td>
+    <td>Como cliente, Quiero suscribirme Para acceder a monitoreo.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td>US20</td>
+    <td>Configurar Dispositivo IoT</td>
+    <td>Como cliente premium, Quiero guías de instalación Para configurar correctamente.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>21</td>
+    <td>US21</td>
+    <td>Vincular Dispositivo IoT a la Cuenta</td>
+    <td>Como cliente, Quiero vincular dispositivo Para asociar datos.</td>
+    <td>8</td>
+  </tr>
+</table>
+
 
 # Capítulo IV: Product Design
 
@@ -585,15 +1255,15 @@ La identidad de Fix Now se basa en transmitir profesionalismo, eficiencia y cerc
 Para lograr una lectura cómoda y moderna, se seleccionó una combinación de tipografías con diferentes pesos y estilos que permiten estructurar jerarquías claras.
 - Montserrat y Poppins se utilizan en titulares por su robustez y claridad visual.
   
-  <img src="img/letra1.png" alt="1" />
+  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdRuDnrKJoLPZCDREGw_U6AkCRffMeRvJoUZ110c0_Vp9hGxMKQe3KF38c1ReOJThDOyGs03p_sZE56xC4mZ7NMPYc40pik0OQNrDEJ3e_lzK6LhIxpyKDvnx_MCwvu3XF1ph4zuA?key=pBJWG96xHxpH_57aWDst0Zo_" alt="1" />
   
 - Open Sans, DM Sans y Onest están destinados a párrafos y descripciones, aportando legibilidad y neutralidad.
   
-   <img src="img/letra 2.png" alt="2" />
+   <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeYfnWt5RgfkSOnRU8Dg9hSmdFQ-B2fR_HB3vMf68mLy1q1730NYozs_gBG1iHYw2xfty4PiNkNN1sJaAqyq3V5ATCzbYcpkfxE5LPc5o1R7YcgXMu_9w477NE1C0-0LhJbL9aWMA?key=pBJWG96xHxpH_57aWDst0Zo_" alt="2" />
    
 - Tipografías como Playfair Display, Playfair Display SC y Playwrite US Trad se usan en títulos decorativos o frases clave, mientras que Dancing Script aporta un toque más expresivo en elementos visuales que buscan una conexión emocional.
   
-  <img src="img/letra3.png" alt="3" />
+  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf019jzED3eiflwSW0eWRn88kbTcU3pNEqyRQdfBCNBJjvM49hOFTR8tbDAb12cpWVfKdFSlClLd9rD1FnLR2jql4JVe0dyq2_FahcSUW9gF9BhJ4gX4P5GU6Rm4_IAWPx-lXhEuA?key=pBJWG96xHxpH_57aWDst0Zo" alt="3" />
 
 #### Colors
  La paleta cromática fue cuidadosamente seleccionada para proyectar seguridad, eficiencia y modernidad:
@@ -603,31 +1273,31 @@ Para lograr una lectura cómoda y moderna, se seleccionó una combinación de ti
 	- #2247C0: azul intenso que denota tecnología y profesionalismo.
 	- #3E72AD: azul medio que aporta frescura y balance.
    
- 	  <img src="img/color1.png" alt="4" />
+ 	  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc1GudLqMQrPKc5lMZxXFPCilUSAm343ipZ1TXpah87yoMuAPbws7Y1x9TBECMnHWDzlEpT4yebL1e3c7Uax_jBXeKHuXC-vhLvYnKpQTfXpXtysoGAptqFmFbl6CSgZBV6bUmi?key=pBJWG96xHxpH_57aWDst0Zo_" />
    	  
 
 - Secundarios:
 	- #42CACA: tono aqua que brinda dinamismo, innovación y frescura.
 	- #FFD900: amarillo brillante para llamados a la acción y elementos importantes.
  
-   	<img src="img/color2.png" alt="5" />
+   	<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd9z0Ao9nvpZUXpZnRvRTVhuZEGd4p27VsGMs6ZGZ4yOUWdsqY6eDfAbbpsSoi17IH4WabXj5C2PnNiiO2e4mZPzqDVRZIfsymL2eGEDJNQzHOCWBTP4pRZE_Wd5gPl_gi1xILE?key=pBJWG96xHxpH_57aWDst0Zo_" />
 
     
 - Neutros:
 	- #000000, #D9D9D9, y #FFFFFF para mantener limpieza visual y contraste en la interfaz.
    
-   	<img src="img/color3.png" alt="u" />
+   	<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdjPadb8KXLuN3cXcC36jz7zHwrCkIR0B6vtQCxlp7Qmu_s-OzHztIss2PJK5rZjmiUowMGeAPE0hT-EcmOiTA0Gd7HWt_oLALDtWOcuG5NXSCiv8QkBT6zGCIFWL2686YXM3OGgg?key=pBJWG96xHxpH_57aWDst0Zo_" />
 
 #### Botones: Los botones de Fix Now son llamativos, accesibles y fáciles de identificar. Tienen esquinas redondeadas, efectos al hacer hover.
-<img src="img/boton.png" alt="y" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe7XMr8bcCrSvwArt1CgUNK6vMlV7BA5kg1DmdLsoyUovVP0j1OZDy8Jse_2yQHUg6GW9JYJNUYMC6qrCsjjmlWaj1_eh9mpWPUPAQhC3Xm9bUOKVvwHaNTMbNH6x88aN9xLjQZ6w?key=pBJWG96xHxpH_57aWDst0Zo_" alt="y" />
 	
 
 #### Iconografia: La iconografía sigue un estilo minimalista y lineal, con íconos fácilmente reconocibles que mejoran la navegación.
-<img src="img/icono.png" alt="7" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfvG1-JgpOuOP1BtP8rIJxr6Tzua9NJMfHN-E90h75-Emy3YaGtx7Qqe8v-QT74CdM529JKQ06HbpF4p6dc6oMVJppkxEwCdoM6IXSrkoQWrZwOppeIIk8-Kwu4oGasvUjdV5dR?key=pBJWG96xHxpH_57aWDst0Zo_" alt="7" />
 
 
 #### Logo:	El logo de Fix Now combina tipografía moderna con un ícono representativo de tecnología y reparación. Refleja los valores de rapidez y confianza.
-<img src="img/logof.png" alt="8" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc7qa8jOaKzjpoJLOlcKyq2HdCEPwADfOYThmGOunVxUYWGwbzdFwi-VU6Ode1MgmGV-YeDEqbS21w5NL0AMbAb5JQSP4N38ALwIXcfGO6RNm81BMQbJYMpNNv190dFOVLXMTBJ8A?key=pBJWG96xHxpH_57aWDst0Zo_" alt="8" />
 
 
 ### 4.1.2. Web Style Guidelines.
@@ -641,7 +1311,7 @@ La experiencia web de Fix Now está diseñada pensando en una navegación intuit
 
 Para el diseño de la landing page de Fix Now se utilizó el patrón Z debido a su eficacia en la lectura y escaneo visual en pantallas. Este patrón guía naturalmente la vista del usuario desde la parte superior izquierda hacia la derecha, bajando diagonalmente hasta el extremo inferior izquierdo y finalmente hacia la derecha otra vez, formando una "Z". Al seguir este recorrido visual intuitivo, se mejora la jerarquía de la información, se capta la atención del usuario rápidamente y se optimiza la conversión desde los primeros segundos de interacción.
 
-<img src="img/patronz.png" alt="8" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfYpIYlsFQ5GdnjR8QS2xaiicgiZRlLzjHB15spiuTCHOdw_hcqi_IB8A92TpNqunzskpOh4uhZE4xY0HcI8P9ogmeppd0IyaeK9Vcyfw-aAjaDTZNF-Ngo7th1uVjOr_fSfi3L7g?key=pBJWG96xHxpH_57aWDst0Zo_" />
 
 ## 4.2. Information Architecture.
 La arquitectura de información de Fix Now está estructurada con base en la claridad y facilidad de uso. Se ha diseñado pensando en minimizar la carga cognitiva de los usuarios y permitirles acceder rápidamente a la información o servicio que buscan. La experiencia se adapta tanto para nuevos visitantes como para usuarios frecuentes, brindando un recorrido fluido e intuitivo.
@@ -710,16 +1380,16 @@ Se han implementado sistemas de navegación claros, jerárquicos y adaptables se
 
 | Vista Previa Desktop Web Browser | Vista Previa Mobile Web Browser |
 |----------------------------------|----------------------------------|
-| <img src="img/landingwireframe.png" alt="landingwireframe" />  |<img src="img/landingwireframemobile.png" alt="landingwireframe2" width=85 /> |
+| <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfPkpKdp3FPyoVWkqVjfBXrMr5Ix4kzwTRznu0rGG7o2rtf16dH1_xfFFFP28Q7utOU2Jqj93KmZQjFQTbGVlC-AFG8uCxBqdqqdRQZcvj5MgI-hiK3a4zsKvImMQozIvwNmRvnJg?key=pBJWG96xHxpH_57aWDst0Zo_" />  |<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcfKliKVVLG58f9fi8VBQogCErApMPqvcdN4-93hj_r-1IOL6y9gmUb6WJkiVH5uooS5uXwjhPD_A7IYDCInSG2_PJj-vb1IUgQEStqK1ypjGW2V5L1s8rltRCR547Ax6F1Ie7-DQ?key=pBJWG96xHxpH_57aWDst0Zo_" /> |
 
-Link:[https://www.figma.com/design/GizyZC1lEsPasOO3mWmkQI/Untitled?node-id=1-2&t=GSnzJYQiwQ39h97p-1](https://www.figma.com/design/GizyZC1lEsPasOO3mWmkQI/Untitled?node-id=1-2&t=GSnzJYQiwQ39h97p-1)
+-	Link: https://www.figma.com/design/GizyZC1lEsPasOO3mWmkQI/Untitled?node-id=1-2&t=GSnzJYQiwQ39h97p-1
 
 ### 4.3.2. Landing Page Mock-up.
 | Vista Previa Desktop Web Browser | Vista Previa Mobile Web Browser |
 |----------------------------------|----------------------------------|
-| <img src="img/landingMockup.png" alt="landingmockupmobile"  />  |<img src="img/landingmockupmobile.png" alt="landingwireframe2" width=100/> |
+| <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeSbLZSjbebGh1XHhhzWWLJ3efQzk6qdBPovN1-NNIpDQVUZY8l5rTKqnYxxRofnEmzU8OAhkxSq6w91Mis0s02lztjVPaQ5s-HM8epQIKqahMCCiXjC7NRWz73PC90If7oWRvQOQ?key=pBJWG96xHxpH_57aWDst0Zo_"  />  |<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcqH07gDahpawTHCGB6d7HTI7zowm00Qgr1Y3JfUIxhlcFJZ-epS2M6qfueo5nXhWj2_-RlOP7vl-acEuTx2REktRcrr7Q8FNxtuxhibVjwPCEdhZSrUroyNjSItZkD0gnsUdidkQ?key=pBJWG96xHxpH_57aWDst0Zo_" width=100/> |
 
-Link:[https://www.figma.com/design/GizyZC1lEsPasOO3mWmkQI/Untitled?node-id=1-2&t=GSnzJYQiwQ39h97p-1](https://www.figma.com/design/GizyZC1lEsPasOO3mWmkQI/Untitled?node-id=1-2&t=GSnzJYQiwQ39h97p-1)
+-	Link:https://www.figma.com/design/GizyZC1lEsPasOO3mWmkQI/Untitled?node-id=1-2&t=GSnzJYQiwQ39h97p-1
 
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
