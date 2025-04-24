@@ -563,6 +563,15 @@ En esta sección se presenta un glosario de términos y conceptos utilizados en 
 # Capítulo III: Requirements Specification
 
 ## 3.1. To-Be Scenario Mapping.
+Aquí se expone el análisis de los escenarios, organizando una tabla que detalla la situación que necesita ser optimizada para el segmento objetivo. Se examinan los pasos a seguir y se describe cómo se perciben.
+
+**Segmento 1: User**
+
+![MAPPING USER](https://github.com/user-attachments/assets/e9e2515d-70f9-4953-b919-0b723551ed6e)
+
+**Segmento 2: Tecnico Profesional**
+
+![MAPPING TECNICO](https://github.com/user-attachments/assets/ec3618bf-93da-41e8-8e83-fed3298c9c61)
 
 ## 3.2. User Stories.
 
