@@ -476,6 +476,24 @@ Con el objetivo de comprender mejor las necesidades, comportamientos y expectati
 
 ### 2.2.2. Registro de entrevistas.
 
+**Entrevistas segmento 01: Usuarios Clientes**
+Entrevista 1:
+Datos del entrevistador:
+- Nombre: Urrutia Peña, Jasmin Adriana
+  
+Datos del entrevistado:
+- Nombre: Jean Fabio Noriega Collado
+- Edad: 18 años
+- Distrito de residencia: Pueblo Libre
+- Enlace: https://upcedupemy.sharepoint.com/:v:/g/personal/u201913495_upc_edu_pe/EeVlsT0DrS1BhWbC6BxlkNkB0WxsJhARf3qfYkCSQ4v7ug?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=vviwa8
+- Duracion de la entrevista: 11 minutos y 21 segundos
+  
+![USER 1 ENTREVISTA](https://github.com/user-attachments/assets/5e6221a9-f04d-4fe2-b109-ecbc31da0b58)
+
+Resumen de la entrevista:
+A partir de la entrevista realizada al usuario Jean Fabio, se identificaron necesidades clave relacionadas con la búsqueda y contratación de servicios técnicos, así como el interés en el monitoreo de recursos en el hogar. El usuario expresó que actualmente recurre a recomendaciones informales, lo que conlleva a problemas como falta de disponibilidad, poca transparencia en precios y desconfianza en los diagnósticos. Mostró una actitud positiva hacia el uso de una aplicación que verifique la identidad y experiencia de los técnicos, que permita visualizar opiniones de otros clientes y gestionar el historial de contrataciones. Asimismo, valoró la posibilidad de monitorear en tiempo real el consumo de agua y electricidad, recibiendo alertas ante posibles fugas, lo cual considera útil especialmente para quienes viven en departamentos con medidores poco confiables. Entre las funcionalidades deseadas resaltó: chat con técnicos, lista de favoritos, historial de servicios y variedad de opciones. Finalmente, mencionó estar dispuesto a pagar una suscripción mensual razonable por estas funcionalidades, siempre que estén claramente diferenciadas del costo de los arreglos. Estas observaciones se traducen en requisitos funcionales y no funcionales clave para el desarrollo de Fix Now.
+
+
 ### 2.2.3. Análisis de entrevistas.
 
 ## 2.3. Needfinding.
