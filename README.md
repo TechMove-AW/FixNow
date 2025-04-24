@@ -168,11 +168,11 @@ Hemos observado que muchas personas aún enfrentan dificultades para encontrar r
 - Modelo freemium con opción premium: Los usuarios están dispuestos a pagar por funciones adicionales si perciben valor y utilidad concreta.
 
 ##### 1.2.2.2.2. Business Outcomes
-<br>Business Outcomes:</br>
+<b>Business Outcomes:</b>
 
 Como empresa se busca incrementar la cantidad de contrataciones de servicios técnicos realizadas a través de la plataforma, mejorar la retención y frecuencia de uso de los usuarios, y aumentar la adopción del dispositivo IoT como parte del plan premium. Asimismo, se espera generar ingresos sostenibles mediante comisiones por servicios concretados o suscripciones, y posicionar a Fix Now como una solución confiable e innovadora en el mercado de servicios técnicos y tecnología para el hogar.
  
-<br>User Outcomes:</br>
+<b>User Outcomes:</b>
 Se espera que los usuarios puedan encontrar profesionales técnicos de forma rápida y sencilla desde una plataforma centralizada, con una experiencia fluida y segura. Además, se busca que sientan mayor confianza al prevenir problemas como fugas o sobreconsumo mediante el monitoreo automatizado, reduciendo así costos innecesarios y mejorando su calidad de vida.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
