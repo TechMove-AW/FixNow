@@ -477,7 +477,7 @@ Con el objetivo de comprender mejor las necesidades, comportamientos y expectati
 ### 2.2.2. Registro de entrevistas.
 
 **Entrevistas segmento 01: Usuarios Clientes**
-Entrevista 1:
+**Entrevista 1:**
 Datos del entrevistador:
 - Nombre: Urrutia Peña, Jasmin Adriana
   
@@ -489,26 +489,45 @@ Datos del entrevistado:
   
 ![USER 1 ENTREVISTA](https://github.com/user-attachments/assets/5e6221a9-f04d-4fe2-b109-ecbc31da0b58)
 
-Resumen de la entrevista:
+**Resumen de la entrevista:**
 A partir de la entrevista realizada al usuario Jean Fabio, se identificaron necesidades clave relacionadas con la búsqueda y contratación de servicios técnicos, así como el interés en el monitoreo de recursos en el hogar. El usuario expresó que actualmente recurre a recomendaciones informales, lo que conlleva a problemas como falta de disponibilidad, poca transparencia en precios y desconfianza en los diagnósticos. Mostró una actitud positiva hacia el uso de una aplicación que verifique la identidad y experiencia de los técnicos, que permita visualizar opiniones de otros clientes y gestionar el historial de contrataciones. Asimismo, valoró la posibilidad de monitorear en tiempo real el consumo de agua y electricidad, recibiendo alertas ante posibles fugas, lo cual considera útil especialmente para quienes viven en departamentos con medidores poco confiables. Entre las funcionalidades deseadas resaltó: chat con técnicos, lista de favoritos, historial de servicios y variedad de opciones. Finalmente, mencionó estar dispuesto a pagar una suscripción mensual razonable por estas funcionalidades, siempre que estén claramente diferenciadas del costo de los arreglos. Estas observaciones se traducen en requisitos funcionales y no funcionales clave para el desarrollo de Fix Now.
 
-Entrevista 2:
+**Entrevista 2:**
 Datos del entrevistador:
 - Nombre: Percy Alonso Muñiz Huayanca
   
 Datos del entrevistado:
 - Nombre: Jarol Saquiray Vargas
-- Edad: 18 años
+- Edad: 23 años
 - Distrito de residencia: Miraflores
 - Enlace:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202319563_upc_edu_pe/ETXao-NHP-xJtGphx-0YxlEBoov9H-qqx4fiThSr4fl20g?e=2nbCNK
 - Duracion de la entrevista: 5 minutos y 15 segundos
   
 ![USER 2 ENTREVISTA](https://github.com/user-attachments/assets/1b44e91d-2a19-4b78-91bf-159342daf83f)
 
-Resumen de la entrevista:
+**Resumen de la entrevista:**
 A partir de la entrevista realizada al usuario Jarol Saquiray Vargas, de 18 años y residente en el distrito de Miraflores, se identificaron necesidades clave vinculadas a la búsqueda y contratación de servicios técnicos, así como un fuerte interés por el monitoreo del consumo de recursos en el hogar. Jarol mencionó que usualmente depende de recomendaciones de conocidos o familiares para contactar técnicos, lo cual le ha generado inconvenientes como demoras, falta de claridad en los costos y dudas sobre la veracidad de los diagnósticos que recibe.
 Mostró apertura y entusiasmo hacia el uso de una aplicación que brinde mayor seguridad al momento de contratar, mediante la verificación de identidad y experiencia de los técnicos, la posibilidad de consultar reseñas de otros usuarios, y el acceso a un historial completo de contrataciones pasadas. Además, valoró altamente una funcionalidad que permita el monitoreo en tiempo real del consumo de agua y luz, especialmente útil en edificios con medidores poco precisos. Las alertas ante consumos anómalos o fugas también fueron percibidas como herramientas muy útiles para prevenir gastos innecesarios.
 Entre las funcionalidades que considera importantes destacó: la posibilidad de chatear directamente con los técnicos, guardar contactos frecuentes en una lista de favoritos, y contar con una buena variedad de profesionales disponibles en diferentes rubros. Finalmente, Jarol indicó que estaría dispuesto a pagar una suscripción mensual siempre que las funcionalidades ofrecidas estén bien diferenciadas de los costos propios de los servicios técnicos. Estas percepciones permiten identificar tanto requisitos funcionales como no funcionales esenciales para el diseño y desarrollo de la plataforma Fix Now.
+
+**Entrevistas segmento 02: Tecnicos Profesionales**
+**Entrevista 1:**
+Datos del entrevistador:
+- Nombre: Percy Alonso Muñiz Huayanca
+  
+Datos del entrevistado:
+- Nombre: Juan Pablo Yataco Juarez
+- Edad: 25 años
+- Distrito de residencia: Surco
+- Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202319563_upc_edu_pe/Ebk-f3Lf-8xIooqn8ik57HMB0SbQZenxnUYfvrt_SroG2w?e=A4DM6V
+  
+![TECNICO 1 ENTREVISTA](https://github.com/user-attachments/assets/d4daebfa-6568-45fe-a3d5-b3fef652c21d)
+
+**Resumen de la entrevista:**
+A partir de la entrevista realizada al usuario Juan Pablo Yataco Juarez, de 25 años y residente en el distrito de Surco, se identificaron importantes insights desde la perspectiva de un técnico electricista que busca mejorar su alcance y posicionamiento profesional. Juan Pablo comentó que uno de los mayores desafíos en su rubro es hacerse conocido y generar confianza entre los potenciales clientes, ya que muchas veces depende únicamente del boca a boca y las recomendaciones informales.
+Al conocer la propuesta de la aplicación Fix Now, expresó un alto nivel de aceptación y entusiasmo. Considera que una plataforma como esta sería muy útil tanto para técnicos como para clientes, ya que permitiría dar visibilidad a su trabajo, demostrar su experiencia y recibir evaluaciones que respalden su profesionalismo. Para él, estar presente en una aplicación confiable representa una oportunidad de promoción, algo similar a una vitrina digital donde puede ofrecer sus servicios con respaldo y seguridad.
+Además, manifestó estar dispuesto a pagar una suscripción mensual, ya que lo ve como una inversión en su crecimiento profesional. “Es como pagar por publicidad que realmente llega a quienes me necesitan”, mencionó. Destacó también que contar con funciones como el historial de servicios, opiniones verificadas de clientes y la posibilidad de chatear directamente con ellos, aportaría transparencia y eficiencia a su labor.
+Finalmente, calificó positivamente la idea de la StartUp Fix Now, felicitando el enfoque innovador y el compromiso por mejorar la conexión entre técnicos y usuarios. Sus comentarios refuerzan la necesidad de incluir requisitos funcionales enfocados en la visibilidad, reputación y facilidad de contacto para los técnicos, así como requisitos no funcionales centrados en la confianza, seguridad y experiencia de usuario dentro de la plataforma.
 
 
 
