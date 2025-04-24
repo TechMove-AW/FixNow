@@ -413,6 +413,8 @@ https://lucid.app/lucidchart/70accaac-a42d-4f91-83a4-3e0775019399/edit?viewport_
 
 ### 4.8.1. Database Diagram.
 
+![Database Diagram](./img/db-diagram.png)
+
 # Capítulo V: Product Implementation, Validation & Deployment
 
 ## 5.1. Software Configuration Management.
