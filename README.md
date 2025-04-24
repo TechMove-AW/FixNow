@@ -325,6 +325,39 @@ Open Sans, DM Sans y Onest están destinados a párrafos y descripciones, aporta
 
 ### 4.4.2. Web Applications Mock-ups.
 
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfOZc6GOAUbITUoYE4PTkaR2ivTerh1u9RuK2gPK9XOk7NUIpnDurBhPV4V4b-A-VKwiO4KlgfUDPkb6So4uhUfJpuJtX3TvoY3XPPgbeY1Y19YsR3eMzAMdEr6BCTZJjABqdD4DA?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcBcNW-D2KBqozXv4GwMov1hv5T05aIfhKpAHYRRXZuDpdoomP93lGhU3_iaN3dMlCLDdYbzv8Q-c7eBUXcCACDCxPU6WSVH-vZTuJAbOE_yGYYESxYxl4pYZzPYpkDotDjXPyM7w?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+
+ <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXclen8SOYkxBb_bkohIvxxDf67vQkr_CEDAvVjaIqdiuKZyVKg3JsdGKw9Um5ALZOcCWhw12NnNSnLhQ8X-8U2-dHhOVrdx9yXd8FLRq6Y2Ulyf-gTEb4LOS4ioatFkd6d0Yx9T-A?key=7rHwqlj_RdIsExdWTIYPrLCO"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfuzTjwPUl0wDkDl7d4K5X_LSkoNTIGrqHb8lAS4TPrpP4H5-X00buuVVlO8ysdIvavUI4UO2nOHpAVQfNQcf8LhRWCyBhhHNJ1w93wLvKUM7-jIkYCCYei_5f6n43c0A7ugx_W?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeYZfOpD7qBaDaH3fRg0MmxYZqvzkcCMvQq3_LXSv2b0UknbifZ3D1_InmmtMOIf1-3rTiZ6fZIxgiJgvKgansig0mQcOrIO_91MRkQNYURfXAte9aJzlyNoMHZPwvFky1xBYAQXg?key=7rHwqlj_RdIsExdWTIYPrLCO"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc-UHyAzNgZ-X_aEiMxWVZKgs1s67Fp-Hk9WjPdQVScp1z-b-VAf8yYD59mVaGE1qGiFBu3a3rYluod_zxvodsGLfUdRax-4Qr4hTNOEeGBNbh34jxK6IN2m_Ja0_ibfozt-1cj?key=7rHwqlj_RdIsExdWTIYPrLCO"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcjvpiZW7_reqOvnU7THEDF8u7bufXIwhmNvttULkjE3EaoGLc08-o7UbGCV612_xCF1MAYSW4KTLlBzWqN3JtTOpHWdcVVJY8wtPxoDgo64e02XybjlSe7DgtksEpbD5sGrcSC?key=7rHwqlj_RdIsExdWTIYPrLCO"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeQRGHxgaOM4iX50bdI6f1RX0HgqqnPPadE-mHx8wDU67jddMbn6BpJx4aBU1mJvVP0pRFULcx51d3XWRAaQp_8Z_rgjkfWqXEUIHiUTz-RjdoczHhAyKaikI5fxHvld00PAgcj?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfwS0qW_Mc9arajt58WZ198mSTvIjAEYseLVw6DMLvQ_DFWxBlrtjZbnKUmupNNwkDgNy5UGdO9n1iy_TsK7TpMLd9Yo2px3eZlLo38sUvRxgBxoGv20IY2r7DE2u6sfadzuR0P?key=7rHwqlj_RdIsExdWTIYPrLCO"  />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfwS0qW_Mc9arajt58WZ198mSTvIjAEYseLVw6DMLvQ_DFWxBlrtjZbnKUmupNNwkDgNy5UGdO9n1iy_TsK7TpMLd9Yo2px3eZlLo38sUvRxgBxoGv20IY2r7DE2u6sfadzuR0P?key=7rHwqlj_RdIsExdWTIYPrLCO"  />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeJarKvTN5QU0DdP86v4R29C7dbsGomSDjsGBiP5O_hyPv__5_-c5dWSVXs2G6-oAFbmmxrAq48ZQrzKK_TcPUGFVK7Te28h6TC55Dl8ckEyId6TWeXnyPufuPqAoDnT2vYC2Q0Gw?key=7rHwqlj_RdIsExdWTIYPrLCO"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXca-MY37sdIrXt1KlmzjGtgV3MT3RL6ZAYoL473RKM_BkuGi95KLyo5Ot5ZhhV65heM2l6delijn_bYZFCAs-NVxi7-atJaiSSVRkVmXlESwMyDi1050e9gdidAv2eg2YxcZj9ibw?key=7rHwqlj_RdIsExdWTIYPrLCO"
+## Segmento Cliente:
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfxV9FZUDZcJNGbs2SbrGpUHnOnQjB85fX8_GnbVLJ91fT6THaFfBNd8883EEYz4bGlvQNf_D5uHFyDQofd8DikqQXirdspIRO_vEE3tru2cznNxQbsGlz3e4X9rhYFpcNAdnZp4w?key=7rHwqlj_RdIsExdWTIYPrLCO"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXftty8skDA3nHn5r8LRxE-FO57xLbEihS2EtqZjdaxTb_1lbxQmXhxMXQzuyUUduDVXrlTS2Y-CtIchk2MPH91H4eAMdhOHt7nm0BP2A3vZ8dwomGSYkZ8s6pyu0OD2EOepLUag?key=7rHwqlj_RdIsExdWTIYPrLCO"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcvEZyKF66O_QB_T4u5mUy9NyW0SKhT-_Y4rK06FocQMRwDY0dF_7h752w4KpeE9THo2wiPdje7-RtKzBbCKXsv1IGa1gIWe160J6uTCaE2I6wxZHsWwkfa8i_SatcamCmOVvLAow?key=7rHwqlj_RdIsExdWTIYPrLCO"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcX3IWWeTw7PmwHKs3obpWwFeRXY2J_7TWrL5p6uLZ6crpzfhuZQxAYGXvNCw6MUFjQk69xFz6fInM3U5s4VeWYg5ofMX1owk6UaMJuZiezTwwyugh9rfsqOxRRyxp4xnpxQ9UH_A?key=7rHwqlj_RdIsExdWTIYPrLCO"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcP_EyzXJm8KF2dLQ4u6eu4KYibOg-E4IeDLoSuYdWmekke9p5SUfs9UCw7TBYrgB9FR10Z5P-xL99Ay7fynismVEQ7k5Vn1JYpi50yEgQ7J7uygaTrlPG2tEAROS_I_ihUPH0uaA?key=7rHwqlj_RdIsExdWTIYPrLCO"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdQfX7Z7GLd4XVV0QAyh2DdQzbD4RvChYHojv68u9iJ7HMxKVLfosBLbSC1w2ECNu6PgiNKwBHLplRScCY-xyHle8iysXLdJzoV0TPwiRhmg5zAFK4AccDwe_NMvB1wPIRNsUs-Ig?key=7rHwqlj_RdIsExdWTIYPrLCO"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdkFyyxRWj2r-Au3ynr8IbAo2AVHyKFtquDPt_pu0u24LKLGVgyfbJbxoIaNgw5krqXMu0yFEIWSsnRwXvqYWTLVidzeO5S65e5VxZ_9f6y65d1kFsS-uVydl-RJePXbmcJwpyptQ?key=7rHwqlj_RdIsExdWTIYPrLCO"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeEJUS6CQ-WDrf-W2-hg3tC11_eyvAixpQqytQ21W19aNefrHIJJbKHU9hiNY07fqkp52mxWu5m19ijJhxnoftGIK63a1FoRsQNRxxrHTG1nHYBkyjdC6oD0nJY6etbQFAaa81N3w?key=7rHwqlj_RdIsExdWTIYPrLCO"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXei6d8_KLfZ-t4AEwRje_OBKjcCCsxJ38uk-GTAkCCZlpq2MOq2wUOoVubPiJolE1dcToc_TKJrxy0vo-jEdlXycD8lY72Ao-VOmBEYWcQz44OaZlfVTgFtLjeBR0pUpmv2bJnr0w?key=7rHwqlj_RdIsExdWTIYPrLCO"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXectP5MVlzeyYFeTN_P4-5tCr9ivDAXSzxx6vSxw4OclZ4GcdEY_h3wNDEM9-NMNyYCtIX8y8xGoiIebb8fjRUiSFq_DXf_QM0QpNt41W42uSjubxSl9TyvmIFjkeljWpdkCn-p?key=7rHwqlj_RdIsExdWTIYPrLCO"/>
+
+</div>
+
+
+
+
+- Link: https://www.figma.com/design/GizyZC1lEsPasOO3mWmkQI/Untitled?node-id=1-2&t=bn9JxBqm0EvgpIsN-1
+
 ### 4.4.3. Web Applications User Flow Diagrams.
 
 <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf_-xdEa6_iOQ2glySzyMNKFj8G4bbBhUlev1FkGYXQFXKuajWHG4hdR4Kt_ZDnqXK_PF3u2iKElziNuS2gGH5psm4IsZX1WTROXuqrLSvP0uhSCuhmwhzeT5TKPm3hUYoZLpUZ6g?key=Xj2P6QILjgqkfn9BAsC6eih2"/>
