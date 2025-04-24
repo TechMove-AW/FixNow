@@ -224,7 +224,73 @@ En esta sección se presenta un glosario de términos y conceptos utilizados en 
 
 # Capítulo IV: Product Design
 
-## 4.1. Style Guidelines.
+## 4.1.1 Style Guidelines. 
+Esta sección establece las bases visuales y comunicacionales de Fix Now, garantizando coherencia en toda la experiencia digital. Se crea un repositorio común para el equipo con assets gráficos, fuentes y reglas visuales que mantienen una presentación profesional, accesible y funcional tanto en web como en móvil.
+
+La identidad de Fix Now se basa en transmitir profesionalismo, eficiencia y cercanía. La marca busca posicionarse como una solución tecnológica de confianza para quienes necesitan servicios técnicos de calidad, así como para quienes desean monitorear el consumo de recursos en sus hogares de manera sencilla. Por eso se escogieron los siguientes style guidelines.
+
+- Typography
+Para lograr una lectura cómoda y moderna, se seleccionó una combinación de tipografías con diferentes pesos y estilos que permiten estructurar jerarquías claras.
+Montserrat y Poppins se utilizan en titulares por su robustez y claridad visual.
+
+
+Open Sans, DM Sans y Onest están destinados a párrafos y descripciones, aportando legibilidad y neutralidad.
+
+
+
+- Tipografías como Playfair Display, Playfair Display SC y Playwrite US Trad se usan en títulos decorativos o frases clave, mientras que Dancing Script aporta un toque más expresivo en elementos visuales que buscan una conexión emocional.
+	
+
+
+
+
+
+- Colors
+ La paleta cromática fue cuidadosamente seleccionada para proyectar seguridad, eficiencia y modernidad:
+- Primarios:
+
+
+#29405A: azul profundo que transmite confianza y estabilidad.
+
+
+#2247C0: azul intenso que denota tecnología y profesionalismo.
+
+
+#3E72AD: azul medio que aporta frescura y balance.
+
+
+
+- Secundarios:
+
+#42CACA: tono aqua que brinda dinamismo, innovación y frescura.
+
+
+#FFD900: amarillo brillante para llamados a la acción y elementos importantes.
+
+
+
+
+
+- Neutros: #000000, #D9D9D9, y #FFFFFF para mantener limpieza visual y contraste en la interfaz.
+
+
+
+
+- Botones: Los botones de Fix Now son llamativos, accesibles y fáciles de identificar. Tienen esquinas redondeadas, efectos al hacer hover.
+
+
+
+
+- Iconografia: La iconografía sigue un estilo minimalista y lineal, con íconos fácilmente reconocibles que mejoran la navegación.
+
+
+
+
+
+- Logo:	El logo de Fix Now combina tipografía moderna con un ícono representativo de tecnología y reparación. Refleja los valores de rapidez y confianza.
+
+
+
 
 ### 4.1.1. General Style Guidelines.
 
@@ -254,11 +320,28 @@ En esta sección se presenta un glosario de términos y conceptos utilizados en 
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
+
+
+
 ### 4.4.2. Web Applications Mock-ups.
 
 ### 4.4.3. Web Applications User Flow Diagrams.
 
+
+
+- Link:
+https://lucid.app/lucidchart/70accaac-a42d-4f91-83a4-3e0775019399/edit?viewport_loc=-713%2C-1604%2C5741%2C4711%2C0_0&invitationId=inv_c16693ff-fd14-4b88-9a95-f935ae4b70e7
+
+- https://lucid.app/lucidchart/9cd2d50d-7265-4a09-a46d-39b10aef2813/edit?viewport_loc=2368%2C-2928%2C6217%2C4209%2C0_0&invitationId=inv_724fff12-fb12-4fe6-9bd5-f1d5ffbbaa85
+
 ## 4.5. Web Applications Prototyping.
+
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXczONuUDiFCZ-qEla26ywbWqZwxAwXBe3Ugj_mGrsDRZIRcnG34vo7--Ekdal4Jdpu_NzN0d8C6cZdhm-jiPfyKEUbfhABH9qzGCj0qJey8nLY5fk6D0xGZdcqqrKdwNsTqFRm1?key=Xj2P6QILjgqkfn9BAsC6eih2" />
+
+- Link video Prototipo:
+  https://youtu.be/Kb-64_BmUtE
+- Link Figma donde se realizó el Prototipo:
+  https://www.figma.com/design/kEbEQEcTbGo7wVLYAmGe6s/Untitled?node-id=0-1&t=h5yMVfbwRTA4dOv0-1
 
 ## 4.6. Domain-Driven Software Architecture.
 
