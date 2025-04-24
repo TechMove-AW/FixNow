@@ -117,6 +117,7 @@
 # Capítulo I: Introducción
 
 ## 1.1. Startup Profile
+Esta sección incluye la descripción del Startup y los perfiles de los integrantes del equipo.
 
 ### 1.1.1. Descripción de la Startup
 
