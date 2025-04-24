@@ -281,34 +281,198 @@ En esta sección se presenta un glosario de términos y conceptos utilizados en 
 # Capítulo V: Product Implementation, Validation & Deployment
 
 ## 5.1. Software Configuration Management.
+En esta sección el equipo establece las decisiones y convenciones que permitirán mantener la consistencia durante el ciclo de vida. Se incluyen secciones internas para Source Code Management, Development Environment Configuration y Deployment Configuration
 
 ## 5.1.1. Software Development Environment Configuration.
 
+El equipo utiliza diversas herramientas en cada etapa del trabajo, desde la planificación hasta la ejecución y finalización del proyecto
+
+**Herramientas usadas:**
+
+**WhatsApp:** Aplicación de mensajería instantánea, disponible para Android e iOS. Es parte de Meta y cuenta con una versión web. [https://www.whatsapp.com/].
+
+**Discord:** Aplicación que permite la creación de un servidor que permite la creación de salas [https://discord.com/].
+
+#### Project Management
+
+**Trello:** Se utilizará para gestionar el Product Backlog, planificar los sprints y organizar las tareas. Trello permite a los miembros del equipo visualizar el progreso, gestionar prioridades y facilitar la colaboración mediante tableros y listas.  
+**Beneficio:** Facilita la visibilidad del estado de cada tarea, mejora la planificación y permite una mayor agilidad en la ejecución de los sprints.
+
+#### Requirements Management
+
+- **Miro:** Ayudará a administrar ideas, gestionar User Stories y planificar requisitos. Es una herramienta visual colaborativa que permite crear diagramas y mapas conceptuales.  
+  **Beneficio:** Mejora la claridad y alineación entre los stakeholders, permite la rápida iteración y evaluación de ideas, y ayuda a consolidar los requisitos del producto.
+
+#### Software Development
+
+-    **WebStorm:** Un IDE especializado en el desarrollo de aplicaciones web con tecnologías como JavaScript, HTML, CSS y Vue.js.
+    **Beneficios:** WebStorm ofrece características avanzadas como el autocompletado de código, depuración en tiempo real e integración con herramientas de control de versiones como Git, mejorando la productividad del equipo de frontend.
+-    **Angular**: Framework de desarrollo web basado en TypeScript, utilizado para crear aplicaciones web dinámicas, escalables y de alto rendimiento.
+    **Beneficios:** Angular ofrece una arquitectura robusta basada en componentes reutilizables, inyección de dependencias y enlace bidireccional de datos, lo que permite desarrollar interfaces ricas de manera estructurada. Además, su CLI (Command Line Interface) facilita la generación de código, pruebas y               despliegue, mejorando la eficiencia del equipo de desarrollo.
+-    **Github**: Plataforma para la gestión del código fuente, donde se integrará el código a través del control de versiones. Permite la colaboración en equipo y un flujo de trabajo ordenado mediante pull requests, revisiones de código, y la implementación de integraciones continuas.
+    **Beneficios:** GitHub asegura la trazabilidad de los cambios en el código, ofrece control sobre versiones estables y facilita la colaboración entre desarrolladores
+
+#### Software Testing
+
+-    **Google Drive:** Herramienta colaborativa para documentar 
+    **Beneficios:** Proporciona una plataforma para la creación de documentación técnica y pruebas en equipo
+
+
 ### 5.1.2. Source Code Management.
 
+El equipo utilizará GitHub como plataforma de control de versiones, apoyado en el sistema Git. Esta herramienta facilita la colaboración entre los miembros del equipo, permitiendo trabajar de forma simultánea y organizada.<br>
+Enlace al repositorio Gihub: https://github.com/TechMove-AW/FixNow  <br>
+Enlace al landing page: https://github.com/TechMove-AW/FixNow-LandingPage <br>
+**Flujo de trabajo con GitFlow**<br>
+Para el control de versiones se adoptará el modelo GitFlow, descrito por Vincent Driessen, el cual establece una estructura clara para el desarrollo colaborativo mediante ramas específicas:
+-    **main:** Rama principal que contiene las versiones estables del proyecto.
+-    **develop:** Rama donde se integran las nuevas funcionalidades antes de pasar a producción.
+-    **Feature:** Ramas individuales para cada funcionalidad nueva. Se derivan desde develop y se nombran siguiendo el formato feature/nombre-descriptivo.<br>
+**Conventional Commits** <br>
+Para mantener un historial de commits claro y estructurado, se empleará la convención Conventional Commits, que utiliza el siguiente formato:<br>
+Ejemplos de tipos comunes:<br>
+-    **feat:** Nueva funcionalidad
+-    **fix:** Corrección de errores
+-    **docs:** Cambios en la documentación
+-    **style:** Cambios de formato (indentación, espacios, etc.)
+-    **refactor:** Refactorización del código sin cambio de comportamiento
+-    **test:** Agregado o modificación de pruebas
+-    **chore:** Cambios en tareas de configuración o mantenimiento
+
+
 ### 5.1.3. Source Code Style Guide & Conventions.
+El equipo adoptará guías de estilo y convenciones para asegurar que el código sea limpio, legible y mantenible. Estas convenciones abarcan diversos lenguajes y tecnologías, cada una con recomendaciones específicas para mantener la calidad y coherencia en el código.<br>
+
+**HTML/CSS**<br>
+-    Guía de estilo: Se basará en la Google HTML/CSS Style Guide. Esta guía proporciona directrices sobre la estructura y formato del HTML y CSS, incluyendo la indentación, el uso de comentarios y la organización del código para mejorar la legibilidad y el mantenimiento.
+-    Nomenclatura: Se utilizará la metodología BEM (Block Element Modifier). BEM es una metodología que ayuda a crear una estructura modular y reutilizable en CSS, facilitando la comprensión y mantenimiento del código. Consiste en una convención de nombres para clases que mejora la claridad y la organización del CSS.<br>
+
+**JavaScript**<br>
+-    Framework: Se utilizará Angular para el desarrollo de componentes reutilizables y la gestión de la interfaz de usuario. Angular es un framework de desarrollo web robusto y completo, mantenido por Google, que facilita la creación de aplicaciones SPA (Single Page Applications) con una arquitectura modular y escalable.
+-    Guía de estilo: Se seguirá la Angular Style Guide junto con la Google JavaScript Style Guide. La guía de estilo de Angular proporciona buenas prácticas y convenciones específicas para el desarrollo de aplicaciones Angular, promoviendo una estructura de proyecto coherente, mantenible y escalable.<br>
+**Gherkin**<br>
+-    Guía de estilo: Se aplicarán las Gherkin Conventions for Readable Specifications. Gherkin es un lenguaje de especificación utilizado para escribir pruebas automatizadas de comportamiento (BDD). Esta guía proporciona recomendaciones para escribir características y escenarios de manera clara y comprensible, facilitando la colaboración entre desarrolladores y no desarrolladores.<br>
 
 ### 5.1.4. Software Deployment Configuration.
+La configuración del despliegue garantizará que las aplicaciones se ejecuten de manera eficiente y sin errores en los entornos de producción. Se implementarán las siguientes prácticas y herramientas para asegurar un proceso de despliegue ágil, fiable y automatizado:<br>
+-    **Landing Page:**<br>
+    -    **Plataforma de Despliegue:** La página de aterrizaje será desplegada en GitHub, aprovechando su integración directa con el control de versiones de GitHub. Esto permite que el contenido sea publicado y actualizado automáticamente en el dominio asociado.<br>
+    -    **Flujo de Trabajo CI/CD:** Se implementará un flujo de trabajo de Integración y Despliegue Continuos (CI/CD). Cada vez que se realice un push en la rama principal (main o master), GitHub Actions se encargará de construir y desplegar la página automáticamente. Esta integración continua asegura que los cambios en el código se reflejen de inmediato en el entorno de producción sin intervención manual.<br>
+
+
+**Integrantes del equipo:**
+
+| **Correo Electrónico**          | **Nombre Completo**              |
+|---------------------------------|----------------------------------|
+| U20231a804@upc.edu.pe           | Bustamante Leveau, Cameron Charllotte       |
+| u202218634@upc.edu.pe           | De La Cruz Moreno, Roy Hernan |
+| u202312391@upc.edu.pe           | Hallasi Saravia, Miguel Angel     |
+| U202319563@upc.edu.pe           | Muñiz Huayanca .Percy Alonso  |
+| U202310008@upc.edu.pe           | Urrutia Peña, Jasmin Adriana|
 
 ## 5.2. Landing Page, Services & Applications Implementation.
 
 ### 5.2.1. Sprint 1
 
 #### 5.2.1.1. Sprint Planning 1.
+El primer sprint se planificó durante una reunión en discord. Para ello, se creó una tabla para documentar la información discutida.
+
+|Sprint #                          |Sprint 1|
+|----                              |-----|
+|**Sprint Planning Background**        ||
+|Date                              |2025-04-20|
+|Time                              |05:00 PM|
+|Location                          |Virtual (Discord)|
+|Prepared by                       |Urrutia Peña, Jasmin Adriana|
+|Attendees (to planning meeting)   |Bustamante Leveau, Cameron Charllotte </br></br>De La Cruz Moreno, Roy Hernan</br></br>Hallasi Saravia, Miguel Angel</br></br>Muñiz Huayanca , Percy Alonso</br></br> Urrutia Peña, Jasmin Adriana|
+|Sprint n - 1 Review Summary       |No hubo sprint anterior|
+|Sprint n - 1 Retrospective Summary|No hubo sprint anterior|
+|**Sprint Goal & User Stories**        ||
+|Sprint 1 Goal                     |Realizar el Landing Page|
+|Sprint 1 Velocity                 |20|
+|Sum of Story Points               |20|
 
 #### 5.2.1.2. Aspect Leaders and Collaborators.
 
 #### 5.2.1.3. Sprint Backlog 1.
 
 #### 5.2.1.4. Development Evidence for Sprint Review.
+Se realizaron los avances con los commits correspondiente en el repositorio de la siguiente forma.
+
+Repositorio Landing Page: https://github.com/TechMove-AW/FixNow-LandingPage
+
+| Repository  | Branch              | Commit Id | Commit Message                                       | Committed on (Date) |
+|-------------|---------------------|-----------|------------------------------------------------------|---------------------|
+| TechMove-AW | develop             | 952f686   | Merge pull request #6 from TechMove-AW/develop       | Apr 23, 2025        |
+| TechMove-AW | develop                     | 59538ff   | fix image to styles.css                              | Apr 23, 2025        |
+| TechMove-AW | release/v1.0.0      | eff5d15   | Merge branch 'release/v1.0.0'                      | Apr 23, 2025        |
+| TechMove-AW | feature/contactos   | 1e38428   | Merge pull request #5 from TechMove-AW/feature/contactos | Apr 23, 2025        |
+| TechMove-AW | feature/testimonios | 5694c55   | Merge pull request #4 from TechMove-AW/feature/testimonios | Apr 23, 2025        |
+| TechMove-AW | feature/producto-iot| 556d183   | Merge pull request #3 from TechMove-AW/feature/producto-iot | Apr 23, 2025        |
+| TechMove-AW | feature/sevicios    | 5405f13   | Merge pull request #2 from TechMove-AW/feature/sevicios | Apr 23, 2025        |
+| TechMove-AW | feature/ver-mas     | bccec79   | Merge pull request #1 from TechMove-AW/feature/ver-mas | Apr 23, 2025        |
+| TechMove-AW | develop                     | 36886fb   | Add files via upload                                 | Apr 23, 2025        |
+| TechMove-AW |  develop                    | 94b8d04   | feat: Agregue el apartado de testimonios             | Apr 23, 2025        |
+| TechMove-AW |  develop                    | 7647f47   | feat(contact): agregar formulario de contacto          | Apr 23, 2025        |
+| TechMove-AW | develop                     | 84b010b   | feat: ver mas                                        | Apr 23, 2025        |
+| TechMove-AW | develop                     | 8eefadf   | feat: IoTproduct                                     | Apr 23, 2025        |
+| TechMove-AW | develop                     | 72f93d8   | feat: add services section                           | Apr 23, 2025        |
+| TechMove-AW |  develop                    | 3b2fa07   | Create index.html                                    | Apr 23, 2025        |
+| TechMove-AW | main                    | f8b6217   | Initial commit                                       | Apr 23, 2025        |
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
+En esta parte se presentará el progreso alcanzado durante el primer sprint, enfocado en la implementación de la Landing Page estática. Para ilustrar este avance, se ha creado el siguiente video
+
+URL del video:https://youtu.be/sefT6klhVpI <br>
+
+* Fix Now pestaña principal <br>
+
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc1vffCnKtWxyKyabvTnqGrkmY9RbBsEH5gJ3_wHDgkF35dNwHzIHmkvoO8jilHQe_CZbsfE6k7fnT0K8p-LTYb6aWrEb2a46RbRpaoxjoM3yoUvl2qcmE7eXH8z1Pgl1DEjF4npg?key=fxuJ81i7FgPCpYxPYy6v26h7" />
+
+* Ver mas<br>
+
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfgXzXgXI2yEo4iP_Yhfosk7sHYD9S2kfHxyrGmdB1NIRFkjyYl_A2VpyiX8-2DcuZ-qPz_WKCPdZNUksBfNl18-_iUpTjQv8hcUTtsviXrgjbGvopYtBVGi-VFkqWFpdYTYVPclQ?key=fxuJ81i7FgPCpYxPYy6v26h7" />
+
+* Servicios<br>
+
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXePwgZyTGcWr-K506vpd4DiH-HRbjCXczNmZcqitOTBen9AjBVJmLyTicSnAgv3j3QGV784QhfwoxuBh30ZH26gTpG8Z7rONPQPiJzVnRHneH13galQ1N9cY6K8nbvlb79C5zFY0Q?key=fxuJ81i7FgPCpYxPYy6v26h7" />
+
+* Producto Iot <br>
+
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe8EwToUUlxro1SvHxi-4-mgCY5Kv9y43rvZAiw-IBSlIxKFk_OQzVtqymYmOaMqSXc6aF-vdLVdG4hLaguBuEd9cDBkaNZd81TbCjb0ShUYguAJ1zUECzQh1CGODawAu7MZfzA?key=fxuJ81i7FgPCpYxPYy6v26h7" />
+
+* Testimonios <br>
+
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc0kWgnuXzSrpClB5M2svdlIPzLCEGxIGNhnWFg66cAfxFx-8Uci5iVVcb7Jy66DWuSTLITlMgCwb7_ZictpvJd_1WYbM9SkrbMf_JLAsFqg8dvjBJw8lymcXbyO7CGBmwI3aNSlA?key=fxuJ81i7FgPCpYxPYy6v26h7" />
+
+* Contacto <br>
+
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf642IOW5WWukP3qlKgqIOTF6IRRY_7gQvO6TbLbfyAYuOtbnerVnS99aFqoq_cA4A0ElMVA5ZII22hhzocIfVLO8NyEFcx96cnfSLz92B5uDTl6zJBOAJA641Ec0KNFqek3tS_KA?key=fxuJ81i7FgPCpYxPYy6v26h7" /> 
+
+
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+Durante este primer sprint, nos enfocamos únicamente en la creación de la Landing Page estática, por lo que no se trabajó con servicios web. Como resultado, en esta ocasión no se elaboró la documentación correspondiente al uso de servicios web.
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+Al finalizar el trabajo con todas las historias de usuario, realizamos el despliegue de la Landing Page utilizando GitHub Pages.
+
+URL de despliegue de la Landing Page: https://github.com/TechMove-AW/FixNow-LandingPage
+
+* Para realizar el despliegue, accedimos a la configuración del repositorio y navegamos a la sección de Pages. Posteriormente, seleccionamos la rama main desde la cual se llevará a cabo el deployment.<br>
+
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfylBTMf3qahAHi2NEA6ve2a5I5gxEfouywSNo82p5zjsjsky08bPJucGsuDmolhiyT0Ozt95ahv88EGJ9WdUb-V8CPKlyd62okKAoWTENiDV1t7Sbqf3CNVCRryZZnD5dlqD4R3A?key=fxuJ81i7FgPCpYxPYy6v26h7" />
+
+* Finalmente, solo queda esperar a que GitHub genere la página y proporcione el enlace correspondiente.<br>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcYe_1UGJsRhUm5fcn2oCOgbziHGNpIQNqD2kyFVN88zxBMcK752nVpkkYa3tVXvl1HVt4GWSk-Nl1RQx-xB6TJWCJp0Ek6Z7tuQoF1DUQy_nPiIyeV_sgnCq1w5NMiu4VR6Pmq?key=fxuJ81i7FgPCpYxPYy6v26h7" />
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
+La asignación de tareas para la implementación se dividió por secciones, donde cada miembro del equipo fue responsable de desarrollar una parte de la landing page:
+*    Bustamante Leveau, Cameron Charllotte: Implementacion de la seccion Contacto
+*    De La Cruz Moreno, Roy Hernan:Implementacion de la seccion Producto Iot
+*    Hallasi Saravia, Miguel Angel:Implementacion de la seccion Servicios
+*    Muñiz Huayanca , Percy Alonso:Implementacion de la seccion Testimonios
+*    Urrutia Peña, Jasmin Adriana:Implementacion de la seccion Ver mas
 
 # Conclusiones
 
