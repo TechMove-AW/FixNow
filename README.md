@@ -275,33 +275,33 @@
 ### 2.2.1. Diseño de entrevistas.
 Con el objetivo de comprender mejor las necesidades, comportamientos y expectativas de nuestros potenciales usuarios, hemos diseñado una entrevista orientada a validar el interés y utilidad de los servicios propuestos por Fix Now
 
-**Preguntas para el segmento hogares #1: Fix Now (conexión con técnicos más monitoreo inteligente)**
-1.-    ¿Con qué frecuencia necesitas servicios de técnicos como fontaneros, electricistas o carpinteros en tu hogar?
-2.-    Cuando necesitas este tipo de servicios, ¿cómo los buscas o contactas actualmente?
-3.-    ¿Qué dificultades has tenido al buscar técnicos especializados para problemas específicos en tu casa?
-4.-    ¿Qué tan importante es para ti que el técnico tenga buenas referencias o calificaciones?
-5.-    ¿Conoces o has usado alguna aplicación que conecte técnicos con usuarios? ¿Cuál fue tu experiencia?
-6.-    ¿Te sentirías más seguro/a contratando un técnico a través de una app que verifique sus datos, experiencia y opiniones?
-7.-    ¿Te interesaría una aplicación que, además de ayudarte a encontrar técnicos, te permita monitorear el consumo de agua y electricidad en tu hogar?
-8.-    ¿Qué beneficios crees que podría traer la detección temprana de fugas de agua o fallas eléctricas en tu vivienda?
-9.-    ¿Qué tan dispuesto/a estarías a instalar sensores de monitoreo si la instalación fuese sencilla y a bajo costo?
-10.-    ¿Preferirías recibir notificaciones directamente en tu celular si se detecta un consumo inusual de agua o luz?
-11.-    ¿Qué funcionalidades te parecerían más útiles en una app como Fix Now? (Por ejemplo: chat con técnicos, historial de consumo, alertas automáticas, cotización inmediata, etc.)
-12.-    ¿Cuánto estarías dispuesto/a a pagar por un servicio que combine conexión con técnicos y monitoreo inteligente en tiempo real?
+**Preguntas para el segmento hogares #1: Fix Now (conexión con técnicos más monitoreo inteligente)**.
+1.    ¿Con qué frecuencia necesitas servicios de técnicos como fontaneros, electricistas o carpinteros en tu hogar?
+2.    Cuando necesitas este tipo de servicios, ¿cómo los buscas o contactas actualmente?
+3.    ¿Qué dificultades has tenido al buscar técnicos especializados para problemas específicos en tu casa?
+4.    ¿Qué tan importante es para ti que el técnico tenga buenas referencias o calificaciones?
+5.    ¿Conoces o has usado alguna aplicación que conecte técnicos con usuarios? ¿Cuál fue tu experiencia?
+6.    ¿Te sentirías más seguro/a contratando un técnico a través de una app que verifique sus datos, experiencia y opiniones?
+7.    ¿Te interesaría una aplicación que, además de ayudarte a encontrar técnicos, te permita monitorear el consumo de agua y electricidad en tu hogar?
+8.    ¿Qué beneficios crees que podría traer la detección temprana de fugas de agua o fallas eléctricas en tu vivienda?
+9.    ¿Qué tan dispuesto/a estarías a instalar sensores de monitoreo si la instalación fuese sencilla y a bajo costo?
+10.    ¿Preferirías recibir notificaciones directamente en tu celular si se detecta un consumo inusual de agua o luz?
+11.    ¿Qué funcionalidades te parecerían más útiles en una app como Fix Now? (Por ejemplo: chat con técnicos, historial de consumo, alertas automáticas, cotización inmediata, etc.)
+12.    ¿Cuánto estarías dispuesto/a a pagar por un servicio que combine conexión con técnicos y monitoreo inteligente en tiempo real?
 
-**Preguntas para el segmento Trabajadores #2: Fix Now (conexión con técnicos más monitoreo inteligente)**
-1.-    ¿A qué tipo de trabajo te dedicas actualmente? (Fontanero, electricista, carpintero, etc.)
-2.-    ¿Cómo consigues actualmente a tus clientes? ¿Usas redes sociales, recomendaciones, plataformas especializadas, etc.?
-3.-    ¿Qué dificultades enfrentas al momento de encontrar nuevos clientes?
-4.-    ¿Has usado anteriormente una aplicación o plataforma digital para ofrecer tus servicios? ¿Cuál fue tu experiencia?
-5.-    ¿Qué tipo de herramientas o funcionalidades te gustaría que tenga una app para ayudarte a ofrecer tus servicios?
-6.-    ¿Qué tan importante sería para ti tener una plataforma que verifique tu perfil y te permita destacar tu experiencia y calificaciones?
-7.-    ¿Estarías dispuesto a pagar una pequeña comisión o suscripción a cambio de recibir clientes constantes y soporte digital? ¿Por qué sí o por qué no?
-8.-    ¿Qué expectativas tendrías de una app como Fix Now en cuanto a pagos, seguridad, comunicación con los clientes y flexibilidad?
-9.-    ¿Qué tipo de trabajos prefieres realizar? (urgencias, mantenimientos programados, proyectos grandes, etc.)
-10.-    ¿Qué canales prefieres para recibir notificaciones de nuevos trabajos? (notificaciones en app, mensajes de texto, correo, llamadas, etc.)
-11.-    ¿Qué valoraría más en una plataforma como Fix Now? (mayor visibilidad, facilidad de pago, agenda organizada, herramientas de cotización, etc.)
-12.-    ¿Qué días y horarios sueles tener más disponibilidad para atender servicios?
+**Preguntas para el segmento Trabajadores #2: Fix Now (conexión con técnicos más monitoreo inteligente)**.
+1.    ¿A qué tipo de trabajo te dedicas actualmente? (Fontanero, electricista, carpintero, etc.)
+2.    ¿Cómo consigues actualmente a tus clientes? ¿Usas redes sociales, recomendaciones, plataformas especializadas, etc.?
+3.    ¿Qué dificultades enfrentas al momento de encontrar nuevos clientes?
+4.    ¿Has usado anteriormente una aplicación o plataforma digital para ofrecer tus servicios? ¿Cuál fue tu experiencia?
+5.    ¿Qué tipo de herramientas o funcionalidades te gustaría que tenga una app para ayudarte a ofrecer tus servicios?
+6.    ¿Qué tan importante sería para ti tener una plataforma que verifique tu perfil y te permita destacar tu experiencia y calificaciones?
+7.    ¿Estarías dispuesto a pagar una pequeña comisión o suscripción a cambio de recibir clientes constantes y soporte digital? ¿Por qué sí o por qué no?
+8.    ¿Qué expectativas tendrías de una app como Fix Now en cuanto a pagos, seguridad, comunicación con los clientes y flexibilidad?
+9.    ¿Qué tipo de trabajos prefieres realizar? (urgencias, mantenimientos programados, proyectos grandes, etc.)
+10.    ¿Qué canales prefieres para recibir notificaciones de nuevos trabajos? (notificaciones en app, mensajes de texto, correo, llamadas, etc.)
+11.    ¿Qué valoraría más en una plataforma como Fix Now? (mayor visibilidad, facilidad de pago, agenda organizada, herramientas de cotización, etc.)
+12.    ¿Qué días y horarios sueles tener más disponibilidad para atender servicios?
 
 
 ### 2.2.2. Registro de entrevistas.
