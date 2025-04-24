@@ -382,7 +382,7 @@ El primer sprint se planificó durante una reunión en discord. Para ello, se cr
 |**Sprint Planning Background**        ||
 |Date                              |2025-04-20|
 |Time                              |05:00 PM|
-|Location                          |Virtual (Google Meet)|
+|Location                          |Virtual (Discord)|
 |Prepared by                       |Urrutia Peña, Jasmin Adriana|
 |Attendees (to planning meeting)   |Bustamante Leveau, Cameron Charllotte </br></br>De La Cruz Moreno, Roy Hernan</br></br>Hallasi Saravia, Miguel Angel</br></br>Muñiz Huayanca , Percy Alonso</br></br> Urrutia Peña, Jasmin Adriana|
 |Sprint n - 1 Review Summary       |No hubo sprint anterior|
