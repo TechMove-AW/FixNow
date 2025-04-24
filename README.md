@@ -327,6 +327,20 @@ Open Sans, DM Sans y Onest están destinados a párrafos y descripciones, aporta
 
 ### 4.4.3. Web Applications User Flow Diagrams.
 
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf_-xdEa6_iOQ2glySzyMNKFj8G4bbBhUlev1FkGYXQFXKuajWHG4hdR4Kt_ZDnqXK_PF3u2iKElziNuS2gGH5psm4IsZX1WTROXuqrLSvP0uhSCuhmwhzeT5TKPm3hUYoZLpUZ6g?key=Xj2P6QILjgqkfn9BAsC6eih2"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeQJvX3TfZPLUgSjOR9e79Kr2ciwi2wGdsg9GLbJNK8QEu5zkSRezVRR3qAHBmHd4rPK_DmISBatny6RmeLMOiETGjakTLHh2SJTQnMyyXaiJ2G-eNMA3T8pOMv5Y-tNF-k_oXu?key=Xj2P6QILjgqkfn9BAsC6eih2"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeiFQsEPtVTahWzTu5GUwlzUmZZv5vgE9nHr5uWnxWNXuwYRGHtWvkLIFOVsXmtfHmL-VaeJ2KpBS_RY8o9W2YCLpGbCNqBh7FdSEWvFNgEbpECUyO8kKNkKCTSkt_mVgwog2kZnw?key=Xj2P6QILjgqkfn9BAsC6eih2"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdT4q6-8yAVNiHIwkPvrB91-xS0NI5Aw9WfHVbn7ojfdg-b1U37G4x8f7opDUuda8as7cxWMJrevrKtoBx4j3VmsuA50OjzwQ6H5tsSIe0h2uGBzJuWG9rKE7Idnc47fopiBov6?key=Xj2P6QILjgqkfn9BAsC6eih2"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe_aVHS_yOlOE-_66WIuh1BR9CHZKcCLNLvc0K37oeaAPRpK9UmEQlqa9c3DXG1nBClyrQXydSWfr5LqvX-xryt6SAaxcplx7os-VV2VmAwheVdMyxlx4qpPXq2Vc8ND0pyPZSpNw?key=Xj2P6QILjgqkfn9BAsC6eih2"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf8GasaatzxnkohvJoEYZp_ZgsRtjsZU75jCHbNBq8fCgXynJi3gVTfTsU4tkyTSgXLI3p_m2RsAutMLXXXH2_XaA18dxinPWp9aSQ8041-hqWAz6xoTqUiq8gdZ5uVM0iWQrMo_Q?key=Xj2P6QILjgqkfn9BAsC6eih2"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd6ZvW8WiBRlJuBhPPWIRL4nxKiHd4l4iWJrXVbwODO8O3ULYnVTUzbkMfKdif2gRMmiesau9s1IRgIZv9OAdoV5urN6bGt9VngDjQgy0dRWsRNfU7bRRgVPpxSK744E7CpbQY5?key=Xj2P6QILjgqkfn9BAsC6eih2"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfj27n_9s_GvIXLUuPcqW73DO29hu8Ef1tNXk1vpqX5W-J9t5hP90UAy_CIYcQ9cMEBYjenraLoTVeqmB0R1VBIXAGOc9a-HzRfc4S1IF9QIQSuPzM0T0HjHhkUZO7f3SFcHWk14w?key=Xj2P6QILjgqkfn9BAsC6eih2"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfww3WZeFSn3nuGFuGNEBhEw2utO3Er8PMROdY53yc4KJCs59LGlN9RT96xqJDNkBp5crPkCK4lBTtd-Zy98LMkRH4Qoi065E2SHZVeWhOHrKEkmL13WDzwl4e4UZiVGhaFoR5aEQ?key=Xj2P6QILjgqkfn9BAsC6eih2"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcNcesLKPCQgHDPv73OfCFCEKZzGNCCD5riUbkFUpDSO5Q6weJCrdRWMmn5oKTVE-zfYC1JwKLtJdGa1bsYKSVIsJCcX10bVmeDJckoxkGRHnPr0EiqNqJXoKZyVTDnt_d6YARD?key=Xj2P6QILjgqkfn9BAsC6eih2"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd_FWgPT-LTpHUMsbTq-u3fFouteyYBPedDm6gdQ0Xr_rN-RECJrpUHA5ZkC8hE0v0l1oZ6A3MXTI5EnNgCI4UP6ulBBbP_P_DY8u1T6h1XaQKRlwQnxjBTPb4qJXCTdXNNTFikQQ?key=Xj2P6QILjgqkfn9BAsC6eih2"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfuw29d4mP0qhsoiLHFbDhhIjMoi3ikBdVrl0LiHGHyWYlKekFWfd7rhTBuGe4CxeLRLF_21j4Q8MrwqLmvae86NX5w4YMRiJSTd648e3DuW9Mq7BMIQf_q2-9ykeevnpbkUiGuQg?key=Xj2P6QILjgqkfn9BAsC6eih2"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfLH14tNCypyWU_R-BOlnnptMjn2AjM13wk5Bn_snL_YfP9YdgEEThDI_urpO0QSc0nZY8nToGelZA6SA2nWBsXBqk-7t9d3JvMVY9RhmHNR3lRtqCVs0tuAIRsjjykLHBgp9ZE6Q?key=Xj2P6QILjgqkfn9BAsC6eih2"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfsM3_NoZloQ2de1reuy9TAIwmBXq8OLAZaVU1JDTsAxCM_ucoqcyUOuQeOe9x47LguaWkCkvEOLHQpkfh5j52CNgTJQaxhWZpZtVP11mgYYbrjNPbJZuu3N9XylcDPaix3MB_O2g?key=Xj2P6QILjgqkfn9BAsC6eih2"/>
 
 
 - Link:
