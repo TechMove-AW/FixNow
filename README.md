@@ -101,7 +101,9 @@ Los integrantes son:
 **feature**: contiene los cambios constantes realizados por los artefactos relacionados con el sprint 1 del informe.
 
 Los siguientes gráficos representan analíticos de commits en el repositorio del informe. En los gráficos se incluye la cantidad de lineas de texto añadidas por cada integrante del equipo.<br>
-**TB1**
+**TB1**</br> 
+
+<img src= "https://lh7-rt.googleusercontent.com/docsz/AD_4nXceiVKsyXQ-i1jUx1VwWfDzloKWV4CUBkjakMIS4Rn0gmBKMF7lu1LiJL1hsMkN5qhcgMKxm5z2RpUEbJ8wZCMSUO0Wp5honr129BJYSe00HpCuXllOTYFqmyla-MlOogCBs43w?key=pBJWG96xHxpH_57aWDst0Zo_">
 
 ## Student Outcome
 
