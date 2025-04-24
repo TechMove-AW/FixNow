@@ -375,6 +375,22 @@ La configuración del despliegue garantizará que las aplicaciones se ejecuten d
 ### 5.2.1. Sprint 1
 
 #### 5.2.1.1. Sprint Planning 1.
+El primer sprint se planificó durante una reunión en discord. Para ello, se creó una tabla para documentar la información discutida.
+
+|Sprint #                          |Sprint 1|
+|----                              |-----|
+|**Sprint Planning Background**        ||
+|Date                              |2025-04-20|
+|Time                              |05:00 PM|
+|Location                          |Virtual (Google Meet)|
+|Prepared by                       |Urrutia Peña, Jasmin Adriana|
+|Attendees (to planning meeting)   |Bustamante Leveau, Cameron Charllotte </br></br>De La Cruz Moreno, Roy Hernan</br></br>Hallasi Saravia, Miguel Angel</br></br>Muñiz Huayanca , Percy Alonso</br></br> Urrutia Peña, Jasmin Adriana|
+|Sprint n - 1 Review Summary       |No hubo sprint anterior|
+|Sprint n - 1 Retrospective Summary|No hubo sprint anterior|
+|**Sprint Goal & User Stories**        ||
+|Sprint 1 Goal                     |Realizar el Landing Page|
+|Sprint 1 Velocity                 |20|
+|Sum of Story Points               |20|
 
 #### 5.2.1.2. Aspect Leaders and Collaborators.
 
