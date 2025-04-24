@@ -224,59 +224,317 @@ En esta sección se presenta un glosario de términos y conceptos utilizados en 
 
 # Capítulo IV: Product Design
 
-## 4.1. Style Guidelines.
+## 4.1.1 Style Guidelines. 
+Esta sección establece las bases visuales y comunicacionales de Fix Now, garantizando coherencia en toda la experiencia digital. Se crea un repositorio común para el equipo con assets gráficos, fuentes y reglas visuales que mantienen una presentación profesional, accesible y funcional tanto en web como en móvil.
 
 ### 4.1.1. General Style Guidelines.
 
+La identidad de Fix Now se basa en transmitir profesionalismo, eficiencia y cercanía. La marca busca posicionarse como una solución tecnológica de confianza para quienes necesitan servicios técnicos de calidad, así como para quienes desean monitorear el consumo de recursos en sus hogares de manera sencilla. Por eso se escogieron los siguientes style guidelines.
+
+#### Typography
+Para lograr una lectura cómoda y moderna, se seleccionó una combinación de tipografías con diferentes pesos y estilos que permiten estructurar jerarquías claras.
+- Montserrat y Poppins se utilizan en titulares por su robustez y claridad visual.
+  
+  <img src="img/letra1.png" alt="1" />
+  
+- Open Sans, DM Sans y Onest están destinados a párrafos y descripciones, aportando legibilidad y neutralidad.
+  
+   <img src="img/letra 2.png" alt="2" />
+   
+- Tipografías como Playfair Display, Playfair Display SC y Playwrite US Trad se usan en títulos decorativos o frases clave, mientras que Dancing Script aporta un toque más expresivo en elementos visuales que buscan una conexión emocional.
+  
+  <img src="img/letra3.png" alt="3" />
+
+#### Colors
+ La paleta cromática fue cuidadosamente seleccionada para proyectar seguridad, eficiencia y modernidad:
+ 
+- Primarios:
+	- #29405A: azul profundo que transmite confianza y estabilidad.
+	- #2247C0: azul intenso que denota tecnología y profesionalismo.
+	- #3E72AD: azul medio que aporta frescura y balance.
+   
+ 	  <img src="img/color1.png" alt="4" />
+   	  
+
+- Secundarios:
+	- #42CACA: tono aqua que brinda dinamismo, innovación y frescura.
+	- #FFD900: amarillo brillante para llamados a la acción y elementos importantes.
+ 
+   	<img src="img/color2.png" alt="5" />
+
+    
+- Neutros:
+	- #000000, #D9D9D9, y #FFFFFF para mantener limpieza visual y contraste en la interfaz.
+   
+   	<img src="img/color3.png" alt="u" />
+
+#### Botones: Los botones de Fix Now son llamativos, accesibles y fáciles de identificar. Tienen esquinas redondeadas, efectos al hacer hover.
+<img src="img/boton.png" alt="y" />
+	
+
+#### Iconografia: La iconografía sigue un estilo minimalista y lineal, con íconos fácilmente reconocibles que mejoran la navegación.
+<img src="img/icono.png" alt="7" />
+
+
+#### Logo:	El logo de Fix Now combina tipografía moderna con un ícono representativo de tecnología y reparación. Refleja los valores de rapidez y confianza.
+<img src="img/logof.png" alt="8" />
+
+
 ### 4.1.2. Web Style Guidelines.
 
+La experiencia web de Fix Now está diseñada pensando en una navegación intuitiva, con elementos visuales bien jerarquizados y adaptados a distintos tamaños de pantalla.
+
+- Se prioriza la legibilidad y claridad, con títulos grandes, espacios generosos y botones que destacan sobre el fondo.
+- Los botones tienen esquinas redondeadas, efectos de hover suaves, y cambios de color que comunican interactividad.
+- Las interfaces están construidas para ser completamente responsive, adaptándose fluidamente a dispositivos como laptops, tablets y pantallas grandes.
+- Las tarjetas, formularios y paneles están diseñados siguiendo un estilo limpio, con íconos explicativos y elementos interactivos fácilmente reconocibles.
+
+Para el diseño de la landing page de Fix Now se utilizó el patrón Z debido a su eficacia en la lectura y escaneo visual en pantallas. Este patrón guía naturalmente la vista del usuario desde la parte superior izquierda hacia la derecha, bajando diagonalmente hasta el extremo inferior izquierdo y finalmente hacia la derecha otra vez, formando una "Z". Al seguir este recorrido visual intuitivo, se mejora la jerarquía de la información, se capta la atención del usuario rápidamente y se optimiza la conversión desde los primeros segundos de interacción.
+
+<img src="img/patronz.png" alt="8" />
+
 ## 4.2. Information Architecture.
+La arquitectura de información de Fix Now está estructurada con base en la claridad y facilidad de uso. Se ha diseñado pensando en minimizar la carga cognitiva de los usuarios y permitirles acceder rápidamente a la información o servicio que buscan. La experiencia se adapta tanto para nuevos visitantes como para usuarios frecuentes, brindando un recorrido fluido e intuitivo.
 
 ### 4.2.1. Organization Systems.
+Se aplican distintos sistemas de organización según el tipo de información y contexto de uso:
+- Jerarquía Visual: En la landing page y paneles, se prioriza la presentación de contenido clave en la parte superior. Títulos, botones de acción y notificaciones son fácilmente identificables.
+- Organización Secuencial: El proceso de solicitar un servicio sigue pasos claros: búsqueda del técnico, selección, agenda y confirmación.
+- Organización por Audiencia: Existen rutas específicas tanto para Clientes como para Técnicos, con interfaces y contenidos adaptados a sus necesidades.
+- Categorización por Tópicos: El monitoreo de consumos está dividido por categorías como “Agua” y “Electricidad”, y cada tipo de servicio técnico se agrupa por especialidad (fontanero, electricista, carpintero, etc.).
 
 ### 4.2.2. Labeling Systems.
+Los textos, etiquetas y botones de navegación han sido cuidadosamente definidos para evitar ambigüedades y facilitar la comprensión.
+- Se priorizan palabras simples, directas y en español claro.
+- Las etiquetas utilizan un máximo de 2 a 3 palabras por ítem.
+Ejemplos:
+- “Buscar técnico”
+- “Agendar cita”
+- “Consumo de agua”
+- “Mis servicios”
+- “Técnicos disponibles”
+- “Configuración”
+- “Soporte”
+Además, se acompañan de íconos o descripciones breves para aumentar su reconocimiento inmediato.
 
 ### 4.2.3. SEO Tags and Meta Tags
+- Landing Page (versión pública):
+	- Title: Fix Now - Servicios técnicos y de mantenimiento al instante.
+	- Meta Description: ¿Tienes una fuga, necesitas pintar tu casa o instalar una campana extractora? En Fix Now te conectamos con profesionales confiables en plomería, electricidad, pintura, carpintería y mucho más.
+	- Keywords: técnicos, fontaneros, electricistas, monitoreo del hogar, consumo sostenible, servicios técnicos
+	- Author: Equipo de desarrollo de Fix Now
+
+
+- Aplicación Web (usuarios registrados):
+	- Title: Fix Now - Panel de usuario
+	- Meta Description: Contamos con profesionales de distintas áreas para brindarte soluciones rápidas, confiables y de calidad.
+	- Keywords: panel de usuario, servicios activos, técnicos disponibles, historial de consumo, sostenibilidad
+	- Author: Fix Now App Team
+
 
 ### 4.2.4. Searching Systems.
 
+El sistema de búsqueda de Fix Now está diseñado para ofrecer una experiencia fluida, incluso cuando hay una gran cantidad de servicios y técnicos disponibles.
+- Buscador principal: Permite buscar técnicos por tipo de servicio.
+- Filtros dinámicos:
+	- Tipo de técnico (electricista, gasfitero, carpintero…)
+	- Calificación promedio
+	- Disponibilidad por día y hora
+	- Cercanía geográfica
+- Resultados visuales: Los técnicos se muestran en tarjetas con nombre, especialidad, calificación, y botón de agendar.
+
 ### 4.2.5. Navigation Systems.
+
+Se han implementado sistemas de navegación claros, jerárquicos y adaptables según el dispositivo:
+- Landing Page: Navegación superior con enlaces directos a “Inicio”, “Servicios”, “Producto”, “Testimonios”, “Contactanos” y “Registrarse”.
+- Botón de acción principal: “Iniciar Sesión”, siempre visible.
+- Aplicación para clientes:
+	- Barra inferior con íconos para acceder a: Servicios, Monitoreo, Historial, Perfil.
+- Aplicación para técnicos:
+	- Panel lateral con accesos rápidos a: Nuevas solicitudes, Agenda, Mensajes, Perfil.
+- Feedback visual constante: Indicadores activos, animaciones suaves y confirmaciones visuales para cada interacción.
 
 ## 4.3. Landing Page UI Design.
 
 ### 4.3.1. Landing Page Wireframe.
 
+| Vista Previa Desktop Web Browser | Vista Previa Mobile Web Browser |
+|----------------------------------|----------------------------------|
+| <img src="img/landingwireframe.png" alt="landingwireframe" />  |<img src="img/landingwireframemobile.png" alt="landingwireframe2" width=85 /> |
+
+Link:[https://www.figma.com/design/GizyZC1lEsPasOO3mWmkQI/Untitled?node-id=1-2&t=GSnzJYQiwQ39h97p-1](https://www.figma.com/design/GizyZC1lEsPasOO3mWmkQI/Untitled?node-id=1-2&t=GSnzJYQiwQ39h97p-1)
+
 ### 4.3.2. Landing Page Mock-up.
+| Vista Previa Desktop Web Browser | Vista Previa Mobile Web Browser |
+|----------------------------------|----------------------------------|
+| <img src="img/landingMockup.png" alt="landingmockupmobile"  />  |<img src="img/landingmockupmobile.png" alt="landingwireframe2" width=100/> |
+
+Link:[https://www.figma.com/design/GizyZC1lEsPasOO3mWmkQI/Untitled?node-id=1-2&t=GSnzJYQiwQ39h97p-1](https://www.figma.com/design/GizyZC1lEsPasOO3mWmkQI/Untitled?node-id=1-2&t=GSnzJYQiwQ39h97p-1)
 
 ## 4.4. Web Applications UX/UI Design.
-
 ### 4.4.1. Web Applications Wireframes.
 
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf366wweEsS-YOr4r_vYD_n2Q5ri0l4LWCcwYQTsKGpfgIGQNIOGBXOJl7QYbjKNjl2PNrqFQQgW7AsaIrTtl58sZg1q4_57r6A4PNtGTdibEumr59o0Noly5QC-T2pU-QamoXHLw?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcZ1KCk_miLxUdroC6qyfHcuLwdfq_veOXb6OGGn2cRX6QoIKtDOxJQeYROGpG1R_o2lhYYfWKQLSQA1i-L70-pD3ihTDnSEmhq9tO07LmTEwI-2E_BINRTKZEkpjnW7Ia9ezcicw?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcah65r9ZEJFfKYDmC5D3LLBILdJdtGx0XK9dw-KGmFKh_hZGQzy7k5xDWGvKBY54SOyWVHWEEOWdphOJqIrauy8akIgJKBkx9hqWLcCTARnEIVNzNBpvKmLKNTzcU533y4iPhlEQ?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfvl6UaD_7U9RTwfo7m8U2fLDlGIxnHXkqe0naGyZrz4haQadLL7aLi24wgcf-mLTR9oIwPTwDeFdTm_GiLpGnCipWcaUkG-g76PVAutr88mMeEMSLItTpAoHzBQTPo2tpC0s4S7A?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeBDlyhYJtZxmPBA-qu--zB4IO0aTwXGLlw9A24euVxDMZ8NEjkaMXjg_9krFEjYpUmFMJW0GsYgw-L48taUIvHwGCcznu-F7j9_Izgjwpe5RwR5ohph5ZYd8JZ0YnuyjIP51kz?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe8gr5sEAgLeB-Q-ydz2Yvm1wfMteAmAfl4gYrymNTFEWSjpE3Fx4MPOI7eXk5AwJl3YqiuSkgR0RNSaUmvmoDcGT38tGbpdbbF6_q7bkBns6NxtSYfYrPUpUXafbToO1WsDiP_?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfGoyeywgf2YYGUqegR1uAJaOo-2gBNYAOS6oLicLLnpp2Yp1eFuC-J1a0vl4uO17Ne0Dc5arLIhJKKUrnmvjl1-JASLLrw603Kko3x8xqSJxoDo3LPZmA2oDln6HohCvxjP6snng?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcNR40v0yBN73cYH64reZTZX4YWFzygXrKfZaoPSwz_hspiU7xA9cltcnzWIp0LEg6-DtFIjonYnu3tI1eoGKaOzHO3fNzzy-3UJdHZLuYC_al5bbLJdKInoUqb8or-r3iatXWnLg?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcgDDaS0qGVGV5Qe9-GJPCg1y3stQG0ce1R_f3Va0EUzhTfJ4sJIfRJ0hCBlc_E6eUOjGlTP2InHFjQot6AaG0O4OvRKujwxgZA9Zp-dwvi5qrMB17zRIiymbJHvZ5F4P2OjbPvjw?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdfF3aG7sRyy4Afi-hDmu-kTpwWY46A4j8wUagxiA7dawBV2b9plXWjc5LlopcwP4qj2Y8UEP1rIaazosrxbr5z0iV0islkb5fmm4IbD3AL58hVv1RXrJNSYK2IPIViq26H5iDjag?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdcMeXfRo915vPrLl2U3v3kNIQwc6PpaQippLL7M043pgUBoA8geU6sl_9rW5Gb-xzlxjXo25YDm9yVzqg9mOeqVJllUfRjUv5o1bUq2IjigXIEpWv_YoIe3BV5pf_wOwf5ix_-Hw?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf0s538TKV5r7gwIUbO_vv3HgTmtEsRdmBd633NqG2_LxzgrajurUU3oRAnWoddsA3i4bRKh_3yihOQsW2kAHJ02qz3VT0KuMhKHRZ9Gcw7df_Oh8s1aw_LdyxZ-SOXXSuIJCwr?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXezSrtJSb-rnTDCbXAqNek76GdRsh91VS3yH-KUypzb6EHCBNTKk2Yd0TVtBBbD2XlU4SavXwWVdjWhT7WIBclqtLlAhkEkFE4sio9KRdVwXUOKYlwG8Utq_sffDMOqVNA386fryw?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcOzhOQS7EEak3TrpfrQG4jAaND3h6orLF0RUfFA0-Sj0VsKTt5BTHmuB93xJxyN2fqkqZTF-3tfA6JIaJOwsQ5pBbn4ljPEcOuQP6_ODVezSz711oa9Ely68q1de5-m-yKOSzrmg?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd-tlxr4nCHXFVk6YPZYkxCHfa677RP2O8cHVdRKbEpr5IHJqE_FFoI2cYIfiwL8n6C2zxUY5nYc5chJmIbCYN_s3NCVjktjQFUtYKabH2hXBM3xuGUQBY4YdCKP1BMcYiLN7XX?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe3ryWTuiFM9XhBqovzVIdlRMRpjJ85ZYU_ntpiVAkOb54-fMUK0_jzD5nerX3mm9y28Xgoixnl3NbCk3NFa2l8jIv6oJDGmgsHfwTC_YAVnmANhlWzJHHDP0snx8-ADuKLcPSysQ?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfX9_9rfCBJm3n3W-MHNWFJhX33d5_4VnRPRz-PJ6EkmqU8mDhjzg_GI97Kbo_xqGJPhXGbJYP0lNCIwQ5sWL8YeKCJXiHVPw4xMwMsYGC87m0RyQkvd1G3ozZV2NqhQaiXMVI2?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeJb0vFO83ae9e50tMiyYs1M1M02KQttWJQ9jRgGlHu6oLEbxZQluZpZF_JHj6vjzb2glGSQBSeuYFmaE3cL5oLJhLSuq-OnNWuL0rhCyJIMr8URgpp4vkd7ChdAe8XDivWk3akzA?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdjhLPuTBxU5akIRWO0BGPRWKWnxa8TkI0wNtUvHvEcR183_aRS7F1KmW0IAfrYF6VfAwM7bP-IHK9_sGF10YejNSHAOdVsPtoaOMiyJNwxnn7CjJVBQaiaQCXAIGwXeDCSYYUI?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcGfJPDm3b4TD0IgptcaxfrjvP2sVefgPpfCwwWiEXxSowd5IElgiqPK8jAEeD4Xc8ZpHnfwulv6fN64xyL44aeBo6pJ9ss2zq40tLD6BQPO80zOhppb7yOh9cI223nGVF23PLxKg?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcwFzt2YeyK3mH0GlTZm5-uMtvkQnNzyMDRUgXtpeYTfysNc-FakSgpvzY7oawDlY75Zs16-ucYZ5CFX3IGgPXxFn9-hSnao9Lnj4tq7Gk9G3iC3AmS2EEkaFISnRDbc_j8Xv94?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXePY_v8DbEqXj3GqRWscCJMmslb38OuAo0g8acWlyzL2LhG7sLHM1wKpCY5cs-44QgTLngBKQBDJyLQuPR0yc-IbIOhqD_9TaxHHg_MqLqy_SKbRD-P2QyNy9bAMp0s9odbhJ1M3w?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+
 ### 4.4.2. Web Applications Wireflow Diagrams.
+ <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXckLWRvejYEk4ec8eEp3e383PBxtnH3Hqln4H9MOF99wAVJ0qBLYpgqwlT2UgXJsRcxA2hDKYSgQ_QBUpxxvAxhGUGWs2v25pCvbFC04sjNGfPqNw3xjF6vCIempmy3WYGPv1vo?key=Xj2P6QILjgqkfn9BAsC6eih2" />
+ <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdQeUsSNR4xlKrYbxN96vTlkSpF51JELSocta2oSxFYFGEFptwgpTGQrcnn70c5wnScHu1MnmU_2bXJbS74LRK-79-M9VL8Ks3PatTIMEo9HWbhv4AyCpTVMYGwK_Q8jTfg7sKO5w?key=Xj2P6QILjgqkfn9BAsC6eih2" />
+ <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcw9OCY4JXPcNLdLEUG5fWhJX_GjfPjACtNqoP63pz-aBl6npNqxrk1e_uiQisoHhFVnKmkP-hhkkScnGmAhEYo7FlA8IPvoQj0labtHJ3rzxNln63tTXvtmX-zVlJ8vAOjhFAW?key=Xj2P6QILjgqkfn9BAsC6eih2" />
+ <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeT5XSitLJ4qmEbyWK4Qs9XxBE-fF64B47sO_6JdpGbJz9QmMzmHJsb8kfQfdqy7r6czXKAPNwKd1byqBWcrZJVyasJ9whO5T2IhJ8yACqzAfyY-LACOtj6dN8FqWUCcjFIp8D5Gg?key=Xj2P6QILjgqkfn9BAsC6eih2" />
+ <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcXvANbLg2KDqpvbxfwrOr4SJtF-FpWwYMlhMtWZ52GgCU5zNU0t9P3JyRrPfMjn52j_gdazBqiyFvHChVRWEDMNdi2O9QV1OWQ__tao9M_c2sbdv5Jm8pdtGaScj9aOT7IcJ-wWQ?key=Xj2P6QILjgqkfn9BAsC6eih2" />
+ <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcl063RLjyAQD291RfjEdOHWXmROhIl2JOp5MRqx5s2Hsv5hmGs0pIzJHg3DOWh3SD5eszaMKWkVyauDdHlDoAJrw_f55Cupy9RMmFNGVezCt7ogy-j22cU4cb_zGC2S2jNUv3qQQ?key=Xj2P6QILjgqkfn9BAsC6eih2" />
+ <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXea5-PYyP-6sQW3GYyIqKc_x2wkCvZQ1eNBsy7yI5nGhLpP63v5_VZ5TNXfH4YwgdqMw_5gH5WOzjrGKV1OKe5e1KQq4xviV0bzcYkGAMK-ETEUdORc0D2w2WOc2SMNS_XoSVr1sw?key=Xj2P6QILjgqkfn9BAsC6eih2" />
+ <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXesAWrQevXsLyjhIcgQnCNri6mC2wRrWDxXAJ2kr8GBBMufBJpGY67oHWCgGraJUod9c-Evlpz0d6M_86MJPwdjHokqE16k_pKIFiFCZVXSKElsC2accNwEyH0j7jfsj04kqi7GFQ?key=Xj2P6QILjgqkfn9BAsC6eih2" />
+ <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfNgMJ3beKpHxwz0O445SOtqATr-eJ5lPwy0fVoqzpBPqjlH_774sVwtCoi0OQ-zF6fZ1jQ8gmvia069UDIx4egBVOiyzA6m490sDEp4zHLcLdUpcIBRW8VCxeP7FAatZjrERE?key=Xj2P6QILjgqkfn9BAsC6eih2" />
+ <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcFgf1SM8IZV9AxSvhAqpff2_bmcJrXr0mfAnDcuCcrSWF6WU5FnxR4NjIeZWzzRjTGV3hHUdGvvCWU44Who5Y09rIWJ3CgbyM67bj1r_2WQFjkaunsJWApMAdcVv8DsQ119nll?key=Xj2P6QILjgqkfn9BAsC6eih2" />
+ <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXea0M7p8KZkV9AvgBl_qpA_u7FXyjTceqMHsZSL6nFi8-6xfWgNCdcmE1JTSQu7YH-8Gw7pmacfKAXxcp7934BjyGCpWhRenGiHTVLKRYTskykZKms1QBbm-diT1t_wEeeY12DwyQ?key=Xj2P6QILjgqkfn9BAsC6eih2" />
+ <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf7f-SeuGkoMj12t_xcwsOFOx5sQwb-_m4FZfW5_w5Et7Sz3QyCHmsk_7XPpBveCQjfAgFdIykGpj4TCzAfhwyaKa9EKhO1qy6lDDp-zj0996LpXYBvE12bQ9geU3sboC6adqs7?key=Xj2P6QILjgqkfn9BAsC6eih2" />
+ <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeB2Z6yVXP9hcf9WIRuEoZeFMPm9y5WYXlylS7Pzb1_TUCLbimI3LtZD5QVxR01MCgQIAgNVPgDbGwefY5xfKqsdLOrJ6Nlt2V9lRFJfykm518SF4407YaA4UNaZdz5oif8LIBV?key=Xj2P6QILjgqkfn9BAsC6eih2" />
+  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdEkIOYE6YpY0ildGMFRzS9ECCLJXAbOUtDoj_CDnMlkKUHhE-QRFkofVjVYSNwQgqagF-knPiV-IlWbD6DuoD0MFGMdCI6meyhqeyU9bq0ua10vzZzYos1doGLK1afvJEk-5WLKg?key=Xj2P6QILjgqkfn9BAsC6eih2" />
+ <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcBF_57nyCbiE55ghMdYY-57AU2Y5D2SUI7dKmNF_Ih6H8EXK4T9akgcKCHNkX1MLD35bbAln8d-8Kjm2SnqgHFcsXlAJ7DBum3-eOyEfnmUhiO7Jv1aDL9dSvFtITnkCAY_Dwn8A?key=Xj2P6QILjgqkfn9BAsC6eih2" />
+- Link: https://lucid.app/lucidchart/c33c35cc-3799-4ebf-ba24-e5ec8b31cf8d/edit?invitationId=inv_c22e7ea2-ee1b-40db-a30f-d77ecfa9ab29
+
+
 
 ### 4.4.2. Web Applications Mock-ups.
 
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfOZc6GOAUbITUoYE4PTkaR2ivTerh1u9RuK2gPK9XOk7NUIpnDurBhPV4V4b-A-VKwiO4KlgfUDPkb6So4uhUfJpuJtX3TvoY3XPPgbeY1Y19YsR3eMzAMdEr6BCTZJjABqdD4DA?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcBcNW-D2KBqozXv4GwMov1hv5T05aIfhKpAHYRRXZuDpdoomP93lGhU3_iaN3dMlCLDdYbzv8Q-c7eBUXcCACDCxPU6WSVH-vZTuJAbOE_yGYYESxYxl4pYZzPYpkDotDjXPyM7w?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+
+ <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXclen8SOYkxBb_bkohIvxxDf67vQkr_CEDAvVjaIqdiuKZyVKg3JsdGKw9Um5ALZOcCWhw12NnNSnLhQ8X-8U2-dHhOVrdx9yXd8FLRq6Y2Ulyf-gTEb4LOS4ioatFkd6d0Yx9T-A?key=7rHwqlj_RdIsExdWTIYPrLCO"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfuzTjwPUl0wDkDl7d4K5X_LSkoNTIGrqHb8lAS4TPrpP4H5-X00buuVVlO8ysdIvavUI4UO2nOHpAVQfNQcf8LhRWCyBhhHNJ1w93wLvKUM7-jIkYCCYei_5f6n43c0A7ugx_W?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeYZfOpD7qBaDaH3fRg0MmxYZqvzkcCMvQq3_LXSv2b0UknbifZ3D1_InmmtMOIf1-3rTiZ6fZIxgiJgvKgansig0mQcOrIO_91MRkQNYURfXAte9aJzlyNoMHZPwvFky1xBYAQXg?key=7rHwqlj_RdIsExdWTIYPrLCO"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc-UHyAzNgZ-X_aEiMxWVZKgs1s67Fp-Hk9WjPdQVScp1z-b-VAf8yYD59mVaGE1qGiFBu3a3rYluod_zxvodsGLfUdRax-4Qr4hTNOEeGBNbh34jxK6IN2m_Ja0_ibfozt-1cj?key=7rHwqlj_RdIsExdWTIYPrLCO"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcjvpiZW7_reqOvnU7THEDF8u7bufXIwhmNvttULkjE3EaoGLc08-o7UbGCV612_xCF1MAYSW4KTLlBzWqN3JtTOpHWdcVVJY8wtPxoDgo64e02XybjlSe7DgtksEpbD5sGrcSC?key=7rHwqlj_RdIsExdWTIYPrLCO"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeQRGHxgaOM4iX50bdI6f1RX0HgqqnPPadE-mHx8wDU67jddMbn6BpJx4aBU1mJvVP0pRFULcx51d3XWRAaQp_8Z_rgjkfWqXEUIHiUTz-RjdoczHhAyKaikI5fxHvld00PAgcj?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfwS0qW_Mc9arajt58WZ198mSTvIjAEYseLVw6DMLvQ_DFWxBlrtjZbnKUmupNNwkDgNy5UGdO9n1iy_TsK7TpMLd9Yo2px3eZlLo38sUvRxgBxoGv20IY2r7DE2u6sfadzuR0P?key=7rHwqlj_RdIsExdWTIYPrLCO"  />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfwS0qW_Mc9arajt58WZ198mSTvIjAEYseLVw6DMLvQ_DFWxBlrtjZbnKUmupNNwkDgNy5UGdO9n1iy_TsK7TpMLd9Yo2px3eZlLo38sUvRxgBxoGv20IY2r7DE2u6sfadzuR0P?key=7rHwqlj_RdIsExdWTIYPrLCO"  />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeJarKvTN5QU0DdP86v4R29C7dbsGomSDjsGBiP5O_hyPv__5_-c5dWSVXs2G6-oAFbmmxrAq48ZQrzKK_TcPUGFVK7Te28h6TC55Dl8ckEyId6TWeXnyPufuPqAoDnT2vYC2Q0Gw?key=7rHwqlj_RdIsExdWTIYPrLCO"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXca-MY37sdIrXt1KlmzjGtgV3MT3RL6ZAYoL473RKM_BkuGi95KLyo5Ot5ZhhV65heM2l6delijn_bYZFCAs-NVxi7-atJaiSSVRkVmXlESwMyDi1050e9gdidAv2eg2YxcZj9ibw?key=7rHwqlj_RdIsExdWTIYPrLCO"
+## Segmento Cliente:
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfxV9FZUDZcJNGbs2SbrGpUHnOnQjB85fX8_GnbVLJ91fT6THaFfBNd8883EEYz4bGlvQNf_D5uHFyDQofd8DikqQXirdspIRO_vEE3tru2cznNxQbsGlz3e4X9rhYFpcNAdnZp4w?key=7rHwqlj_RdIsExdWTIYPrLCO"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXftty8skDA3nHn5r8LRxE-FO57xLbEihS2EtqZjdaxTb_1lbxQmXhxMXQzuyUUduDVXrlTS2Y-CtIchk2MPH91H4eAMdhOHt7nm0BP2A3vZ8dwomGSYkZ8s6pyu0OD2EOepLUag?key=7rHwqlj_RdIsExdWTIYPrLCO"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcvEZyKF66O_QB_T4u5mUy9NyW0SKhT-_Y4rK06FocQMRwDY0dF_7h752w4KpeE9THo2wiPdje7-RtKzBbCKXsv1IGa1gIWe160J6uTCaE2I6wxZHsWwkfa8i_SatcamCmOVvLAow?key=7rHwqlj_RdIsExdWTIYPrLCO"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcX3IWWeTw7PmwHKs3obpWwFeRXY2J_7TWrL5p6uLZ6crpzfhuZQxAYGXvNCw6MUFjQk69xFz6fInM3U5s4VeWYg5ofMX1owk6UaMJuZiezTwwyugh9rfsqOxRRyxp4xnpxQ9UH_A?key=7rHwqlj_RdIsExdWTIYPrLCO"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcP_EyzXJm8KF2dLQ4u6eu4KYibOg-E4IeDLoSuYdWmekke9p5SUfs9UCw7TBYrgB9FR10Z5P-xL99Ay7fynismVEQ7k5Vn1JYpi50yEgQ7J7uygaTrlPG2tEAROS_I_ihUPH0uaA?key=7rHwqlj_RdIsExdWTIYPrLCO"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdQfX7Z7GLd4XVV0QAyh2DdQzbD4RvChYHojv68u9iJ7HMxKVLfosBLbSC1w2ECNu6PgiNKwBHLplRScCY-xyHle8iysXLdJzoV0TPwiRhmg5zAFK4AccDwe_NMvB1wPIRNsUs-Ig?key=7rHwqlj_RdIsExdWTIYPrLCO"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdkFyyxRWj2r-Au3ynr8IbAo2AVHyKFtquDPt_pu0u24LKLGVgyfbJbxoIaNgw5krqXMu0yFEIWSsnRwXvqYWTLVidzeO5S65e5VxZ_9f6y65d1kFsS-uVydl-RJePXbmcJwpyptQ?key=7rHwqlj_RdIsExdWTIYPrLCO"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeEJUS6CQ-WDrf-W2-hg3tC11_eyvAixpQqytQ21W19aNefrHIJJbKHU9hiNY07fqkp52mxWu5m19ijJhxnoftGIK63a1FoRsQNRxxrHTG1nHYBkyjdC6oD0nJY6etbQFAaa81N3w?key=7rHwqlj_RdIsExdWTIYPrLCO"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXei6d8_KLfZ-t4AEwRje_OBKjcCCsxJ38uk-GTAkCCZlpq2MOq2wUOoVubPiJolE1dcToc_TKJrxy0vo-jEdlXycD8lY72Ao-VOmBEYWcQz44OaZlfVTgFtLjeBR0pUpmv2bJnr0w?key=7rHwqlj_RdIsExdWTIYPrLCO"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXectP5MVlzeyYFeTN_P4-5tCr9ivDAXSzxx6vSxw4OclZ4GcdEY_h3wNDEM9-NMNyYCtIX8y8xGoiIebb8fjRUiSFq_DXf_QM0QpNt41W42uSjubxSl9TyvmIFjkeljWpdkCn-p?key=7rHwqlj_RdIsExdWTIYPrLCO"/>
+
+</div>
+
+
+
+
+- Link: https://www.figma.com/design/GizyZC1lEsPasOO3mWmkQI/Untitled?node-id=1-2&t=bn9JxBqm0EvgpIsN-1
+
 ### 4.4.3. Web Applications User Flow Diagrams.
 
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf_-xdEa6_iOQ2glySzyMNKFj8G4bbBhUlev1FkGYXQFXKuajWHG4hdR4Kt_ZDnqXK_PF3u2iKElziNuS2gGH5psm4IsZX1WTROXuqrLSvP0uhSCuhmwhzeT5TKPm3hUYoZLpUZ6g?key=Xj2P6QILjgqkfn9BAsC6eih2"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeQJvX3TfZPLUgSjOR9e79Kr2ciwi2wGdsg9GLbJNK8QEu5zkSRezVRR3qAHBmHd4rPK_DmISBatny6RmeLMOiETGjakTLHh2SJTQnMyyXaiJ2G-eNMA3T8pOMv5Y-tNF-k_oXu?key=Xj2P6QILjgqkfn9BAsC6eih2"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeiFQsEPtVTahWzTu5GUwlzUmZZv5vgE9nHr5uWnxWNXuwYRGHtWvkLIFOVsXmtfHmL-VaeJ2KpBS_RY8o9W2YCLpGbCNqBh7FdSEWvFNgEbpECUyO8kKNkKCTSkt_mVgwog2kZnw?key=Xj2P6QILjgqkfn9BAsC6eih2"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdT4q6-8yAVNiHIwkPvrB91-xS0NI5Aw9WfHVbn7ojfdg-b1U37G4x8f7opDUuda8as7cxWMJrevrKtoBx4j3VmsuA50OjzwQ6H5tsSIe0h2uGBzJuWG9rKE7Idnc47fopiBov6?key=Xj2P6QILjgqkfn9BAsC6eih2"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe_aVHS_yOlOE-_66WIuh1BR9CHZKcCLNLvc0K37oeaAPRpK9UmEQlqa9c3DXG1nBClyrQXydSWfr5LqvX-xryt6SAaxcplx7os-VV2VmAwheVdMyxlx4qpPXq2Vc8ND0pyPZSpNw?key=Xj2P6QILjgqkfn9BAsC6eih2"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf8GasaatzxnkohvJoEYZp_ZgsRtjsZU75jCHbNBq8fCgXynJi3gVTfTsU4tkyTSgXLI3p_m2RsAutMLXXXH2_XaA18dxinPWp9aSQ8041-hqWAz6xoTqUiq8gdZ5uVM0iWQrMo_Q?key=Xj2P6QILjgqkfn9BAsC6eih2"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd6ZvW8WiBRlJuBhPPWIRL4nxKiHd4l4iWJrXVbwODO8O3ULYnVTUzbkMfKdif2gRMmiesau9s1IRgIZv9OAdoV5urN6bGt9VngDjQgy0dRWsRNfU7bRRgVPpxSK744E7CpbQY5?key=Xj2P6QILjgqkfn9BAsC6eih2"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfj27n_9s_GvIXLUuPcqW73DO29hu8Ef1tNXk1vpqX5W-J9t5hP90UAy_CIYcQ9cMEBYjenraLoTVeqmB0R1VBIXAGOc9a-HzRfc4S1IF9QIQSuPzM0T0HjHhkUZO7f3SFcHWk14w?key=Xj2P6QILjgqkfn9BAsC6eih2"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfww3WZeFSn3nuGFuGNEBhEw2utO3Er8PMROdY53yc4KJCs59LGlN9RT96xqJDNkBp5crPkCK4lBTtd-Zy98LMkRH4Qoi065E2SHZVeWhOHrKEkmL13WDzwl4e4UZiVGhaFoR5aEQ?key=Xj2P6QILjgqkfn9BAsC6eih2"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcNcesLKPCQgHDPv73OfCFCEKZzGNCCD5riUbkFUpDSO5Q6weJCrdRWMmn5oKTVE-zfYC1JwKLtJdGa1bsYKSVIsJCcX10bVmeDJckoxkGRHnPr0EiqNqJXoKZyVTDnt_d6YARD?key=Xj2P6QILjgqkfn9BAsC6eih2"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd_FWgPT-LTpHUMsbTq-u3fFouteyYBPedDm6gdQ0Xr_rN-RECJrpUHA5ZkC8hE0v0l1oZ6A3MXTI5EnNgCI4UP6ulBBbP_P_DY8u1T6h1XaQKRlwQnxjBTPb4qJXCTdXNNTFikQQ?key=Xj2P6QILjgqkfn9BAsC6eih2"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfuw29d4mP0qhsoiLHFbDhhIjMoi3ikBdVrl0LiHGHyWYlKekFWfd7rhTBuGe4CxeLRLF_21j4Q8MrwqLmvae86NX5w4YMRiJSTd648e3DuW9Mq7BMIQf_q2-9ykeevnpbkUiGuQg?key=Xj2P6QILjgqkfn9BAsC6eih2"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfLH14tNCypyWU_R-BOlnnptMjn2AjM13wk5Bn_snL_YfP9YdgEEThDI_urpO0QSc0nZY8nToGelZA6SA2nWBsXBqk-7t9d3JvMVY9RhmHNR3lRtqCVs0tuAIRsjjykLHBgp9ZE6Q?key=Xj2P6QILjgqkfn9BAsC6eih2"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfsM3_NoZloQ2de1reuy9TAIwmBXq8OLAZaVU1JDTsAxCM_ucoqcyUOuQeOe9x47LguaWkCkvEOLHQpkfh5j52CNgTJQaxhWZpZtVP11mgYYbrjNPbJZuu3N9XylcDPaix3MB_O2g?key=Xj2P6QILjgqkfn9BAsC6eih2"/>
+
+
+- Link:
+https://lucid.app/lucidchart/70accaac-a42d-4f91-83a4-3e0775019399/edit?viewport_loc=-713%2C-1604%2C5741%2C4711%2C0_0&invitationId=inv_c16693ff-fd14-4b88-9a95-f935ae4b70e7
+
+- https://lucid.app/lucidchart/9cd2d50d-7265-4a09-a46d-39b10aef2813/edit?viewport_loc=2368%2C-2928%2C6217%2C4209%2C0_0&invitationId=inv_724fff12-fb12-4fe6-9bd5-f1d5ffbbaa85
+
 ## 4.5. Web Applications Prototyping.
+
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXczONuUDiFCZ-qEla26ywbWqZwxAwXBe3Ugj_mGrsDRZIRcnG34vo7--Ekdal4Jdpu_NzN0d8C6cZdhm-jiPfyKEUbfhABH9qzGCj0qJey8nLY5fk6D0xGZdcqqrKdwNsTqFRm1?key=Xj2P6QILjgqkfn9BAsC6eih2" />
+
+- Link video Prototipo:
+  https://youtu.be/Kb-64_BmUtE
+- Link Figma donde se realizó el Prototipo:
+  https://www.figma.com/design/kEbEQEcTbGo7wVLYAmGe6s/Untitled?node-id=0-1&t=h5yMVfbwRTA4dOv0-1
 
 ## 4.6. Domain-Driven Software Architecture.
 
 ### 4.6.1. Software Architecture Context Diagram.
+![Software Architecture Context Diagram](./img/c4-context.png)
 
 ### 4.6.2. Software Architecture Container Diagrams.
+![C4 Container Diagram](./img/c4-container.png)
 
 ### 4.6.3. Software Architecture Components Diagrams.
+
+#### User component
+![C4 Component Diagram](./img/c4-user-component.png)
+
+#### Auth component
+![C4 Component Diagram](./img/c4-auth-component.png)
+
+#### Payment component
+![C4 Component Diagram](./img/c4-payments-component.png)
+
+#### Proposals component
+![C4 Component Diagram](./img/c4-proposals-component.png)
 
 ### 4.7. Software Object-Oriented Design.
 
 ### 4.7.1. Class Diagrams.
+![Class Diagram](./img/class-diagram.png)
 
 ### 4.7.2. Class Dictionary.
+
+| Clase                        | Atributos y Métodos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Account** (Entidad)        | - `accountId: AccountId` – Identificador único de la cuenta.<br>- `email: String` – Dirección de correo electrónico.<br>- `passwordHash: String` – Hash de la contraseña.<br>- `status: String` – Estado de la cuenta (e.g., Activo, Inactivo).<br>- `activate(): void` – Activa la cuenta.<br>- `deactivate(): void` – Desactiva la cuenta.<br>- `isActive(): Boolean` – Comprueba si la cuenta está activa.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| **User** (AggregateRoot)     | - `userId: UUID` – Identificador único del usuario.<br>- `accountId: AccountId` – Cuenta asociada.<br>- `firstName: String` – Nombre.<br>- `lastName: String` – Apellidos.<br>- `email: String` – Correo electrónico.<br>- `description: String` – Perfil o biografía.<br>- `role: String` – Rol (Admin, Worker, Customer).<br>- `updateUserInfo(firstName, lastName, description): void` – Actualiza nombre, apellidos y descripción.                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| **Customer** (Entidad)       | - `customerId: UUID` – Identificador único del cliente.<br>- `userId: UUID` – Usuario asociado.<br>- `createdAt: Date` – Fecha de creación.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| **Worker** (Entidad)         | - `workerId: UUID` – Identificador único del trabajador.<br>- `userId: UUID` – Usuario asociado.<br>- `field: String` – Área o especialidad.<br>- `experience: List<Experience>` – Experiencias laborales.<br>- `skills: List<String>` – Habilidades.<br>- `certifications: List<String>` – Certificaciones.<br>- `availability: Money` – Disponibilidad económica.<br>- `hourlyRate: Money` – Tarifa por hora.<br>- `projectsCompleted: int` – Proyectos completados.<br>- `externalRecommendations: List<String>` – Recomendaciones externas.<br>- `updateWorkerInfo(newData): void` – Actualiza datos del trabajador.<br>- `addExperience(exp: Experience): void` – Agrega experiencia.<br>- `removeExperience(exp: Experience): void` – Elimina experiencia. |
+| **Experience** (ValueObject) | - `company: String` – Empresa.<br>- `role: String` – Cargo.<br>- `startDate: Date` – Fecha de inicio.<br>- `endDate: Date` – Fecha de fin.<br>- `isCurrently: Boolean` – Está en curso.<br>- `updateExperienceInfo(company, role, dates): void` – Actualiza datos de la experiencia.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| **Review** (Entidad)         | - `reviewId: ReviewId` – Identificador único de la reseña.<br>- `fromUserId: AccountId` – Cuenta autora.<br>- `toUserId: AccountId` – Cuenta destinataria.<br>- `rating: Int` – Calificación.<br>- `comment: String` – Comentario.<br>- `createdAt: Date` – Fecha de creación.<br>- `updateComment(comment: String): void` – Modifica el comentario.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| **Proposal** (AggregateRoot) | - `proposalId: UUID` – Identificador único de la propuesta.<br>- `workerId: AccountId` – Cuenta del trabajador.<br>- `customerId: AccountId` – Cuenta del cliente.<br>- `title: String` – Título.<br>- `description: String` – Descripción.<br>- `price: Money` – Precio.<br>- `estimatedTime: String` – Tiempo estimado.<br>- `status: String` – Estado (Submitted, InProgress, Completed, Rejected).<br>- `submittedAt: Date` – Fecha de envío.<br>- `accept(): void` – Acepta la propuesta.<br>- `reject(): void` – Rechaza la propuesta.<br>- `markAsInProgress(): void` – Marca en progreso.<br>- `completeProposal(): void` – Marca como completada.                          |
+| **GuaranteePayment** (VO)    | - `percentage: Double` – Porcentaje de garantía.<br>- `amount: Money` – Monto de garantía.<br>- `isValid(): Boolean` – Valida el pago.<br>- `fromProposal(m: Money): GuaranteePayment` – Construye a partir del precio de la propuesta.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| **SalesOrder_Payment** (AR)  | - `orderId: UUID` – Identificador del pedido.<br>- `customerId: AccountId` – Cuenta del cliente.<br>- `workerId: AccountId` – Cuenta del trabajador.<br>- `proposalId: UUID` – Propuesta asociada.<br>- `totalAmount: Money` – Monto total.<br>- `guaranteePaid: GuaranteePayment` – Pago de garantía.<br>- `paymentStatus: String` – Estado del pago (Pending, Paid).<br>- `createdAt: Date` – Fecha de creación.<br>- `registerGuaranteePayment(g: GuaranteePayment): void` – Registra garantía.<br>- `markAsPaid(): void` – Marca como pagado.                                                  |
+| **Chat** (AggregateRoot)     | - `chatId: UUID` – Identificador del chat.<br>- `participants: List<UUID>` – IDs de participantes.<br>- `createdAt: Date` – Fecha de creación.<br>- `addParticipant(id: UUID): void` – Añade participante.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **Message** (Entidad)        | - `messageId: UUID` – Identificador del mensaje.<br>- `chatId: UUID` – Chat asociado.<br>- `senderId: UUID` – Remitente.<br>- `content: String` – Contenido.<br>- `timestamp: Date` – Fecha y hora.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **AccountId** (VO)           | - `value: UUID` – Valor del identificador.<br>- `equals(a: AccountId): Boolean` – Compara dos IDs.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| **ReviewId** (VO)            | - `value: UUID` – Valor del identificador.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| **Money** (ValueObject)      | - `amount: BigDecimal` – Monto.<br>- `currency: String` – Divisa (USD, EUR…).<br>- `add(m: Money): Money` – Suma montos.<br>- `subtract(m: Money): Money` – Resta montos.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 
 ## 4.8. Database Design.
 
 ### 4.8.1. Database Diagram.
+
+![Database Diagram](./img/db-diagram.png)
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
