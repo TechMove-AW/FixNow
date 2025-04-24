@@ -341,6 +341,17 @@ Ejemplos de tipos comunes:<br>
 
 
 ### 5.1.3. Source Code Style Guide & Conventions.
+El equipo adoptará guías de estilo y convenciones para asegurar que el código sea limpio, legible y mantenible. Estas convenciones abarcan diversos lenguajes y tecnologías, cada una con recomendaciones específicas para mantener la calidad y coherencia en el código.<br>
+
+**HTML/CSS**<br>
+-    Guía de estilo: Se basará en la Google HTML/CSS Style Guide. Esta guía proporciona directrices sobre la estructura y formato del HTML y CSS, incluyendo la indentación, el uso de comentarios y la organización del código para mejorar la legibilidad y el mantenimiento.
+-    Nomenclatura: Se utilizará la metodología BEM (Block Element Modifier). BEM es una metodología que ayuda a crear una estructura modular y reutilizable en CSS, facilitando la comprensión y mantenimiento del código. Consiste en una convención de nombres para clases que mejora la claridad y la organización del CSS.<br>
+
+**JavaScript**<br>
+-    Framework: Se utilizará Angular para el desarrollo de componentes reutilizables y la gestión de la interfaz de usuario. Angular es un framework de desarrollo web robusto y completo, mantenido por Google, que facilita la creación de aplicaciones SPA (Single Page Applications) con una arquitectura modular y escalable.
+-    Guía de estilo: Se seguirá la Angular Style Guide junto con la Google JavaScript Style Guide. La guía de estilo de Angular proporciona buenas prácticas y convenciones específicas para el desarrollo de aplicaciones Angular, promoviendo una estructura de proyecto coherente, mantenible y escalable.<br>
+**Gherkin**<br>
+-    Guía de estilo: Se aplicarán las Gherkin Conventions for Readable Specifications. Gherkin es un lenguaje de especificación utilizado para escribir pruebas automatizadas de comportamiento (BDD). Esta guía proporciona recomendaciones para escribir características y escenarios de manera clara y comprensible, facilitando la colaboración entre desarrolladores y no desarrolladores.<br>
 
 ### 5.1.4. Software Deployment Configuration.
 
