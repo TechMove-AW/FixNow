@@ -433,6 +433,16 @@ URL del video:https://youtu.be/O4TpwVee8DY <br>
 Durante este primer sprint, nos enfocamos únicamente en la creación de la Landing Page estática, por lo que no se trabajó con servicios web. Como resultado, en esta ocasión no se elaboró la documentación correspondiente al uso de servicios web.
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+Al finalizar el trabajo con todas las historias de usuario, realizamos el despliegue de la Landing Page utilizando GitHub Pages.
+
+URL de despliegue de la Landing Page: https://github.com/TechMove-AW/FixNow-LandingPage
+
+* Para realizar el despliegue, accedimos a la configuración del repositorio y navegamos a la sección de Pages. Posteriormente, seleccionamos la rama main desde la cual se llevará a cabo el deployment.<br>
+
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfylBTMf3qahAHi2NEA6ve2a5I5gxEfouywSNo82p5zjsjsky08bPJucGsuDmolhiyT0Ozt95ahv88EGJ9WdUb-V8CPKlyd62okKAoWTENiDV1t7Sbqf3CNVCRryZZnD5dlqD4R3A?key=fxuJ81i7FgPCpYxPYy6v26h7" />
+
+* Finalmente, solo queda esperar a que GitHub genere la página y proporcione el enlace correspondiente.<br>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcYe_1UGJsRhUm5fcn2oCOgbziHGNpIQNqD2kyFVN88zxBMcK752nVpkkYa3tVXvl1HVt4GWSk-Nl1RQx-xB6TJWCJp0Ek6Z7tuQoF1DUQy_nPiIyeV_sgnCq1w5NMiu4VR6Pmq?key=fxuJ81i7FgPCpYxPYy6v26h7" />
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
