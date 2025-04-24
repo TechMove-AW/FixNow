@@ -334,7 +334,18 @@ Se han implementado sistemas de navegación claros, jerárquicos y adaptables se
 
 ### 4.3.1. Landing Page Wireframe.
 
+| Vista Previa Desktop Web Browser | Vista Previa Mobile Web Browser |
+|----------------------------------|----------------------------------|
+| <img src="img/landingwireframe.png" alt="landingwireframe" width=75% />  |<img src="img/landingwireframemobile.png" alt="landingwireframe2" width=75% /> |
+
+Link:[https://www.figma.com/design/GizyZC1lEsPasOO3mWmkQI/Untitled?node-id=1-2&t=GSnzJYQiwQ39h97p-1](https://www.figma.com/design/GizyZC1lEsPasOO3mWmkQI/Untitled?node-id=1-2&t=GSnzJYQiwQ39h97p-1)
+
 ### 4.3.2. Landing Page Mock-up.
+| Vista Previa Desktop Web Browser | Vista Previa Mobile Web Browser |
+|----------------------------------|----------------------------------|
+| <img src="img/landingMockup.png" alt="landingmockupmobile" width=75% />  |<img src="img/landingwireframemobile.png" alt="landingwireframe2" width=75% /> |
+
+Link:[https://www.figma.com/design/GizyZC1lEsPasOO3mWmkQI/Untitled?node-id=1-2&t=GSnzJYQiwQ39h97p-1](https://www.figma.com/design/GizyZC1lEsPasOO3mWmkQI/Untitled?node-id=1-2&t=GSnzJYQiwQ39h97p-1)
 
 ## 4.4. Web Applications UX/UI Design.
 
