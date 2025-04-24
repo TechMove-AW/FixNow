@@ -263,10 +263,24 @@ En esta sección se presenta un glosario de términos y conceptos utilizados en 
 ## 4.6. Domain-Driven Software Architecture.
 
 ### 4.6.1. Software Architecture Context Diagram.
+![Software Architecture Context Diagram](./img/c4-context.png)
 
 ### 4.6.2. Software Architecture Container Diagrams.
+![C4 Container Diagram](./img/c4-container.png)
 
 ### 4.6.3. Software Architecture Components Diagrams.
+
+#### User component
+![C4 Component Diagram](./img/c4-user-component.png)
+
+#### Auth component
+![C4 Component Diagram](./img/c4-auth-component.png)
+
+#### Payment component
+![C4 Component Diagram](./img/c4-payments-component.png)
+
+#### Proposals component
+![C4 Component Diagram](./img/c4-proposals-component.png)
 
 ### 4.7. Software Object-Oriented Design.
 
