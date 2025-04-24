@@ -262,24 +262,73 @@ Para lograr una lectura cómoda y moderna, se seleccionó una combinación de ti
 
 La experiencia web de Fix Now está diseñada pensando en una navegación intuitiva, con elementos visuales bien jerarquizados y adaptados a distintos tamaños de pantalla.
 
-	- Se prioriza la legibilidad y claridad, con títulos grandes, espacios generosos y botones que destacan sobre el fondo.
-	- Los botones tienen esquinas redondeadas, efectos de hover suaves, y cambios de color que comunican interactividad.
-	- Las interfaces están construidas para ser completamente responsive, adaptándose fluidamente a dispositivos como laptops, tablets y pantallas grandes.
-	- Las tarjetas, formularios y paneles están diseñados siguiendo un estilo limpio, con íconos explicativos y elementos interactivos fácilmente reconocibles.
+- Se prioriza la legibilidad y claridad, con títulos grandes, espacios generosos y botones que destacan sobre el fondo.
+- Los botones tienen esquinas redondeadas, efectos de hover suaves, y cambios de color que comunican interactividad.
+- Las interfaces están construidas para ser completamente responsive, adaptándose fluidamente a dispositivos como laptops, tablets y pantallas grandes.
+- Las tarjetas, formularios y paneles están diseñados siguiendo un estilo limpio, con íconos explicativos y elementos interactivos fácilmente reconocibles.
 
 Para el diseño de la landing page de Fix Now se utilizó el patrón Z debido a su eficacia en la lectura y escaneo visual en pantallas. Este patrón guía naturalmente la vista del usuario desde la parte superior izquierda hacia la derecha, bajando diagonalmente hasta el extremo inferior izquierdo y finalmente hacia la derecha otra vez, formando una "Z". Al seguir este recorrido visual intuitivo, se mejora la jerarquía de la información, se capta la atención del usuario rápidamente y se optimiza la conversión desde los primeros segundos de interacción.
 
 ## 4.2. Information Architecture.
+La arquitectura de información de Fix Now está estructurada con base en la claridad y facilidad de uso. Se ha diseñado pensando en minimizar la carga cognitiva de los usuarios y permitirles acceder rápidamente a la información o servicio que buscan. La experiencia se adapta tanto para nuevos visitantes como para usuarios frecuentes, brindando un recorrido fluido e intuitivo.
 
 ### 4.2.1. Organization Systems.
+Se aplican distintos sistemas de organización según el tipo de información y contexto de uso:
+- Jerarquía Visual: En la landing page y paneles, se prioriza la presentación de contenido clave en la parte superior. Títulos, botones de acción y notificaciones son fácilmente identificables.
+- Organización Secuencial: El proceso de solicitar un servicio sigue pasos claros: búsqueda del técnico, selección, agenda y confirmación.
+- Organización por Audiencia: Existen rutas específicas tanto para Clientes como para Técnicos, con interfaces y contenidos adaptados a sus necesidades.
+- Categorización por Tópicos: El monitoreo de consumos está dividido por categorías como “Agua” y “Electricidad”, y cada tipo de servicio técnico se agrupa por especialidad (fontanero, electricista, carpintero, etc.).
 
 ### 4.2.2. Labeling Systems.
+Los textos, etiquetas y botones de navegación han sido cuidadosamente definidos para evitar ambigüedades y facilitar la comprensión.
+- Se priorizan palabras simples, directas y en español claro.
+- Las etiquetas utilizan un máximo de 2 a 3 palabras por ítem.
+Ejemplos:
+- “Buscar técnico”
+- “Agendar cita”
+- “Consumo de agua”
+- “Mis servicios”
+- “Técnicos disponibles”
+- “Configuración”
+- “Soporte”
+Además, se acompañan de íconos o descripciones breves para aumentar su reconocimiento inmediato.
 
 ### 4.2.3. SEO Tags and Meta Tags
+- Landing Page (versión pública):
+	- Title: Fix Now - Servicios técnicos y de mantenimiento al instante.
+	- Meta Description: ¿Tienes una fuga, necesitas pintar tu casa o instalar una campana extractora? En Fix Now te conectamos con profesionales confiables en plomería, electricidad, pintura, carpintería y mucho más.
+	- Keywords: técnicos, fontaneros, electricistas, monitoreo del hogar, consumo sostenible, servicios técnicos
+	- Author: Equipo de desarrollo de Fix Now
+
+
+- Aplicación Web (usuarios registrados):
+	- Title: Fix Now - Panel de usuario
+	- Meta Description: Contamos con profesionales de distintas áreas para brindarte soluciones rápidas, confiables y de calidad.
+	- Keywords: panel de usuario, servicios activos, técnicos disponibles, historial de consumo, sostenibilidad
+	- Author: Fix Now App Team
+
 
 ### 4.2.4. Searching Systems.
 
+El sistema de búsqueda de Fix Now está diseñado para ofrecer una experiencia fluida, incluso cuando hay una gran cantidad de servicios y técnicos disponibles.
+- Buscador principal: Permite buscar técnicos por tipo de servicio.
+- Filtros dinámicos:
+	- Tipo de técnico (electricista, gasfitero, carpintero…)
+	- Calificación promedio
+	- Disponibilidad por día y hora
+	- Cercanía geográfica
+- Resultados visuales: Los técnicos se muestran en tarjetas con nombre, especialidad, calificación, y botón de agendar.
+
 ### 4.2.5. Navigation Systems.
+
+Se han implementado sistemas de navegación claros, jerárquicos y adaptables según el dispositivo:
+- Landing Page: Navegación superior con enlaces directos a “Inicio”, “Servicios”, “Producto”, “Testimonios”, “Contactanos” y “Registrarse”.
+- Botón de acción principal: “Iniciar Sesión”, siempre visible.
+- Aplicación para clientes:
+	- Barra inferior con íconos para acceder a: Servicios, Monitoreo, Historial, Perfil.
+- Aplicación para técnicos:
+	- Panel lateral con accesos rápidos a: Nuevas solicitudes, Agenda, Mensajes, Perfil.
+- Feedback visual constante: Indicadores activos, animaciones suaves y confirmaciones visuales para cada interacción.
 
 ## 4.3. Landing Page UI Design.
 
