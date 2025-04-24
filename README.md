@@ -397,6 +397,28 @@ El primer sprint se planificó durante una reunión en discord. Para ello, se cr
 #### 5.2.1.3. Sprint Backlog 1.
 
 #### 5.2.1.4. Development Evidence for Sprint Review.
+Se realizaron los avances con los commits correspondiente en el repositorio de la siguiente forma.
+
+Repositorio Landing Page: https://github.com/TechMove-AW/FixNow-LandingPage
+
+| Repository  | Branch              | Commit Id | Commit Message                                       | Committed on (Date) |
+|-------------|---------------------|-----------|------------------------------------------------------|---------------------|
+| TechMove-AW | develop             | 952f686   | Merge pull request #6 from TechMove-AW/develop       | Apr 23, 2025        |
+| TechMove-AW | develop                     | 59538ff   | fix image to styles.css                              | Apr 23, 2025        |
+| TechMove-AW | release/v1.0.0      | eff5d15   | Merge branch 'release/v1.0.0'                      | Apr 23, 2025        |
+| TechMove-AW | feature/contactos   | 1e38428   | Merge pull request #5 from TechMove-AW/feature/contactos | Apr 23, 2025        |
+| TechMove-AW | feature/testimonios | 5694c55   | Merge pull request #4 from TechMove-AW/feature/testimonios | Apr 23, 2025        |
+| TechMove-AW | feature/producto-iot| 556d183   | Merge pull request #3 from TechMove-AW/feature/producto-iot | Apr 23, 2025        |
+| TechMove-AW | feature/sevicios    | 5405f13   | Merge pull request #2 from TechMove-AW/feature/sevicios | Apr 23, 2025        |
+| TechMove-AW | feature/ver-mas     | bccec79   | Merge pull request #1 from TechMove-AW/feature/ver-mas | Apr 23, 2025        |
+| TechMove-AW | develop                     | 36886fb   | Add files via upload                                 | Apr 23, 2025        |
+| TechMove-AW |  develop                    | 94b8d04   | feat: Agregue el apartado de testimonios             | Apr 23, 2025        |
+| TechMove-AW |  develop                    | 7647f47   | feat(contact): agregar formulario de contacto          | Apr 23, 2025        |
+| TechMove-AW | develop                     | 84b010b   | feat: ver mas                                        | Apr 23, 2025        |
+| TechMove-AW | develop                     | 8eefadf   | feat: IoTproduct                                     | Apr 23, 2025        |
+| TechMove-AW | develop                     | 72f93d8   | feat: add services section                           | Apr 23, 2025        |
+| TechMove-AW |  develop                    | 3b2fa07   | Create index.html                                    | Apr 23, 2025        |
+| TechMove-AW | main                    | f8b6217   | Initial commit                                       | Apr 23, 2025        |
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 En esta parte se presentará el progreso alcanzado durante el primer sprint, enfocado en la implementación de la Landing Page estática. Para ilustrar este avance, se ha creado el siguiente video
