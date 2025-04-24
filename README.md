@@ -72,8 +72,7 @@ Para el desarrollo del informe correspondiente a la entrega TB1, se estableció 
 
 |Integrante|Tareas Asignadas|
 |-|-|
-|Bustamante Leveau, Cameron Charllotte|Lean UX Process, Lean UX Problem Statements, Lean UX Assumptions,
-Lean UX Hypothesis Statements, Lean UX Canvas, Segmentos objetivo, Web Applications Mock-ups, Web Applications User Flow Diagrams, Web Applications Wireframes, Web Applications Wireflow Diagrams|
+|Bustamante Leveau, Cameron Charllotte|Lean UX Process, Lean UX Problem Statements, Lean UX Assumptions,Lean UX Hypothesis Statements, Lean UX Canvas, Segmentos objetivo, Web Applications Mock-ups, Web Applications User Flow Diagrams, Web Applications Wireframes, Web Applications Wireflow Diagrams|
 |De La Cruz Moreno, Roy Hernan|Startup Profile, Descripción de la Startup, Perfiles de integrantes del equipo, Competidores, Análisis competitivo, Estrategias y tácticas frente a competidores, Entrevistas, Diseño de entrevistas, Registro de entrevistas, Análisis de entrevistas, Software Configuration Management, Software Development Environment Configuration,  Source Code Management, Source Code Style Guide & Conventions, Software Deployment Configuration, Landing Page Services & Applications Implementation, Sprint Planning 1, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Landing page IoT Proyect|
 |Hallasi Saravia, Miguel Angel|Empathy Mapping, As-is Scenario Mapping, Ubiquitous Language, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Class Diagrams, Class Dictionary, Database Diagram|
 |Muñiz Huayanca , Percy Alonso|To-Be Scenario Mapping, User Stories, Impact Mapping, Product Backlog, Registro de entrevistas, Análisis de entrevistas|
