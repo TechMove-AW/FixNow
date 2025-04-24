@@ -529,16 +529,34 @@ Entre las funcionalidades que considera importantes destacó: la posibilidad de 
 
 ### 2.2.3. Análisis de entrevistas.
 
+**Análisis segmento 01: Tecnicos Profesionales**
+Por el lado del técnico entrevistado, encontramos que uno de sus principales desafíos es hacerse conocido. Comentó que depende del boca a boca para conseguir clientes, lo que limita su crecimiento. Al conocer Fix Now, vio una gran oportunidad para promocionar su trabajo de forma más profesional. Le gustó la idea de tener un perfil dentro de la app, con opiniones reales de clientes y un historial de trabajos que lo respalde.
+
+También valoró poder chatear directamente con los usuarios y que exista un sistema que le dé visibilidad frente a nuevos clientes. Incluso dijo estar dispuesto a pagar una suscripción mensual, ya que lo considera una inversión en su carrera.
+
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf9rRSOTjJ6B7KLtJ2_4D1LXW_wJKKGw7-RFUg6lvAbrHW2-ldmYQfObVFHBqUl31Wrs9irGoY_eaRBgYKbg_SpbPXsA9LeeV1lPoROWXqBJMom9GRIQWzq669_2MZLpqDvAruV?key=nAxYtxlcX6lKVUaMmr4vPw9d">
+
+**Analisis segmento 02: Usuarios Clientes**
+Los clientes entrevistados coincidieron en que encontrar técnicos de confianza no es fácil. La mayoría recurre a recomendaciones de conocidos, pero esto no siempre funciona. A veces los técnicos no están disponibles, cobran de más o no dan confianza. Todos valoraron mucho la idea de contar con una app que verifique a los técnicos, que muestre opiniones de otros usuarios y que permita tener un historial de los servicios realizados.
+
+También les pareció útil poder comunicarse directamente con los técnicos desde la app, guardar a sus favoritos y tener varias opciones para elegir. Además, mostraron interés en la función de monitoreo de consumo de agua y electricidad, sobre todo quienes viven en departamentos con medidores poco confiables. Poder ver su consumo en tiempo real y recibir alertas en caso de fugas les daría tranquilidad y control sobre sus gastos. Ambos dijeron estar dispuestos a pagar una suscripción mensual si las funciones están bien explicadas y no incluyen los costos del servicio técnico.
+
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd8f62neH4YyXDoR1uTgrdCbeLFkks5UgWu-YOt44Tfy7H9c-KuSWsJ3JCxK4FBFTQZLpIktuQIHQ11C3KqQuJ_WqPFs1qUVC1EPY-h7TQVxK0hpiqE3D9t2L0IUa0IRtlhgp7D?key=nAxYtxlcX6lKVUaMmr4vPw9d">
+
+Conclusión
+En general, las entrevistas confirmaron que Fix Now responde a necesidades reales. Los clientes buscan seguridad, transparencia y facilidad. Los técnicos necesitan herramientas para crecer profesionalmente y llegar a más personas. Ambos segmentos mostraron interés en la propuesta y en las funcionalidades planteadas, lo cual refuerza el valor de la plataforma que estamos construyendo.
+
+
 ## 2.3. Needfinding.
 
 ### 2.3.1. User Personas.
 -User persona para el Segmento 1 : Profesionales Tecnicos
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcu_sDF3a1cL1LdxDCXsDtAs3_NMy1uH5ejD35vQfpE7Zytbl7PyLRgN1k9BnHo66hsq_R1MWUkQdue2V1-IvyJEo65otbgi2zdTeUGrhjlHXPw3NHcIRIxVcY0nTtHsBBYd9gV?key=pBJWG96xHxpH_57aWDst0Zo_" alt="us2" width=75% />
 
-<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcItIHcIBWoPWJxJEv7AjhKXO_J0SBOs5QrLd-zelW2FfQzKaAGkr3BmwJuUp_3rJuGvMbdALIlwI_jpHGbpBD8KYTtqu6-66w7Yy9RRBz8kRefW5fuVFtA7REH5CGNHCRjLyuB?key=pBJWG96xHxpH_57aWDst0Zo_" alt="us1" width=75% />
 
 -User persona para el Segmento 2: Clientes
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcItIHcIBWoPWJxJEv7AjhKXO_J0SBOs5QrLd-zelW2FfQzKaAGkr3BmwJuUp_3rJuGvMbdALIlwI_jpHGbpBD8KYTtqu6-66w7Yy9RRBz8kRefW5fuVFtA7REH5CGNHCRjLyuB?key=pBJWG96xHxpH_57aWDst0Zo_" alt="us1" width=75% />
 
-<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcu_sDF3a1cL1LdxDCXsDtAs3_NMy1uH5ejD35vQfpE7Zytbl7PyLRgN1k9BnHo66hsq_R1MWUkQdue2V1-IvyJEo65otbgi2zdTeUGrhjlHXPw3NHcIRIxVcY0nTtHsBBYd9gV?key=pBJWG96xHxpH_57aWDst0Zo_" alt="us2" width=75% />
 
 ### 2.3.2. User Task Matrix.
 
