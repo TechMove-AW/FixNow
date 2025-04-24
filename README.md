@@ -485,13 +485,31 @@ Datos del entrevistado:
 - Nombre: Jean Fabio Noriega Collado
 - Edad: 18 años
 - Distrito de residencia: Pueblo Libre
-- Enlace: https://upcedupemy.sharepoint.com/:v:/g/personal/u201913495_upc_edu_pe/EeVlsT0DrS1BhWbC6BxlkNkB0WxsJhARf3qfYkCSQ4v7ug?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=vviwa8
-- Duracion de la entrevista: 11 minutos y 21 segundos
+- Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202319563_upc_edu_pe/EbvrGD-V1SZLlRPR2tkQKXYBeyOyFXmuXU9YfZYKQc9Zwg?e=Wb3yCp
   
 ![USER 1 ENTREVISTA](https://github.com/user-attachments/assets/5e6221a9-f04d-4fe2-b109-ecbc31da0b58)
 
 Resumen de la entrevista:
 A partir de la entrevista realizada al usuario Jean Fabio, se identificaron necesidades clave relacionadas con la búsqueda y contratación de servicios técnicos, así como el interés en el monitoreo de recursos en el hogar. El usuario expresó que actualmente recurre a recomendaciones informales, lo que conlleva a problemas como falta de disponibilidad, poca transparencia en precios y desconfianza en los diagnósticos. Mostró una actitud positiva hacia el uso de una aplicación que verifique la identidad y experiencia de los técnicos, que permita visualizar opiniones de otros clientes y gestionar el historial de contrataciones. Asimismo, valoró la posibilidad de monitorear en tiempo real el consumo de agua y electricidad, recibiendo alertas ante posibles fugas, lo cual considera útil especialmente para quienes viven en departamentos con medidores poco confiables. Entre las funcionalidades deseadas resaltó: chat con técnicos, lista de favoritos, historial de servicios y variedad de opciones. Finalmente, mencionó estar dispuesto a pagar una suscripción mensual razonable por estas funcionalidades, siempre que estén claramente diferenciadas del costo de los arreglos. Estas observaciones se traducen en requisitos funcionales y no funcionales clave para el desarrollo de Fix Now.
+
+Entrevista 2:
+Datos del entrevistador:
+- Nombre: Percy Alonso Muñiz Huayanca
+  
+Datos del entrevistado:
+- Nombre: Jarol Saquiray Vargas
+- Edad: 18 años
+- Distrito de residencia: Miraflores
+- Enlace:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202319563_upc_edu_pe/ETXao-NHP-xJtGphx-0YxlEBoov9H-qqx4fiThSr4fl20g?e=2nbCNK
+- Duracion de la entrevista: 5 minutos y 15 segundos
+  
+![USER 2 ENTREVISTA](https://github.com/user-attachments/assets/1b44e91d-2a19-4b78-91bf-159342daf83f)
+
+Resumen de la entrevista:
+A partir de la entrevista realizada al usuario Jarol Saquiray Vargas, de 18 años y residente en el distrito de Miraflores, se identificaron necesidades clave vinculadas a la búsqueda y contratación de servicios técnicos, así como un fuerte interés por el monitoreo del consumo de recursos en el hogar. Jarol mencionó que usualmente depende de recomendaciones de conocidos o familiares para contactar técnicos, lo cual le ha generado inconvenientes como demoras, falta de claridad en los costos y dudas sobre la veracidad de los diagnósticos que recibe.
+Mostró apertura y entusiasmo hacia el uso de una aplicación que brinde mayor seguridad al momento de contratar, mediante la verificación de identidad y experiencia de los técnicos, la posibilidad de consultar reseñas de otros usuarios, y el acceso a un historial completo de contrataciones pasadas. Además, valoró altamente una funcionalidad que permita el monitoreo en tiempo real del consumo de agua y luz, especialmente útil en edificios con medidores poco precisos. Las alertas ante consumos anómalos o fugas también fueron percibidas como herramientas muy útiles para prevenir gastos innecesarios.
+Entre las funcionalidades que considera importantes destacó: la posibilidad de chatear directamente con los técnicos, guardar contactos frecuentes en una lista de favoritos, y contar con una buena variedad de profesionales disponibles en diferentes rubros. Finalmente, Jarol indicó que estaría dispuesto a pagar una suscripción mensual siempre que las funcionalidades ofrecidas estén bien diferenciadas de los costos propios de los servicios técnicos. Estas percepciones permiten identificar tanto requisitos funcionales como no funcionales esenciales para el diseño y desarrollo de la plataforma Fix Now.
+
 
 
 ### 2.2.3. Análisis de entrevistas.
