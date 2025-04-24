@@ -120,6 +120,10 @@
 Esta sección incluye la descripción del Startup y los perfiles de los integrantes del equipo.
 
 ### 1.1.1. Descripción de la Startup
+En nuestra Startup, desarrollamos Fix Now, una plataforma que conecta a personas con profesionales especializados en oficios como fontanería, carpintería, entre otros servicios que no siempre son fáciles de encontrar. Además, como valor añadido, implementamos un sistema de monitoreo en tiempo real del consumo de electricidad y agua en el hogar, permitiendo detectar posibles fugas o anomalías a tiempo.
+Nuestro objetivo es brindar soluciones tecnológicas accesibles que mejoren la calidad de vida de los usuarios, optimicen el uso de recursos, reduzcan costos y promuevan la sostenibilidad tanto en hogares como en empresas.
+Misión: Brindar soluciones tecnológicas accesibles que conecten a personas con profesionales especializados en oficios poco comunes, y que permitan monitorear en tiempo real el consumo de agua y electricidad en los hogares, contribuyendo así al uso eficiente de los recursos, la detección temprana de fugas y la mejora de la calidad de vida de nuestros usuarios.
+Visión: Ser la plataforma líder en Latinoamérica en la conexión eficiente entre usuarios y profesionales especializados, integrando tecnología inteligente para el monitoreo y la sostenibilidad en el hogar, y posicionándonos como un referente en innovación social y cuidado del medio ambiente.
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
