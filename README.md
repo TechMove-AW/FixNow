@@ -264,6 +264,11 @@
 </tbody></table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
+-	Desarrollar una propuesta integral única, que combine el monitoreo inteligente en tiempo real con la conexión directa a técnicos especializados (fontaneros, electricistas, carpinteros, etc.), para diferenciarse de plataformas que solo ofrecen uno de los dos servicios.
+-	Lanzar campañas de concientización sobre el ahorro de recursos y la sostenibilidad, mostrando cómo Fix Now puede ayudar a reducir el impacto ambiental y económico de una vivienda o negocio.
+-	Implementar estrategias digitales multicanal, enfocadas en redes sociales, influencers del hogar y tecnología, y publicidad dirigida por zonas con alto crecimiento urbano o historial de fallas en servicios básicos.
+-	Incluir testimonios y casos de éxito reales en las plataformas y publicidad para ganar confianza y mostrar resultados tangibles.
+-	Ofrecer instalación gratuita del sistema de sensores durante el lanzamiento, para aumentar adopción inicial y obtener retroalimentación directa de los primeros usuarios.
 
 ## 2.2. Entrevistas.
 
