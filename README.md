@@ -150,21 +150,69 @@ Visión: Ser la plataforma líder en Latinoamérica en la conexión eficiente en
 3.- El monitoreo inteligente será parte de un plan premium con suscripción mensual asequible, dependiendo del tamaño del hogar y los sensores instalados.
 
 ### 1.2.2 Lean UX Process
-
 #### 1.2.2.1. Lean UX Problem Statements
+Nuestro producto fue diseñado para conectar a personas con profesionales especializados en oficios técnicos, mediante una plataforma eficiente, confiable y de fácil uso. Como valor agregado, ofrecemos un dispositivo IoT que permite el monitoreo en tiempo real del consumo de agua y electricidad en el hogar, con el fin de mejorar la calidad de vida, optimizar el uso de recursos y promover la sostenibilidad.
+Hemos observado que muchas personas aún enfrentan dificultades para encontrar rápidamente profesionales disponibles en su zona, lo cual genera frustración y pérdida de tiempo en situaciones que requieren soluciones urgentes. Además, una gran parte de los usuarios no ha integrado tecnologías IoT en sus hogares, perdiendo la oportunidad de prevenir problemas comunes como fugas de agua o sobreconsumo eléctrico mediante un sistema automatizado simple.
+¿Cómo podemos mejorar la eficiencia en la conexión entre usuarios y profesionales técnicos, y al mismo tiempo aumentar el valor percibido del monitoreo inteligente, mediante una plataforma intuitiva y el uso complementario de un dispositivo IoT?
 
 #### 1.2.2.2. Lean UX Assumptions
 ##### 1.2.2.2.1. Features
+<b>Feature y Assumptions:</b>
+- Búsqueda de profesionales filtrados por especialidad, ubicación y reputación: Los usuarios valoran poder encontrar técnicos confiables y disponibles cerca de su ubicación de forma rápida y sencilla. Consideran útil que el catálogo esté organizado y se pueda saber su especialidad, calificación, experiencia, trabajos anteriores, tarifas estimadas y opiniones de otros clientes.
+- Sistema de calificaciones y comentarios: Los usuarios necesitan referencias para tomar decisiones más seguras al contratar un profesional.
+
+- Agenda de disponibilidad y contactos: Los usuarios valoran el poder agendar servicios de forma directa, pues les permite acelerar la contratación .
+- Dispositivo IoT para monitoreo de agua y electricidad: Los usuarios están interesados en soluciones tecnológicas que les ayuden a prevenir problemas y ahorrar dinero.
+- Alertas automáticas ante consumos anómalos: Los usuarios valoran recibir alertas oportunas que les permitan actuar rápidamente ante posibles fugas.
+- Panel intuitivo con métricas básicas de consumo: Tener acceso a datos visuales y simples mejora la percepción de control sobre el hogar.
+- Modelo freemium con opción premium: Los usuarios están dispuestos a pagar por funciones adicionales si perciben valor y utilidad concreta.
 
 ##### 1.2.2.2.2. Business Outcomes
+<br>Business Outcomes:</br>
 
-##### 1.2.2.2.3. User Benefits
+Como empresa se busca incrementar la cantidad de contrataciones de servicios técnicos realizadas a través de la plataforma, mejorar la retención y frecuencia de uso de los usuarios, y aumentar la adopción del dispositivo IoT como parte del plan premium. Asimismo, se espera generar ingresos sostenibles mediante comisiones por servicios concretados o suscripciones, y posicionar a Fix Now como una solución confiable e innovadora en el mercado de servicios técnicos y tecnología para el hogar.
+ 
+<br>User Outcomes:</br>
+Se espera que los usuarios puedan encontrar profesionales técnicos de forma rápida y sencilla desde una plataforma centralizada, con una experiencia fluida y segura. Además, se busca que sientan mayor confianza al prevenir problemas como fugas o sobreconsumo mediante el monitoreo automatizado, reduciendo así costos innecesarios y mejorando su calidad de vida.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
+- <b>Hipótesis 1:</b> Creemos que al ofrecer una plataforma con búsqueda filtrada por especialidad, ubicación, calificación y ejemplos de trabajos anteriores, para usuarios residenciales entre 25 y 50 años que necesitan encontrar técnicos confiables rápidamente, obtendremos una mejora en la tasa de concretación de servicios y mayor satisfacción del usuario.
+Sabremos que esta hipótesis es cierta
+Cuando veamos que al menos el 60% de los usuarios que usan los filtros completan una solicitud de servicio, y más del 80% califican positivamente la experiencia.
+
+- <b>Hipótesis 2:</b> Creemos que ofrecer un dispositivo IoT para monitoreo del consumo de agua y electricidad con alertas de fugas o consumos anómalos, para usuarios interesados en sostenibilidad y prevención de gastos innecesarios, obtendremos un aumento en la percepción de valor del servicio y en la adquisición del plan premium.
+Sabremos que esta hipótesis es cierta
+Cuando veamos que al menos un 25% de los usuarios activos optan por el plan premium con monitoreo en el primer trimestre tras el lanzamiento.
+
+- <b>Hipótesis 3:</b> Creemos que mostrar calificaciones, comentarios y tarifas aproximadas en los perfiles de técnicos, para usuarios que desean mayor confianza y transparencia al contratar servicios, obtendremos un aumento en la confianza y reducción de la tasa de abandono de la plataforma.
+Sabremos que esta hipótesis es cierta
+Cuando veamos que la tasa de contacto con profesionales aumente al menos un 40% después de visualizar perfiles completos.
+
+- <b>Hipótesis 4:</b> Creemos que al permitir que los usuarios agenden directamente una cita con el profesional desde la app, obtendremos una reducción en el tiempo del proceso y mayor tasa de concretación.
+Sabremos que esta hipótesis es cierta
+Cuando veamos que al menos el 50% de las solicitudes de servicio se concretan usando la función de agenda dentro del primer mes.
+- <b>Hipótesis 5:</b> Creemos que mostrar métricas de consumo en un panel claro, con alertas automáticas de fugas, obtendremos mayor retención en el plan premium y mejor percepción del valor del IoT.
+Sabremos que esta hipótesis es cierta
+Cuando veamos que al menos un 30% de los usuarios que reciben una alerta actúan (revisan el consumo o llaman a un técnico) y renueven su suscripción.
+- <b>Hipótesis 6:</b> Creemos que al permitir que los usuarios califiquen y comenten su experiencia con los técnicos, para nuevos usuarios que quieren asegurarse de contratar a alguien confiable, obtendremos un aumento en la confianza general y una mejora en la reputación de los técnicos mejor valorados.
+Sabremos que esta hipótesis es cierta
+Cuando veamos que más del 70% de los usuarios leen comentarios antes de contratar y que los técnicos mejor valorados reciben más solicitudes.
+
 #### 1.2.2.4. Lean UX Canvas.
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcWQa-k1OX_A5LV3cFsoBsdzv--oli9chbtVzmP7EgzRIcvdBRsOb2sZ7ywZA0ddxFIa_x5F3H_G9vX0awPa443_ohKdkJ8MG5D35Ue0YkRVDtZ2UnVR59WjuFRLvxuN2oiKGDh?key=7rHwqlj_RdIsExdWTIYPrLCO" />
+
+- Link del canvas: https://www.canva.com/design/DAGke_3fdA4/uifDtmFEAtbLqqw8ELTzfA/edit?utm_content=DAGke_3fdA4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 
 ## 1.3. Segmentos objetivo.
+<b>Segmento 1 : Profesionales Tecnicos</b>
+<br>
+Este grupo está compuesto por técnicos especializados (fontaneros, electricistas, gasfiteros, carpinteros, pintores,etc.) de entre 30 y 55 años, que en su mayoría trabajan de forma autónoma o en pequeños equipos. Buscan aumentar su flujo de clientes sin depender únicamente del "boca a boca" Muchos no tienen un canal digital sólido para mostrar su experiencia, gestionar solicitudes o recibir pagos. Valoran una plataforma que les permita mostrar sus servicios de forma profesional, recibir calificaciones positivas y gestionar su disponibilidad con facilidad. Además, están abiertos a herramientas tecnológicas que les ayuden a formalizar y optimizar su trabajo.
+
+<b>Segmento 2: Cliente con necesidad de un servicio técnico</b>
+<br>
+Este segmento está conformado por personas de entre 25 y 50 años que viven en zonas urbanas y periurbanas. Que suelen tener empleos a tiempo completo (trabajadores dependientes o independientes), lo que limita el tiempo que pueden dedicar a buscar soluciones para problemas del hogar. Utilizan la tecnología para facilitar su día a día y valoran la rapidez, confiabilidad y transparencia al contratar servicios. Muchos son responsables de su hogar o familia, por lo que buscan soluciones prácticas ante emergencias o necesidades técnicas como fugas, cortocircuitos o instalaciones domésticas. Algunos tienen interés creciente en tecnologías sostenibles, pero aún no han incorporado dispositivos IoT debido a desconocimiento o falta de orientación.
 
 # Capítulo II: Requirements Elicitation & Analysis
 
