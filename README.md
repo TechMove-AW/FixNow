@@ -1600,7 +1600,8 @@ El equipo utiliza diversas herramientas en cada etapa del trabajo, desde la plan
 
 El equipo utilizará GitHub como plataforma de control de versiones, apoyado en el sistema Git. Esta herramienta facilita la colaboración entre los miembros del equipo, permitiendo trabajar de forma simultánea y organizada.<br>
 Enlace al repositorio Gihub: https://github.com/TechMove-AW/FixNow  <br>
-Enlace al landing page: https://github.com/TechMove-AW/FixNow-LandingPage <br>
+Enlace al repositorio landing page: https://github.com/TechMove-AW/FixNow-LandingPage <br>
+Enlace al repositorio de aplicacion web : https://github.com/TechMove-AW/FixNow-App <br>
 **Flujo de trabajo con GitFlow**<br>
 Para el control de versiones se adoptará el modelo GitFlow, descrito por Vincent Driessen, el cual establece una estructura clara para el desarrollo colaborativo mediante ramas específicas:
 -    **main:** Rama principal que contiene las versiones estables del proyecto.
@@ -1650,10 +1651,10 @@ La configuración del despliegue garantizará que las aplicaciones se ejecuten d
 
 ## 5.2. Landing Page, Services & Applications Implementation.
 
-### 5.2.1. Sprint 1
+### 5.2.1. Sprint 2
 
-#### 5.2.1.1. Sprint Planning 1.
-El primer sprint se planificó durante una reunión en discord. Para ello, se creó una tabla para documentar la información discutida.
+#### 5.2.1.1. Sprint Planning 2.
+El segundo sprint se planificó durante una reunión en discord. Para ello, se creó una tabla para documentar la información discutida.
 
 |Sprint #                          |Sprint 1|
 |----                              |-----|
@@ -1663,21 +1664,21 @@ El primer sprint se planificó durante una reunión en discord. Para ello, se cr
 |Location                          |Virtual (Discord)|
 |Prepared by                       |Urrutia Peña, Jasmin Adriana|
 |Attendees (to planning meeting)   |Bustamante Leveau, Cameron Charllotte </br></br>De La Cruz Moreno, Roy Hernan</br></br>Hallasi Saravia, Miguel Angel</br></br>Muñiz Huayanca , Percy Alonso</br></br> Urrutia Peña, Jasmin Adriana|
-|Sprint n - 1 Review Summary       |No hubo sprint anterior|
-|Sprint n - 1 Retrospective Summary|No hubo sprint anterior|
+|Sprint n - 1 Review Summary       |Se realizo correctamente el Sprint 1|
+|Sprint n - 1 Retrospective Summary|Se tiene que mejorar en la gestión del tiempo|
 |**Sprint Goal & User Stories**        ||
-|Sprint 1 Goal                     |Realizar el Landing Page|
+|Sprint 1 Goal                     |Realizar la Aplicacion Web|
 |Sprint 1 Velocity                 |20|
 |Sum of Story Points               |20|
 
 #### 5.2.1.2. Aspect Leaders and Collaborators.
 
-#### 5.2.1.3. Sprint Backlog 1.
+#### 5.2.1.3. Sprint Backlog 2.
 
 #### 5.2.1.4. Development Evidence for Sprint Review.
 Se realizaron los avances con los commits correspondiente en el repositorio de la siguiente forma.
 
-Repositorio Landing Page: https://github.com/TechMove-AW/FixNow-LandingPage
+Repositorio Aplicacion Web: https://github.com/TechMove-AW/FixNow-App </br>
 
 | Repository  | Branch              | Commit Id | Commit Message                                       | Committed on (Date) |
 |-------------|---------------------|-----------|------------------------------------------------------|---------------------|
@@ -1698,65 +1699,41 @@ Repositorio Landing Page: https://github.com/TechMove-AW/FixNow-LandingPage
 | TechMove-AW |  develop                    | 3b2fa07   | Create index.html                                    | Apr 23, 2025        |
 | TechMove-AW | main                    | f8b6217   | Initial commit                                       | Apr 23, 2025        |
 
+EDITAR CON LOS COMMITS DEL REPOSITORIO DE LA APLICACION WEB
+
 #### 5.2.1.5. Execution Evidence for Sprint Review.
-En esta parte se presentará el progreso alcanzado durante el primer sprint, enfocado en la implementación de la Landing Page estática. Para ilustrar este avance, se ha creado el siguiente video
+En esta parte se presentará el progreso alcanzado durante el segundo sprint, enfocado en la implementación de la Aplicaion Web. Para ilustrar este avance, se ha creado el siguiente video
 
-URL del video:https://youtu.be/sefT6klhVpI <br>
+URL del video:  <br>
 
-* Fix Now pestaña principal <br>
-
-<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc1vffCnKtWxyKyabvTnqGrkmY9RbBsEH5gJ3_wHDgkF35dNwHzIHmkvoO8jilHQe_CZbsfE6k7fnT0K8p-LTYb6aWrEb2a46RbRpaoxjoM3yoUvl2qcmE7eXH8z1Pgl1DEjF4npg?key=fxuJ81i7FgPCpYxPYy6v26h7" />
-
-* Ver mas<br>
-
-<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfgXzXgXI2yEo4iP_Yhfosk7sHYD9S2kfHxyrGmdB1NIRFkjyYl_A2VpyiX8-2DcuZ-qPz_WKCPdZNUksBfNl18-_iUpTjQv8hcUTtsviXrgjbGvopYtBVGi-VFkqWFpdYTYVPclQ?key=fxuJ81i7FgPCpYxPYy6v26h7" />
-
-* Servicios<br>
-
-<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXePwgZyTGcWr-K506vpd4DiH-HRbjCXczNmZcqitOTBen9AjBVJmLyTicSnAgv3j3QGV784QhfwoxuBh30ZH26gTpG8Z7rONPQPiJzVnRHneH13galQ1N9cY6K8nbvlb79C5zFY0Q?key=fxuJ81i7FgPCpYxPYy6v26h7" />
-
-* Producto Iot <br>
-
-<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe8EwToUUlxro1SvHxi-4-mgCY5Kv9y43rvZAiw-IBSlIxKFk_OQzVtqymYmOaMqSXc6aF-vdLVdG4hLaguBuEd9cDBkaNZd81TbCjb0ShUYguAJ1zUECzQh1CGODawAu7MZfzA?key=fxuJ81i7FgPCpYxPYy6v26h7" />
-
-* Testimonios <br>
-
-<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc0kWgnuXzSrpClB5M2svdlIPzLCEGxIGNhnWFg66cAfxFx-8Uci5iVVcb7Jy66DWuSTLITlMgCwb7_ZictpvJd_1WYbM9SkrbMf_JLAsFqg8dvjBJw8lymcXbyO7CGBmwI3aNSlA?key=fxuJ81i7FgPCpYxPYy6v26h7" />
-
-* Contacto <br>
-
-<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf642IOW5WWukP3qlKgqIOTF6IRRY_7gQvO6TbLbfyAYuOtbnerVnS99aFqoq_cA4A0ElMVA5ZII22hhzocIfVLO8NyEFcx96cnfSLz92B5uDTl6zJBOAJA641Ec0KNFqek3tS_KA?key=fxuJ81i7FgPCpYxPYy6v26h7" /> 
-
-
+FALTA (CAPS DE APPWEB)
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
-Durante este primer sprint, nos enfocamos únicamente en la creación de la Landing Page estática, por lo que no se trabajó con servicios web. Como resultado, en esta ocasión no se elaboró la documentación correspondiente al uso de servicios web.
-
+Durante este segundo sprint, nos enfocamos únicamente en la creación de la Aplicaion Web, por lo que no se trabajó con servicios web. Como resultado, en esta ocasión no se elaboró la documentación correspondiente al uso de servicios web.
+<SERVICIOS>
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
-Al finalizar el trabajo con todas las historias de usuario, realizamos el despliegue de la Landing Page utilizando GitHub Pages.
+Al finalizar el trabajo con todas las historias de usuario, realizamos el despliegue de la Aplicacion Web utilizando GitHub Pages.
 
-URL de despliegue de la Landing Page: https://github.com/TechMove-AW/FixNow-LandingPage
+URL de despliegue de la Landing Page: 
 
 * Para realizar el despliegue, accedimos a la configuración del repositorio y navegamos a la sección de Pages. Posteriormente, seleccionamos la rama main desde la cual se llevará a cabo el deployment.<br>
 
-<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfylBTMf3qahAHi2NEA6ve2a5I5gxEfouywSNo82p5zjsjsky08bPJucGsuDmolhiyT0Ozt95ahv88EGJ9WdUb-V8CPKlyd62okKAoWTENiDV1t7Sbqf3CNVCRryZZnD5dlqD4R3A?key=fxuJ81i7FgPCpYxPYy6v26h7" />
-
-* Finalmente, solo queda esperar a que GitHub genere la página y proporcione el enlace correspondiente.<br>
-<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcYe_1UGJsRhUm5fcn2oCOgbziHGNpIQNqD2kyFVN88zxBMcK752nVpkkYa3tVXvl1HVt4GWSk-Nl1RQx-xB6TJWCJp0Ek6Z7tuQoF1DUQy_nPiIyeV_sgnCq1w5NMiu4VR6Pmq?key=fxuJ81i7FgPCpYxPYy6v26h7" />
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
-La asignación de tareas para la implementación se dividió por secciones, donde cada miembro del equipo fue responsable de desarrollar una parte de la landing page:
-*    Bustamante Leveau, Cameron Charllotte: Implementacion de la seccion Contacto
-*    De La Cruz Moreno, Roy Hernan:Implementacion de la seccion Producto Iot
-*    Hallasi Saravia, Miguel Angel:Implementacion de la seccion Servicios
-*    Muñiz Huayanca , Percy Alonso:Implementacion de la seccion Testimonios
-*    Urrutia Peña, Jasmin Adriana:Implementacion de la seccion Ver mas
+La asignación de tareas para la implementación se dividió por secciones, donde cada miembro del equipo fue responsable de desarrollar una parte de la aplicacion web:
+*    Bustamante Leveau, Cameron Charllotte: Implementacion de Seccion Tecnico - Publicaciones
+*    De La Cruz Moreno, Roy Hernan:Implementacion de Seccion Cliente - x
+*    Hallasi Saravia, Miguel Angel:Implementacion de Seccion Cliente - x
+*    Muñiz Huayanca , Percy Alonso:Implementacion de Seccion Cliente - x
+*    Urrutia Peña, Jasmin Adriana:Implementacion de Seccion Tecnico -Agenda
 
 # Conclusiones
 
 ## 6.1 Conclusiones y recomendaciones
 TB1: 
 - En este primer entregable, el equipo TechMove ha cumplido con los objetivos establecidos, desarrollando un informe exhaustivo que refleja los avances del proyecto y creando una landing page funcional y estéticamente agradable. A través de un enfoque meticuloso y bien estructurado, se ha logrado comunicar de manera clara los beneficios del producto a los usuarios, estableciendo una base sólida para el desarrollo futuro del proyecto. Este paso inicial asegura que la estructura y visión de TechMove se transmitan con precisión, facilitando la progresión hacia fases más complejas.
+TB2:
+-En este segundo entregable, el equipo logró cumplir satisfactoriamente con los objetivos propuestos. Se completó el segundo Sprint y se desarrolló una aplicación web funcional, intuitiva y con una estética cuidada, reflejando el compromiso y la dedicación del equipo en cada etapa del proceso.
 
 # Bibliografía
 
@@ -1781,4 +1758,5 @@ TB1:
 # Anexos
 Video TB1: [https://drive.google.com/drive/folders/1FYpaCOuHbd2BEJQIOvsucBLAkW1WAv82?usp=sharing](https://drive.google.com/drive/folders/1FYpaCOuHbd2BEJQIOvsucBLAkW1WAv82?usp=sharing)
 Informe de Participacion: [https://docs.google.com/document/d/1k1vP93oioMjgFpdE4xLzgPQv96H5MYqSUJ3iejzpEWo/edit?usp=sharing](https://docs.google.com/document/d/1k1vP93oioMjgFpdE4xLzgPQv96H5MYqSUJ3iejzpEWo/edit?usp=sharing)
+Video TP: [https://drive.google.com/drive/folders/1FYpaCOuHbd2BEJQIOvsucBLAkW1WAv82?usp=sharing](https://drive.google.com/drive/folders/1FYpaCOuHbd2BEJQIOvsucBLAkW1WAv82?usp=sharing)
 Link PPT:  [https://www.canva.com/design/DAGlhH0TIek/whdxIiLgy_T4ruGcK8JMyg/edit?utm_content=DAGlhH0TIek&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGlhH0TIek/whdxIiLgy_T4ruGcK8JMyg/edit?utm_content=DAGlhH0TIek&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
