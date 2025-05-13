@@ -1868,7 +1868,7 @@ Quiero ver el perfil de un profesional que incluye su experiencia, calificacione
 Para evaluar su idoneidad.</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">5</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Miguel</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Done   </td></tr>
 <tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">US006</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Contactar al Profesional Como cliente</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>UT12 </td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Contacto</td>
 <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Quiero poder contactar directamente a un profesional a través de la plataforma (ej. enviar mensaje, solicitar cotización)
-Para discutir mi necesidad y coordinar el servicio.<br></td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">4</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Miguel<br></td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Done   </td></tr>
+Para discutir mi necesidad y coordinar el servicio.<br></td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">4</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Miguel y Roy <br></td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Done   </td></tr>
 <tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">US007</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Configurar Perfil de Servicios</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>UT13 </td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Perfil</td>
 <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Como profesional técnico,
 Quiero detallar los tipos de servicios que ofrezco, mi área de cobertura, mis tarifas y mi disponibilidad horaria
@@ -1895,47 +1895,41 @@ Para acceder a la funcionalidad de monitoreo inteligente y otros beneficios adic
   </tr></thead>
 <tbody>
   <tr>
-    <td rowspan="7"><a href="https://github.com/SmartFlow-UPC/SmartFlow-App-Web">https://github.com/SmartFlow-UPC/SmartFlow-App-Web</a></td>
-    <td>   <br>SmartFlow-UPC / SmartFlow-App-Web</td>
+    <td rowspan="7"><a href="https://github.com/TechMove-AW/FixNow-App">https://github.com/TechMove-AW/FixNow-App</a></td>
+    <td>   <br>TechMove-AW/FixNow-App</td>
     <td>main</td>
     <td>   <br>feat: Primer commit</td>
-    <td>   <br>25/09/2024   </td>
+    <td>   <br>12/05/2025  </td>
   </tr>
   <tr>
-    <td>   <br>SmartFlow-UPC / SmartFlow-App-Web</td>
-    <td>feature-login</td>
-    <td>   <br>feat: Push Login</td>
-    <td>   <br>27/09/2024   </td>
+    <td>   <br>TechMove-AW/FixNow-App</td>
+    <td>feature-alerts</td>
+    <td>   <br>feat: Push alerts</td>
+    <td>   <br>13/05/2025   </td>
   </tr>
   <tr>
-    <td>   <br>SmartFlow-UPC / SmartFlow-App-Web</td>
-    <td>feature-registro</td>
-    <td>   <br>feat: Push registros</td>
-    <td>   <br>27/09/2024   </td>
+    <td>   <br>TechMove-AW/FixNow-App</td>
+    <td>feature-docs</td>
+    <td>   <br>feat: Push docs</td>
+    <td>   <br>13/05/2025  </td>
   </tr>
   <tr>
-    <td>   <br>SmartFlow-UPC / SmartFlow-App-Web</td>
-    <td>feature-produccion</td>
-    <td>   <br>feat: commitproducction</td>
-    <td>   <br>27/09/2024   </td>
+    <td>   <br>TechMove-AW/FixNow-App</td>
+    <td>feature-public</td>
+    <td>   <br>feat: public</td>
+    <td>   <br>13/05/2025   </td>
   </tr>
   <tr>
-    <td>   <br>SmartFlow-UPC / SmartFlow-App-Web</td>
-    <td>feature_fix</td>
-    <td>   <br>feat: Commit Felipe about</td>
-    <td>   <br>27/09/2024   </td>
+    <td>   <br>TechMove-AW/FixNow-App</td>
+    <td>feature_tecsection</td>
+    <td>   <br>feat: tecsection</td>
+    <td>   <br>13/05/2025 </td>
   </tr>
   <tr>
-    <td>   <br>SmartFlow-UPC / SmartFlow-App-Web</td>
-    <td>feature-alarmas</td>
-    <td>   <br>feat: commit final Alarmas, add Contact, add Plans of subscriptions</td>
-    <td>   <br>27/09/2024   </td>
-  </tr>
-  <tr>
-    <td>   <br>SmartFlow-UPC / SmartFlow-App-Web</td>
-    <td>main</td>
-    <td>   <br>Merge pull request #3 from SmartFlow-UPC/feature-alarmas</td>
-    <td>   <br>27/09/2024   </td>
+    <td>   <br>TechMove-AW/FixNow-App</td>
+    <td>feature-workercatalog</td>
+    <td>   <br>feat: workercatalog</td>
+    <td>   <br>13/05/2025  </td>
   </tr>
 </tbody></table>
 
