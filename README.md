@@ -56,11 +56,22 @@
         Creación del documento de trabajo en formato markdown, capítulo I, capítulo II, capítulo III, capítulo IV y capítulo V
       </td>
     </tr>
+    <tr>
+      <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">TP1</td>
+      <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">12/05/2025</td>
+      <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+        Bustamante Leveau, Cameron Charllotte <br>
+        De La Cruz Moreno, Roy Hernan <br>
+        Hallasi Saravia, Miguel Angel<br>
+        Muñiz Huayanca , Percy Alonso <br>
+        Urrutia Peña, Jasmin Adriana
+      </td>
+      <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+        Actualización del Landing Page y capítulo V.
+      </td>
+    </tr>
   </tbody>
-</table>                                          
-
-</br>
-</br>
+</table>
 
 ## Project Report Collaboration Insights
 
@@ -77,6 +88,17 @@ Para el desarrollo del informe correspondiente a la entrega TB1, se estableció 
 |Hallasi Saravia, Miguel Angel|Empathy Mapping, As-is Scenario Mapping, Ubiquitous Language, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Class Diagrams, Class Dictionary, Database Diagram|
 |Muñiz Huayanca , Percy Alonso|To-Be Scenario Mapping, User Stories, Impact Mapping, Product Backlog, Registro de entrevistas, Análisis de entrevistas|
 |Urrutia Peña, Jasmin Adriana|Entrevistas, Diseño de entrevistas, Registro de entrevistas, Análisis de entrevistas, Needfinding, User Personas, User Task Matrix, User Journey Mapping, Style Guidelines, General Style Guidelines, Web Style Guidelines, Information Architecture, Organization Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems, Navigation Systems, Landing Page UI Design, Landing Page Wireframe, Landing Page Mock-Up, Web Applications Prototyping, Codigo Landing - Inicio - VerMas - Footer, Elaboracion de PPT grupal|
+
+**TP1**
+
+Para la actualización del informe a la entrega TP1, se repartió de manera equitativa de la siguiente manera para cada inegrante del equipo:
+
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Integrante</th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Tareas Asignadas</th></tr></thead>
+<tbody><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Bustamante Leveau, Cameron Charllotte</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td></tr>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">De La Cruz Moreno, Roy Hernan</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Hallasi Saravia, Miguel Angel</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td></tr>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Muñiz Huayanca , Percy Alonso</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td></tr>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Urrutia Peña, Jasmin Adriana</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td></tr></tbody></table>
+
 
 ## **Github Collaboration Insights**
 
@@ -105,6 +127,8 @@ Los siguientes gráficos representan analíticos de commits en el repositorio de
 
 <img src= "https://lh7-rt.googleusercontent.com/docsz/AD_4nXceiVKsyXQ-i1jUx1VwWfDzloKWV4CUBkjakMIS4Rn0gmBKMF7lu1LiJL1hsMkN5qhcgMKxm5z2RpUEbJ8wZCMSUO0Wp5honr129BJYSe00HpCuXllOTYFqmyla-MlOogCBs43w?key=pBJWG96xHxpH_57aWDst0Zo_">
 
+**TP**</br> 
+
 ## Student Outcome
 
 El curso contribuye al cumplimiento del Student Outcome ABET: </br> 
@@ -114,17 +138,49 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 </br>
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Criterio específico</span></th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Acciones realizadas</span></th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Conclusiones</span></th></tr></thead>
-<tbody>
-<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Comunica oralmente con efectividad a diferentes rangos de audiencia </td>
-<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Cameron Charllotte: <br> TB1: Me comuniqué eficazmente con mi equipo utilizando un lenguaje respetuoso y claro, expresando mis ideas de manera asertiva y cumpliendo con los compromisos asumidos. <br> <br>Roy Hernan: <br> TB1:Durante las reuniones del grupo, me enfoqué en expresar con claridad mis ideas y propuestas, adaptando mi comunicación según el contexto, lo cual facilitó el entendimiento entre todos los integrantes. <br> <br>Miguel Angel: <br> TB1: Colaboré activamente en las tareas asignadas, aplicando mis conocimientos y habilidades para cumplir con los objetivos del equipo en tiempo y forma.<br> <br>Percy Alonso: <br> TB1:  <br> <br>Jasmin Adriana <br> TB1: Considero que mi comunicacion con el grupo fue constante, lo cual nos ayudo a poder repartirnos las tareas y realizar un buen trabajo <br><br>
-<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">TB1: Durante el desarrollo del proyecto, cada integrante del equipo fue capaz de comunicar oralmente sus ideas de forma clara y adecuada al contexto, logrando que tanto compañeros como docentes comprendieran nuestras propuestas. Esta capacidad de adaptación en la comunicación nos permitió distribuir tareas eficientemente, resolver dudas en tiempo real y mantener una dinámica colaborativa efectiva en todo momento.<br> </td>
-</tr>
-<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Comunica por escrito con efectividad a diferentes rangos de audiencia.</td>
-<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Cameron Charllotte: <br> TB1: Redacté documentos siguiendo los formatos solicitados, cuidando la ortografía y la claridad en la información. Además, realicé documentación que facilitó la organización del trabajo y la comprensión de los procesos por parte del equipo. <br> <br>Roy Hernan: <br> TB1:<br>Contribuí en varios puntos del trabajo, asegurándome de que la información fuera precisa, coherente y fácilmente comprensible tanto para compañeros como para docentes. <br>Miguel Angel: <br> TB1: Colaboré activamente en las tareas asignadas, aplicando mis conocimientos y habilidades para cumplir con los objetivos del equipo en tiempo y forma.<br> <br>Percy Alonso: <br> TB1:  <br> <br>Jasmin Adriana: <br> TB1: Realice todas las actividades que me tocaron, creo que deberia mejorar con mi gestion de tiempo pero en general me fue bien.<br> </td>
-<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">TB1: El trabajo en equipo se reflejó también en nuestra capacidad para comunicar por escrito de forma efectiva. La documentación que elaboramos —incluyendo informes, descripciones técnicas y contenido para la landing page— fue clara, precisa y entendible para distintas audiencias. Esto facilitó la validación del proyecto por parte de los docentes y aseguró que el producto final comunicara correctamente su propósito y funcionalidad.<br><br></td>
-</tr>
-</tbody></table>
+<table style="border-collapse:collapse;border-spacing:0" class="tg">
+  <thead>
+    <tr>
+      <th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Criterio específico</span></th>
+      <th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Acciones realizadas</span></th>
+      <th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Conclusiones</span></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Comunica oralmente con efectividad a diferentes rangos de audiencia </td>
+      <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+        <strong>Cameron Charllotte:</strong> TB1: Me comuniqué eficazmente con mi equipo utilizando un lenguaje respetuoso y claro, expresando mis ideas de manera asertiva y cumpliendo con los compromisos asumidos. <br> <br>
+	<strong>Cameron Charllotte:</strong> TP:  <br> <br>
+        <strong>Roy Hernan:</strong> TB1: Durante las reuniones del grupo, me enfoqué en expresar con claridad mis ideas y propuestas, adaptando mi comunicación según el contexto, lo cual facilitó el entendimiento entre todos los integrantes. <br> <br>
+	<strong>Roy Hernan:</strong> TP: <br> <br>
+        <strong>Miguel Angel:</strong> TB1: Colaboré activamente en las tareas asignadas, aplicando mis conocimientos y habilidades para cumplir con los objetivos del equipo en tiempo y forma.<br> <br>
+	<strong>Miguel Angel:</strong> TP: <br> <br>
+        <strong>Percy Alonso:</strong> TB1: <br> <br>
+	<strong>Percy Alonso:</strong> TP: <br> <br>
+        <strong>Jasmin Adriana:</strong> TB1: Considero que mi comunicación con el grupo fue constante, lo cual nos ayudó a poder repartirnos las tareas y realizar un buen trabajo <br><br>
+	<strong>Jasmin Adriana:</strong> TP: <br><br>
+      </td>
+      <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">TB1: Durante el desarrollo del proyecto, cada integrante del equipo fue capaz de comunicar oralmente sus ideas de forma clara y adecuada al contexto, logrando que tanto compañeros como docentes comprendieran nuestras propuestas. Esta capacidad de adaptación en la comunicación nos permitió distribuir tareas eficientemente, resolver dudas en tiempo real y mantener una dinámica colaborativa efectiva en todo momento.<br> TP:  </td>
+    </tr>
+    <tr>
+      <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Comunica por escrito con efectividad a diferentes rangos de audiencia.</td>
+      <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+        <strong>Cameron Charllotte:</strong> TB1: Redacté documentos siguiendo los formatos solicitados, cuidando la ortografía y la claridad en la información. Además, realicé documentación que facilitó la organización del trabajo y la comprensión de los procesos por parte del equipo. <br> <br>
+	<strong>Cameron Charllotte:</strong> TP:  <br> <br>
+        <strong>Roy Hernan:</strong> TB1:<br>Contribuí en varios puntos del trabajo, asegurándome de que la información fuera precisa, coherente y fácilmente comprensible tanto para compañeros como para docentes. <br>
+	<strong>Roy Hernan:</strong> TP: <br> <br>
+        <strong>Miguel Angel:</strong> TB1: Colaboré activamente en las tareas asignadas, aplicando mis conocimientos y habilidades para cumplir con los objetivos del equipo en tiempo y forma.<br> <br>
+	<strong>Miguel Angel:</strong> TP: <br> <br>
+        <strong>Percy Alonso:</strong> TB1: <br> <br>
+	<strong>Percy Alonso:</strong> TP: <br> <br>
+        <strong>Jasmin Adriana:</strong> TB1: Realicé todas las actividades que me tocaron, creo que debería mejorar con mi gestión de tiempo pero en general me fue bien.<br>
+	<strong>Jasmin Adriana:</strong> TP: <br><br>
+      </td>
+      <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">TB1: El trabajo en equipo se reflejó también en nuestra capacidad para comunicar por escrito de forma efectiva. La documentación que elaboramos —incluyendo informes, descripciones técnicas y contenido para la landing page— fue clara, precisa y entendible para distintas audiencias. Esto facilitó la validación del proyecto por parte de los docentes y aseguró que el producto final comunicara correctamente su propósito y funcionalidad.<br><br> TP: </td>
+    </tr>
+  </tbody>
+</table>
 </br></br>
 
 # Contenido
@@ -221,8 +277,8 @@ Esta sección incluye la descripción del Startup y los perfiles de los integran
 ### 1.1.1. Descripción de la Startup
 En nuestra Startup, desarrollamos Fix Now, una plataforma que conecta a personas con profesionales especializados en oficios como fontanería, carpintería, entre otros servicios que no siempre son fáciles de encontrar. Además, como valor añadido, implementamos un sistema de monitoreo en tiempo real del consumo de electricidad y agua en el hogar, permitiendo detectar posibles fugas o anomalías a tiempo.
 Nuestro objetivo es brindar soluciones tecnológicas accesibles que mejoren la calidad de vida de los usuarios, optimicen el uso de recursos, reduzcan costos y promuevan la sostenibilidad tanto en hogares como en empresas.
-Misión: Brindar soluciones tecnológicas accesibles que conecten a personas con profesionales especializados en oficios poco comunes, y que permitan monitorear en tiempo real el consumo de agua y electricidad en los hogares, contribuyendo así al uso eficiente de los recursos, la detección temprana de fugas y la mejora de la calidad de vida de nuestros usuarios.
-Visión: Ser la plataforma líder en Latinoamérica en la conexión eficiente entre usuarios y profesionales especializados, integrando tecnología inteligente para el monitoreo y la sostenibilidad en el hogar, y posicionándonos como un referente en innovación social y cuidado del medio ambiente.
+<p>Misión: Brindar soluciones tecnológicas accesibles que conecten a personas con profesionales especializados en oficios poco comunes, y que permitan monitorear en tiempo real el consumo de agua y electricidad en los hogares, contribuyendo así al uso eficiente de los recursos, la detección temprana de fugas y la mejora de la calidad de vida de nuestros usuarios.</p>
+<p>Visión: Ser la plataforma líder en Latinoamérica en la conexión eficiente entre usuarios y profesionales especializados, integrando tecnología inteligente para el monitoreo y la sostenibilidad en el hogar, y posicionándonos como un referente en innovación social y cuidado del medio ambiente.</p>
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
@@ -243,10 +299,7 @@ Visión: Ser la plataforma líder en Latinoamérica en la conexión eficiente en
 -    **Who (Quién):** El equipo fundador está conformado por jóvenes emprendedores enfocados en tecnología, sostenibilidad y desarrollo social. Fix Now está dirigido a usuarios residenciales y pequeñas empresas que necesiten servicios técnicos confiables, y a profesionales independientes que busquen más oportunidades laborales.
 -    **Why (Por qué):** Existe una gran demanda de servicios técnicos confiables, pero también una dificultad para encontrar especialistas disponibles, especialmente en oficios menos comunes. Además, muchas fugas de recursos como agua y luz no se detectan a tiempo, generando gastos innecesarios. Fix Now soluciona ambos problemas con una única plataforma eficiente, útil y sostenible.
 -    **How (Cómo):** Mediante una aplicación intuitiva, los usuarios pueden buscar y contactar profesionales verificados según su ubicación y necesidad. Además, los hogares conectados al sistema de monitoreo podrán recibir alertas cuando se detecten patrones anómalos de consumo de agua o electricidad, permitiendo una rápida intervención.
--    **How Much (Cuánto):** Fix Now se plantea como un modelo freemium:
-1.- El acceso básico a la plataforma será gratuito para usuarios y profesionales.
-2.- Se cobrará una comisión por cada servicio concretado a través de la app.
-3.- El monitoreo inteligente será parte de un plan premium con suscripción mensual asequible, dependiendo del tamaño del hogar y los sensores instalados.
+-    **How Much (Cuánto):** El modelo freemium de Fix Now ofrecerá acceso gratuito a la plataforma para usuarios y profesionales, generando ingresos a través de una comisión por cada servicio concretado mediante la app. Adicionalmente, se implementará un plan premium de suscripción mensual para el monitoreo inteligente de electricidad y agua, con precios asequibles y escalonados según el tamaño del hogar y la cantidad de sensores instalados.
 
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
