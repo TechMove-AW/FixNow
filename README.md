@@ -1950,6 +1950,13 @@ Para acceder a la funcionalidad de monitoreo inteligente y otros beneficios adic
 
 Durante el sprint 2, se logró completar el desarrollo de la implementación de la landing page, que incluye diversas secciones en las que el usuario puede acceder a información relevante sobre el producto y la startup. Paralelamente, se avanzó parcialmente en el desarrollo de la aplicación web, permitiendo a los usuarios interactuar con algunas de sus funcionalidades. A continuación, se presentan algunas evidencias.
 
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfgfB76QIXExu46UWsbWLRVM777RFkR-MTQVldB64x2Ue3ktuPceQkEK5uWvrYRlEZtchoPj_KyF58jecoUuEmZNBXP-Rj1pE5t1EBZMVhht6lOHXzNonmz69oD6hpZuTMbMj0row?key=GxAOQwjRfYNU6nowbnqtEw" <br>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdar7Wmc0eCmvjP10jRcECdtbFGX5bFSYqp6EkSFOhyZmsIT5KdUeZZ7MFbN1iT_P8tx1NujUlQSDUiYpqv4KNv1hRlJK6VZjQ9Yrspqik2uRQLckETQrZrAWMk9220rpU9D_u2?key=GxAOQwjRfYNU6nowbnqtEw" <br>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdwKqt3QZ9ElwoR_LaEnEFH6sRm4rkR9zWuHtzpW-XrX6tQFQXDUqVsGqGEP6-b9Hk0GR93SZlpVtywlQ2P3q874lX4gnKZDVpYdh4BwadDxM8hhNtVlAsiDqy6MkEyYjVWq43s?key=GxAOQwjRfYNU6nowbnqtEw" <br>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeJtua3MWOCoEkygw_xDwVvofAfGpawLeOM-v796Bsvgrlv754RVcAI75VvZY9-tqRmfT5AUJyqF5WIyfNUpkuxf-zGl4M-VjyD82DkALkGkJKX-WM2cLTc5GJ-Ug-5NfnHWxALVw?key=GxAOQwjRfYNU6nowbnqtEw" <br>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd_XAvlmIV-IAu-SJ33El6UdR-5IrqByyLyvCMRBsWs0mL92KgcN43cZDWTKvYEaYpYgvAc76YOOtgqi7gBkwWVgyDwXWlk1Qt1ryAamulRaRw4hC5EMN3HBq8UFtXJQJKSOi8CWg?key=GxAOQwjRfYNU6nowbnqtEw" <br>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXedkmSmQKg5wDkr-g1g2D7e09MFRYPxLd_8dwollhqa6mRY_UlULfFXGClltLTKBzO1jV-iXR5tHai_GCK0dmPTLis0bnR0X7QmnrwRUxQaPTlR2CzJu4fdV0PeYSRYgw0PUJyqSg?key=GxAOQwjRfYNU6nowbnqtEw" <br>
+
 <div id='5.2.2.6.'><h5> 5.2.2.6.Services Documentation Evidence for Sprint Review.</h5></div>
 
 En el sprint 2, se planificó enfocarse exclusivamente en la landing page y el front-end. Para evitar limitaciones al probar las funcionalidades sin un back-end disponible.Al principio, se trabajó con un servidor JSON de manera local, y posteriormente se implementó My Json Server, que ahora está integrado en la aplicación web de Front-End desplegada. A continuación, se proporciona el enlace para acceder a <a href="https://my-json-server.typicode.com/" target="_blank" rel="noopener noreferrer">My Json Server</a>.</p>
@@ -1969,7 +1976,7 @@ En el sprint 2, se planificó enfocarse exclusivamente en la landing page y el f
 
 <div id='5.2.2.7.'><h5> 5.2.2.7.Software Deployment Evidence for Sprint Review.</h5></div>
 
-En la entrega del segundo sprint, se implementó la landing page completamente funcional, cumpliendo con las user stories asociadas a este entregable. Asimismo, se lanzó una versión parcial de la aplicación web.
+En la entrega del segundo sprint, se implementó la landing page completamente funcional, cumpliendo con las user stories asociadas a este entregable.
 
 <div id='5.2.2.8.'><h5> 5.2.2.8.Team Collaboration Insights during Sprint.</h5></div>
 
