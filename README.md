@@ -1112,83 +1112,48 @@ En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
   </tr>
   <tr>
     <td>10</td>
-    <td>US10</td>
-    <td>Visualizar Consumo en Tiempo Real</td>
-    <td>Como cliente con IoT, Quiero ver consumo actual Para monitorear uso.</td>
-    <td>8</td>
-  </tr>
-  <tr>
-    <td>11</td>
-    <td>US11</td>
-    <td>Recibir Alertas de Consumo Anómalo</td>
-    <td>Como cliente con IoT, Quiero alertas automáticas Para prevenir problemas.</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>12</td>
-    <td>US12</td>
-    <td>Ver Historial de Consumo</td>
-    <td>Como cliente con IoT, Quiero ver historial Para optimizar uso.</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>13</td>
-    <td>US13</td>
-    <td>Crear Nueva Solicitud de Servicio</td>
-    <td>Como cliente, Quiero crear solicitudes detalladas Para describir necesidades.</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>14</td>
-    <td>US14</td>
-    <td>Ver Estado de Mis Solicitudes</td>
-    <td>Como cliente, Quiero ver estados Para seguir progreso.</td>
-    <td>3</td>
-  </tr>
-  <tr>
-    <td>15</td>
     <td>US15</td>
     <td>Realizar Pago del Servicio</td>
     <td>Como cliente, Quiero pagar seguro Para finalizar servicio.</td>
     <td>8</td>
   </tr>
   <tr>
-    <td>16</td>
+    <td>11</td>
     <td>US16</td>
     <td>Calificar y Dejar Reseña (Cliente)</td>
     <td>Como cliente, Quiero evaluar servicios Para compartir experiencia.</td>
     <td>3</td>
   </tr>
   <tr>
-    <td>17</td>
+    <td>12</td>
     <td>US17</td>
     <td>Ver Calificaciones de Profesionales</td>
     <td>Como cliente, Quiero ver evaluaciones Para decidir mejor.</td>
     <td>3</td>
   </tr>
   <tr>
-    <td>18</td>
+    <td>13</td>
     <td>US18</td>
     <td>Calificar y Recibir Reseñas (Profesional)</td>
     <td>Como profesional, Quiero ver mis calificaciones Para entender reputación.</td>
     <td>3</td>
   </tr>
   <tr>
-    <td>19</td>
+    <td>14</td>
     <td>US19</td>
     <td>Suscribirse al Plan Premium</td>
     <td>Como cliente, Quiero suscribirme Para acceder a monitoreo.</td>
     <td>5</td>
   </tr>
   <tr>
-    <td>20</td>
+    <td>15</td>
     <td>US20</td>
     <td>Configurar Dispositivo IoT</td>
     <td>Como cliente premium, Quiero guías de instalación Para configurar correctamente.</td>
     <td>3</td>
   </tr>
   <tr>
-    <td>21</td>
+    <td>16</td>
     <td>US21</td>
     <td>Vincular Dispositivo IoT a la Cuenta</td>
     <td>Como cliente, Quiero vincular dispositivo Para asociar datos.</td>
