@@ -746,11 +746,6 @@ Los user Stories (historias de ususario) son descripciones cortas que nos ayuda 
       <td>Sistema de Calificaciones y Reseñas</td>
       <td>Como cliente, quiero calificar y dejar reseñas sobre los servicios o profesionales, y ver las calificaciones y reseñas de otros para tomar decisiones informadas.</td>
     </tr>
-    <tr>
-      <td>EP07</td>
-      <td>Gestión del Plan Premium y Dispositivo IoT</td>
-      <td>Como cliente, quiero suscribirme al plan premium, gestionar mi suscripción y configurar el dispositivo IoT para el monitoreo.</td>
-    </tr>
   </table>
   
   <table border="1px">
@@ -920,94 +915,6 @@ Los user Stories (historias de ususario) son descripciones cortas que nos ayuda 
       </tr>
       <tr>
         <td>US10</td>
-        <td>Visualizar Consumo en Tiempo Real</td>
-        <td><b>Como</b> cliente con el dispositivo IoT instalado,<br/>
-            <b>Quiero</b> ver un panel intuitivo que muestre mi consumo actual de agua y electricidad en tiempo real<br/>
-            <b>Para</b> monitorear mi uso en el momento.</td>
-        <td>
-          <b>Scenario 1: Mostrar datos de consumo.</b><br/>
-          <b>Dado que</b> tengo el dispositivo IoT conectado<br/>
-          <b>Cuando</b> accedo a la sección de monitoreo<br/>
-          <b>Entonces</b> veo gráficos o indicadores con mi consumo actual de agua y electricidad.<br/><br/>
-          <b>Scenario 2: No hay datos disponibles.</b><br/>
-          <b>Dado que</b> el dispositivo IoT está desconectado<br/>
-          <b>Cuando</b> accedo a la sección de monitoreo<br/>
-          <b>Entonces</b> veo un mensaje indicando que los datos no están disponibles.
-        </td>
-        <td>EP04</td>
-      </tr>
-      <tr>
-        <td>US11</td>
-        <td>Recibir Alertas de Consumo Anómalo</td>
-        <td><b>Como</b> cliente con el dispositivo IoT,<br/>
-            <b>Quiero</b> recibir alertas automáticas en mi dispositivo móvil si se detecta un patrón de consumo inusual<br/>
-            <b>Para</b> prevenir posibles fugas o problemas.</td>
-        <td>
-          <b>Scenario 1: Alerta de fuga de agua.</b><br/>
-          <b>Dado que</b> hay un aumento repentino en mi consumo de agua fuera de lo normal<br/>
-          <b>Entonces</b> recibo una notificación en mi celular alertándome sobre una posible fuga.<br/><br/>
-          <b>Scenario 2: Alerta de sobreconsumo eléctrico.</b><br/>
-          <b>Dado que</b> mi consumo eléctrico supera un umbral predefinido<br/>
-          <b>Entonces</b> recibo una notificación alertándome sobre un posible sobreconsumo.
-        </td>
-        <td>EP04</td>
-      </tr>
-      <tr>
-        <td>US12</td>
-        <td>Ver Historial de Consumo</td>
-        <td><b>Como</b> cliente con el dispositivo IoT,<br/>
-            <b>Quiero</b> poder ver un historial de mi consumo de agua y electricidad por día, semana o mes<br/>
-            <b>Para</b> identificar tendencias y optimizar mi uso.</td>
-        <td>
-          <b>Scenario 1: Ver historial diario.</b><br/>
-          <b>Dado que</b> quiero revisar mi consumo de ayer<br/>
-          <b>Cuando</b> selecciono la vista diaria<br/>
-          <b>Entonces</b> veo un gráfico con mi consumo de agua y electricidad por horas.<br/><br/>
-          <b>Scenario 2: Ver historial mensual.</b><br/>
-          <b>Dado que</b> quiero comparar mi consumo de este mes con el anterior<br/>
-          <b>Cuando</b> selecciono la vista mensual<br/>
-          <b>Entonces</b> veo un resumen de mi consumo total por día de cada mes.
-        </td>
-        <td>EP04</td>
-      </tr>
-      <tr>
-        <td>US13</td>
-        <td>Crear Nueva Solicitud de Servicio</td>
-        <td><b>Como</b> cliente,<br/>
-            <b>Quiero</b> poder crear una solicitud de servicio detallando el problema, mi ubicación y adjuntando fotos si es necesario<br/>
-            <b>Para</b> que los profesionales puedan entender mi necesidad.</td>
-        <td>
-          <b>Scenario 1: Solicitud creada con éxito.</b><br/>
-          <b>Dado que</b> necesito un servicio<br/>
-          <b>Cuando</b> completo el formulario de solicitud con la descripción del problema, mi ubicación y adjunto una foto<br/>
-          <b>Entonces</b> mi solicitud es enviada a los profesionales relevantes.<br/><br/>
-          <b>Scenario 2: Falta información obligatoria.</b><br/>
-          <b>Dado que</b> necesito un servicio<br/>
-          <b>Cuando</b> no completo el campo de descripción del problema<br/>
-          <b>Entonces</b> recibo un mensaje indicando que es un campo obligatorio.
-        </td>
-        <td>EP05</td>
-      </tr>
-      <tr>
-        <td>US14</td>
-        <td>Ver Estado de Mis Solicitudes</td>
-        <td><b>Como</b> cliente,<br/>
-            <b>Quiero</b> poder ver el estado de las solicitudes de servicio que he creado (ej. pendiente, en revisión, aceptada, finalizada)<br/>
-            <b>Para</b> estar informado del proceso.</td>
-        <td>
-          <b>Scenario 1: Ver lista de solicitudes.</b><br/>
-          <b>Dado que</b> he creado varias solicitudes<br/>
-          <b>Cuando</b> accedo a la sección de "Mis solicitudes"<br/>
-          <b>Entonces</b> veo una lista con el estado actual de cada una.<br/><br/>
-          <b>Scenario 2: Ver detalles de una solicitud.</b><br/>
-          <b>Dado que</b> quiero saber más sobre una solicitud específica<br/>
-          <b>Cuando</b> hago clic en ella<br/>
-          <b>Entonces</b> veo los detalles completos y las interacciones con los profesionales.
-        </td>
-        <td>EP05</td>
-      </tr>
-      <tr>
-        <td>US15</td>
         <td>Realizar Pago del Servicio</td>
         <td><b>Como</b> cliente,<br/>
             <b>Quiero</b> poder realizar el pago de forma segura a través de la plataforma una vez que el servicio ha sido completado<br/>
@@ -1025,7 +932,7 @@ Los user Stories (historias de ususario) son descripciones cortas que nos ayuda 
         <td>EP05</td>
       </tr>
       <tr>
-        <td>US16</td>
+        <td>US11</td>
         <td>Calificar y Dejar Reseña (Cliente)</td>
         <td><b>Como</b> cliente,<br/>
             <b>Quiero</b> poder calificar al profesional y dejar una reseña sobre la calidad del servicio recibido<br/>
@@ -1043,7 +950,7 @@ Los user Stories (historias de ususario) son descripciones cortas que nos ayuda 
         <td>EP06</td>
       </tr>
       <tr>
-        <td>US17</td>
+        <td>US12</td>
         <td>Ver Calificaciones y Reseñas de Profesionales</td>
         <td><b>Como</b> cliente,<br/>
             <b>Quiero</b> ver las calificaciones promedio y las reseñas dejadas por otros clientes sobre un profesional<br/>
@@ -1056,7 +963,7 @@ Los user Stories (historias de ususario) son descripciones cortas que nos ayuda 
         <td>EP06</td>
       </tr>
       <tr>
-        <td>US18</td>
+        <td>US13</td>
         <td>Calificar y Recibir Reseñas (Profesional)</td>
         <td><b>Como</b> profesional técnico,<br/>
             <b>Quiero</b> ver las calificaciones y reseñas que los clientes han dejado sobre mis servicios<br/>
@@ -1070,7 +977,7 @@ Los user Stories (historias de ususario) son descripciones cortas que nos ayuda 
         <td>EP06</td>
       </tr>
       <tr>
-        <td>US19</td>
+        <td>US14</td>
         <td>Suscribirse al Plan Premium</td>
         <td><b>Como</b> cliente,<br/>
             <b>Quiero</b> poder suscribirme al plan premium<br/>
@@ -1088,7 +995,7 @@ Los user Stories (historias de ususario) son descripciones cortas que nos ayuda 
         <td>EP07</td>
       </tr>
       <tr>
-        <td>US20</td>
+        <td>US15</td>
         <td>Configurar Dispositivo IoT</td>
         <td><b>Como</b> cliente con una suscripción premium,<br/>
             <b>Quiero</b> recibir instrucciones claras sobre cómo instalar y configurar el dispositivo IoT en mi hogar<br/>
@@ -1102,7 +1009,7 @@ Los user Stories (historias de ususario) son descripciones cortas que nos ayuda 
         <td>EP07</td>
       </tr>
       <tr>
-        <td>US21</td>
+        <td>US16</td>
         <td>Vincular Dispositivo IoT a la Cuenta</td>
         <td><b>Como</b> cliente con el dispositivo IoT instalado,<br/>
             <b>Quiero</b> poder vincularlo a mi cuenta en la plataforma<br/>
