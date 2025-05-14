@@ -559,6 +559,24 @@ Por eso, cuando se le presentó la propuesta de la plataforma Fix Now, mostró u
 Ángel también se mostró de acuerdo con pagar una suscripción mensual, ya que lo ve como una forma de invertir en su propio trabajo. “Es como tener un anuncio que está activo todo el tiempo, pero mejor, porque está dentro de una app que la gente usa cuando realmente necesita un técnico”, explicó. Además, valoró funciones como el historial de servicios, las opiniones de los clientes, y la opción de chatear directamente con ellos para coordinar trabajos, lo cual cree que agiliza bastante el proceso.
 Finalmente, Ángel felicitó la iniciativa y dio una calificación muy positiva a la StartUp Fix Now, destacando que ayuda tanto a los profesionales como a los usuarios. Sus comentarios permiten definir requisitos funcionales centrados en mejorar la visibilidad, reputación y facilidad de contacto para los técnicos, así como requisitos no funcionales relacionados con la confianza, la usabilidad y la eficiencia de la plataforma.
 
+**Entrevista 3:**
+Datos del entrevistador:
+- Nombre: Percy Alonso Muñiz Huayanca
+  
+Datos del entrevistado:
+- Nombre: Leonardo Caballa
+- Edad: 26 años
+- Distrito de residencia: Jesus Maria
+- Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202319563_upc_edu_pe/EZhP4sMHGX9Nm7imK7gcdyYBMcqvqbWXeTMSj9e7X6uAyg?e=kGxrp2
+  
+![TECNICO 3](https://github.com/user-attachments/assets/2a5603c2-a618-4439-8112-286c72a75078)
+
+**Resumen de la entrevista:**
+A partir de la entrevista realizada a Leonardo Caballa Huaman, electricista de 26 años que reside en el distrito de Jesús María, se obtuvieron observaciones valiosas desde la perspectiva de un técnico con experiencia en el rubro. Leonardo comentó que, aunque siempre ha trabajado con responsabilidad y cuenta con una base sólida de clientes que confían en su trabajo, a menudo se le dificulta conseguir nuevos clientes, especialmente cuando no lo conocen o no tienen una referencia directa.
+Por esta razón, al presentársele la propuesta de la plataforma Fix Now, reaccionó con entusiasmo y mostró una actitud muy positiva. Le pareció una idea excelente, ya que considera que le permitiría mostrar sus servicios, llegar a más personas y ampliar su red de clientes. “Con algo así, la gente puede ver mi perfil, los trabajos que he realizado y sentirse más segura al contactarme”, comentó.
+Leonardo también expresó estar dispuesto a pagar una suscripción mensual, ya que lo considera una inversión en su trabajo. “Es como tener una publicidad activa todo el tiempo, pero mejor, porque está en una app que la gente consulta justo cuando necesita un técnico”, explicó. Asimismo, valoró funcionalidades como el historial de servicios, las valoraciones de los clientes, y la posibilidad de comunicarse directamente por chat para coordinar trabajos, lo que en su opinión facilita mucho la organización.
+Finalmente, Leonardo felicitó la iniciativa y dio una opinión muy favorable sobre la StartUp Fix Now, destacando que representa una ayuda real tanto para los profesionales como para los usuarios. Sus comentarios permiten establecer requisitos funcionales enfocados en mejorar la visibilidad, la reputación y el acceso al contacto de los técnicos, así como requisitos no funcionales relacionados con la confianza, la facilidad de uso y la eficiencia de la plataforma.
+
 **Entrevistas segmento 02: Usuarios Clientes**
 **Entrevista 1:**
 Datos del entrevistador:
