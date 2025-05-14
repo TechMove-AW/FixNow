@@ -611,6 +611,24 @@ A partir de la entrevista realizada al usuario Jarol Saquiray Vargas, de 18 año
 Mostró apertura y entusiasmo hacia el uso de una aplicación que brinde mayor seguridad al momento de contratar, mediante la verificación de identidad y experiencia de los técnicos, la posibilidad de consultar reseñas de otros usuarios, y el acceso a un historial completo de contrataciones pasadas. Además, valoró altamente una funcionalidad que permita el monitoreo en tiempo real del consumo de agua y luz, especialmente útil en edificios con medidores poco precisos. Las alertas ante consumos anómalos o fugas también fueron percibidas como herramientas muy útiles para prevenir gastos innecesarios.
 Entre las funcionalidades que considera importantes destacó: la posibilidad de chatear directamente con los técnicos, guardar contactos frecuentes en una lista de favoritos, y contar con una buena variedad de profesionales disponibles en diferentes rubros. Finalmente, Jarol indicó que estaría dispuesto a pagar una suscripción mensual siempre que las funcionalidades ofrecidas estén bien diferenciadas de los costos propios de los servicios técnicos. Estas percepciones permiten identificar tanto requisitos funcionales como no funcionales esenciales para el diseño y desarrollo de la plataforma Fix Now.
 
+**Entrevista 3:**
+Datos del entrevistador:
+- Nombre: Urrutia Peña, Jasmin Adriana
+  
+Datos del entrevistado:
+- Nombre: Fransis Valer Quispe
+- Edad: 18 años
+- Distrito de residencia: Surco
+- Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201822516_upc_edu_pe/EW_Jxo3H_8ZNlWo0rfBpXkUBLzhYEAXgsvHj1CIBfEN7bg?e=gvcZ4g
+  
+![USER 3](https://github.com/user-attachments/assets/62daa36d-8fc5-493a-b610-d28ceb7d6bf5)
+
+**Resumen de la entrevista:**
+A partir de la entrevista realizada a Fransis Valer, electricista de 24 años que vive en el distrito de Surco, se recogieron observaciones valiosas desde la perspectiva de un profesional técnico con experiencia en el rubro. Fransis comentó que, aunque siempre ha trabajado con seriedad y tiene una clientela que confía en él, muchas veces se le hace difícil encontrar nuevos clientes, especialmente cuando no lo conocen o no cuentan con una referencia directa.
+Por eso, cuando se le presentó la propuesta de la plataforma Fix Now, mostró una actitud muy positiva. Le pareció una excelente idea, ya que considera que sería una gran herramienta para dar a conocer su trabajo, llegar a más personas y hacer crecer su clientela. “Con algo así, las personas pueden ver quién soy, los trabajos que he hecho, y sentirse más seguras al contactarme”, señaló.
+Fransis también se mostró de acuerdo con pagar una suscripción mensual, pues lo ve como una inversión en su propio desarrollo profesional. “Es como tener un anuncio que está activo todo el tiempo, pero mejor, porque está dentro de una app que la gente usa justo cuando necesita un técnico”, explicó. Además, valoró mucho funciones como el historial de servicios, las opiniones de los clientes y la opción de chatear directamente para coordinar trabajos, lo cual considera que agiliza bastante el proceso.
+Finalmente, Fransis felicitó la iniciativa y dio una valoración muy positiva a la StartUp Fix Now, destacando que es una herramienta que beneficia tanto a los técnicos como a los usuarios. Sus comentarios permiten definir requisitos funcionales centrados en mejorar la visibilidad, la reputación y la facilidad de contacto para los profesionales, así como requisitos no funcionales enfocados en la confianza, la usabilidad y la eficiencia de la plataforma.
+
 ### 2.2.3. Análisis de entrevistas.
 
 **Análisis segmento 01: Tecnicos Profesionales**
