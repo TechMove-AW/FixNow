@@ -1943,3 +1943,4 @@ Video TB1: [https://drive.google.com/drive/folders/1FYpaCOuHbd2BEJQIOvsucBLAkW1W
 Informe de Participacion: [https://docs.google.com/document/d/1k1vP93oioMjgFpdE4xLzgPQv96H5MYqSUJ3iejzpEWo/edit?usp=sharing](https://docs.google.com/document/d/1k1vP93oioMjgFpdE4xLzgPQv96H5MYqSUJ3iejzpEWo/edit?usp=sharing)<br>
 Link PPT:  [https://www.canva.com/design/DAGlhH0TIek/whdxIiLgy_T4ruGcK8JMyg/edit?utm_content=DAGlhH0TIek&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGlhH0TIek/whdxIiLgy_T4ruGcK8JMyg/edit?utm_content=DAGlhH0TIek&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)<br>
 Video TP:  [https://drive.google.com/drive/folders/1ggWRqMOP3KHIMJeAO4F73LdQYI9p_Y07?usp=sharing](https://drive.google.com/drive/folders/1ggWRqMOP3KHIMJeAO4F73LdQYI9p_Y07?usp=sharing)<br>
+Link de despliegue: https://fixit-app-1.vercel.app/<br>
