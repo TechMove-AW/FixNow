@@ -93,11 +93,13 @@ Para el desarrollo del informe correspondiente a la entrega TB1, se estableció 
 
 Para la actualización del informe a la entrega TP1, se repartió de manera equitativa de la siguiente manera para cada inegrante del equipo:
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Integrante</th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Tareas Asignadas</th></tr></thead>
-<tbody><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Bustamante Leveau, Cameron Charllotte</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td></tr>
-<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">De La Cruz Moreno, Roy Hernan</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Hallasi Saravia, Miguel Angel</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td></tr>
-<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Muñiz Huayanca , Percy Alonso</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td></tr>
-<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Urrutia Peña, Jasmin Adriana</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td></tr></tbody></table>
+|Integrante|Tareas Asignadas|
+|-|-|
+|Bustamante Leveau, Cameron Charllotte|Sección de Publicaciones y Agenda de Tecnico|
+|De La Cruz Moreno, Roy Hernan|Pagina Home del Cliente, Pagina Alertas del Cliente, Pagina Servicios Agendados del Cliente|
+|Hallasi Saravia, Miguel Angel|Json-Server, Catalogó de Trabajadores, Alertas|
+|Muñiz Huayanca , Percy Alonso|Perfiles de los Trabajadores y Agendar cita trabajador|
+|Urrutia Peña, Jasmin Adriana| LogIn y register para los dos segmentos, Perfil  de Tecnico y Agenda Tecnico|
 
 
 ## **Github Collaboration Insights**
