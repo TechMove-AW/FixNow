@@ -1844,7 +1844,23 @@ En el sprint 2, se planificó enfocarse exclusivamente en la landing page y el f
 
 <div id='5.2.2.7.'><h5> 5.2.2.7.Software Deployment Evidence for Sprint Review.</h5></div>
 
-En la entrega del segundo sprint, se implementó la landing page completamente funcional, cumpliendo con las user stories asociadas a este entregable.
+En la entrega del segundo sprint, se implementó la landing page completamente funcional, cumpliendo con las user stories asociadas a este entregable.</td></tr>
+<div> Users </div>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXetKwPCgXzIw3sNJRBbyfQjBD5ZubntTgw_pAbJe-Sk03zeSsESOoxN2NtXO9gIIa_QNiKNEDkImbfAIaaFBJTIPqWe3xuj7MojnLKXVVLlDZgtBjUv03zfgE7kRAo_pud6VFrS3w?key=GxAOQwjRfYNU6nowbnqtEw" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeRqBBzlYm0yvL7FvSseHhiv-nqoB48zAH3kbw2oOw8C3_qwqj47PsXb1PhHZw0RjNf1OjnEk0BITaGl9N1ng-g1H_WNsV9PotX6QOUreOT6PKEq7ZdlxvVu2nOGKRGtkJM6eik?key=GxAOQwjRfYNU6nowbnqtEw" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdzb3iHjPlgrBU3STI6y1wGUucSKWUfUQNGYK89x0RynTdud-TGp8YRWA4INMsChblamO1-8eRVtFEccBVik7BIpJn6qQ42_aQKzg56d9SdCPiYi3avOerPheLxFfOKpoRwYcH8?key=GxAOQwjRfYNU6nowbnqtEw" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfYJfiUQPp1YbL0ywoj-B8JfA70jOI0QSIXvcEPSGWKqf5Od6z0zySlHWavMSv6YHUb71kNLZCHOjsgaqltTL__ourcUbrBGpKGC2LqfoIHqZoxmjupHInP33fQkS_aPAVuhkc?key=GxAOQwjRfYNU6nowbnqtEw" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcdoITss_TLpfT8F1PkpyS96bWE7X7oqzwYCW3S1O5JloVWTeXurknzpquIVf4Hu51YKN0FaMV7qdyE1pmhAEG8BV2_NH8UPdAFVPxrDH-9fhKRgq5rUTjzppyiY5ARCE3VyNML1A?key=GxAOQwjRfYNU6nowbnqtEw" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf_xxP1HD_GiYcuDHNJQiU8g9fJMENwimh9kW2SwQUWo1Xw_VTwTqDCYwXlDxl-jXsxo2WEQmcVTB4tQDRRXV6pxjwGveclK48a1u7SUIiAePFj-CNMdovl3kGHopbBNuZf39rd?key=GxAOQwjRfYNU6nowbnqtEw" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfFy4uNcia7rrFXiKXTM8bf23Rkp4c-MvA3Q7Bno7cHQyX48TjLV6_P8vmHD-I0nlW1ggtJqgEzf2reH_O3uDh-cBwXulyE8xUVB0448mZpV18ixH78FwxGWTsk7TBTMjSYjyDC?key=GxAOQwjRfYNU6nowbnqtEw" />
+<div> Workers </div>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdWsNvGHsIrhyLC4O9orE7FbtBSx9jG3v7kvwn8GDcayc0Av-dYtg8c-vbxJmmzBmKQEIXOH6CvbnomBdMMgFAodOs9SIREcmIknupuQUlCvK8yjgkmDA2EqQSgKfPPcA9D6UKn6A?key=GxAOQwjRfYNU6nowbnqtEw" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXegYqdp5e1Vl97fCNN0N-W747eGDt0nc0KFE5NuAntMkTnW8StXx7g47KJwWoj7fIlMtITUJF7N3v82e-DL-MCO5YRu0wkwFldLemKayEjrLYTxWtoRhn67U9yxqc4foNOiHntu?key=GxAOQwjRfYNU6nowbnqtEw" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfo77GX_U1Ux4ZAyTPdwcmd_ZueXA7udK4bm2h_OTY-L8LL8XRd4dJzaN11ey0mTCfjCMbaeQYrYK3itcB-HNbB3D0Y9dk4eSuVC-vUZHMmahPa13nkcuJNn4UEgjzUsGTSktg1FQ?key=GxAOQwjRfYNU6nowbnqtEw" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfhs6s6QrSR-KOYmyOatnlfBM6720Oavd0rcN_0nP3zcGuGSdrjWfOpelXw9A-dIXSLor3otiD1_Q6AhtiGJPUh3JwesDn9McwE-4SawRRp9g26N7YDpaIx-Ub3SvyfySjo4zMxRg?key=GxAOQwjRfYNU6nowbnqtEw" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcXagfZkbMwJWIFq4_5Xg0aDpzlEgfKT5yarr8Q_rdgA6AWOv3_X2DlbQnTUQwuDiNfjYNxBRoPEDJuN73cPnSgWz8JykKE_dg6FtoPui41qemtGUdXTk-lVEkMjfyOGGqqw0ORlg?key=GxAOQwjRfYNU6nowbnqtEw" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeZureMG8ujBogah2ndq7At4vwuF-l6nx6EBm04oxiBzjcnSEm2O-mBas8ENhpfM-otgaCIByocc6p9TTOhpUa387s-nUTN9VInUM6ZteAFvjSezKuIZI0OggOod7_QO8piano8Tw?key=GxAOQwjRfYNU6nowbnqtEw" />
+
 
 <div id='5.2.2.8.'><h5> 5.2.2.8.Team Collaboration Insights during Sprint.</h5></div>
 
