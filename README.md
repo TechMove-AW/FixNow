@@ -130,6 +130,7 @@ Los siguientes gráficos representan analíticos de commits en el repositorio de
 <img src= "https://lh7-rt.googleusercontent.com/docsz/AD_4nXceiVKsyXQ-i1jUx1VwWfDzloKWV4CUBkjakMIS4Rn0gmBKMF7lu1LiJL1hsMkN5qhcgMKxm5z2RpUEbJ8wZCMSUO0Wp5honr129BJYSe00HpCuXllOTYFqmyla-MlOogCBs43w?key=pBJWG96xHxpH_57aWDst0Zo_">
 
 **TP**</br> 
+<img src= "https://lh7-rt.googleusercontent.com/docsz/AD_4nXffwZUVOYFt37TkdjOQz0rY7QlUI6HaBKwveUK65rkWQOVU7YZrLjBV04E0_Xr2i-1_yYrvXf-WGRWr-wTGFAadP3vhUqFk1XrBLpKHOzHwz79CmkPZxC575-x8O_WZ1a42rUdfLQ?key=sGl9fBVlWUB08sESi4y53w">
 
 ## Student Outcome
 
@@ -1938,6 +1939,7 @@ En la entrega del segundo sprint, se implementó la landing page completamente f
 - Tune, N. (s.f.). Domain-Driven Architecture Diagrams. Medium. Recuperado de [https://medium.com/nick-tune-tech-strategy-blog/domain-driven-architecture ](https://medium.com/nick-tune-tech-strategy-blog/domain-driven-architecture)
 
 # Anexos
-Video TB1: [https://drive.google.com/drive/folders/1FYpaCOuHbd2BEJQIOvsucBLAkW1WAv82?usp=sharing](https://drive.google.com/drive/folders/1FYpaCOuHbd2BEJQIOvsucBLAkW1WAv82?usp=sharing)
-Informe de Participacion: [https://docs.google.com/document/d/1k1vP93oioMjgFpdE4xLzgPQv96H5MYqSUJ3iejzpEWo/edit?usp=sharing](https://docs.google.com/document/d/1k1vP93oioMjgFpdE4xLzgPQv96H5MYqSUJ3iejzpEWo/edit?usp=sharing)
-Link PPT:  [https://www.canva.com/design/DAGlhH0TIek/whdxIiLgy_T4ruGcK8JMyg/edit?utm_content=DAGlhH0TIek&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGlhH0TIek/whdxIiLgy_T4ruGcK8JMyg/edit?utm_content=DAGlhH0TIek&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+Video TB1: [https://drive.google.com/drive/folders/1FYpaCOuHbd2BEJQIOvsucBLAkW1WAv82?usp=sharing](https://drive.google.com/drive/folders/1FYpaCOuHbd2BEJQIOvsucBLAkW1WAv82?usp=sharing)<br>
+Informe de Participacion: [https://docs.google.com/document/d/1k1vP93oioMjgFpdE4xLzgPQv96H5MYqSUJ3iejzpEWo/edit?usp=sharing](https://docs.google.com/document/d/1k1vP93oioMjgFpdE4xLzgPQv96H5MYqSUJ3iejzpEWo/edit?usp=sharing)<br>
+Link PPT:  [https://www.canva.com/design/DAGlhH0TIek/whdxIiLgy_T4ruGcK8JMyg/edit?utm_content=DAGlhH0TIek&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGlhH0TIek/whdxIiLgy_T4ruGcK8JMyg/edit?utm_content=DAGlhH0TIek&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)<br>
+Video TP:  [https://drive.google.com/drive/folders/1ggWRqMOP3KHIMJeAO4F73LdQYI9p_Y07?usp=sharing](https://drive.google.com/drive/folders/1ggWRqMOP3KHIMJeAO4F73LdQYI9p_Y07?usp=sharing)<br>
