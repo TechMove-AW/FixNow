@@ -1911,8 +1911,11 @@ En la entrega del segundo sprint, se implementó la landing page completamente f
 # Conclusiones
 
 ## 6.1 Conclusiones y recomendaciones
-TB1: 
-- En este primer entregable, el equipo TechMove ha cumplido con los objetivos establecidos, desarrollando un informe exhaustivo que refleja los avances del proyecto y creando una landing page funcional y estéticamente agradable. A través de un enfoque meticuloso y bien estructurado, se ha logrado comunicar de manera clara los beneficios del producto a los usuarios, estableciendo una base sólida para el desarrollo futuro del proyecto. Este paso inicial asegura que la estructura y visión de TechMove se transmitan con precisión, facilitando la progresión hacia fases más complejas.
+**TB1:**
+- En este primer entregable, el equipo TechMove ha cumplido con los objetivos establecidos, desarrollando un informe exhaustivo que refleja los avances del proyecto y creando una landing page funcional y estéticamente agradable. A través de un enfoque meticuloso y bien estructurado, se ha logrado comunicar de manera clara los beneficios del producto a los usuarios, estableciendo una base sólida para el desarrollo futuro del proyecto. Este paso inicial asegura que la estructura y visión de TechMove se transmitan con precisión, facilitando la progresión hacia fases más complejas.<br><br>
+
+**TP:**
+- En este segundo entregable, el equipo logró cumplir satisfactoriamente con los objetivos propuestos. Se completó el segundo Sprint y se desarrolló una aplicación web funcional, intuitiva y con una estética cuidada, reflejando el compromiso y la dedicación del equipo en cada etapa del proceso.
 
 # Bibliografía
 
