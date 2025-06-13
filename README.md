@@ -517,7 +517,7 @@ Datos del entrevistado:
 - Nombre: Jarol Saquiray
 - Edad: 18 años
 - Distrito de residencia: Miraflores
-- Enlace: link
+- Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202319563_upc_edu_pe/EaG-VszAJGVCo1RehKLJ-JsBXKsxr8PbmO8CSsgO3wZ0Yw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=O50JOh
   
 ![USER 1](https://github.com/user-attachments/assets/b10822fb-6753-4077-b3a0-4b528baf2ed0)
 
@@ -534,7 +534,7 @@ Datos del entrevistado:
 - Distrito de residencia: San Luis
 - Enlace: link
   
-link de foto
+![USER 2](https://github.com/user-attachments/assets/8b1f6817-9b2d-4ec4-8cc9-8c01e83533e1)
 
 **Resumen de la entrevista:**
 Durante la entrevista, Josue Muñiz destacó que la página web le pareció moderna y funcional, con una buena estructura que facilita la búsqueda de técnicos. No obstante, manifestó inquietudes similares sobre el tema de seguridad, haciendo énfasis en que sería necesario contar con medidas más claras para proteger los datos de los usuarios y garantizar que los profesionales registrados sean realmente confiables. Sugirió incluir algún tipo de verificación visible o sellos de seguridad.
@@ -549,7 +549,7 @@ Datos del entrevistado:
 - Distrito de residencia: Jesus Maria
 - Enlace: link
   
-![USER 2](https://github.com/user-attachments/assets/82160521-e5b6-432a-bd30-8f0470d084f7)
+![USER 3](https://github.com/user-attachments/assets/82160521-e5b6-432a-bd30-8f0470d084f7)
 
 **Resumen de la entrevista:**
 En conversación con Leonardo Caballa, pudimos conocer que le encantó la propuesta de la plataforma. No obstante, comentó que el diseño podría mejorarse en términos de intuitividad, ya que algunas opciones no le resultaron completamente claras en su primer uso. Considera que haciendo pequeños ajustes en la interfaz la experiencia sería aún más fluida para los nuevos usuarios.
@@ -567,7 +567,7 @@ Datos del entrevistado:
 - Labor: Técnico electricista
 - Enlace: link
   
-link foto
+![TEC 1](https://github.com/user-attachments/assets/f6b94309-4202-4d93-9bfc-48341f8de3bc)
 
 **Resumen de la entrevista:**
 En entrevista con el técnico electricista Sebastián Rojas, comentó que le parecía una excelente oportunidad contar con una plataforma para llegar a más clientes. Inicialmente recomendó que se incluya una opción para que los técnicos puedan mostrar fotografías de sus trabajos anteriores y recibir calificaciones. Durante la conversación se le explicó que la plataforma ya cuenta con un sistema de perfil profesional donde se pueden agregar fotos de trabajos realizados y reseñas de clientes. Al conocerlo, se mostró conforme con la propuesta e interesado en registrarse como técnico.
