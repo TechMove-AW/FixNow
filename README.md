@@ -2049,7 +2049,7 @@ En la entrega del tercer sprint, se implementó una aplicación web completament
 <tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">	Validacion de Entrevistas y Correccion TP1 </td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">correciones de la primera entrega </td></tr>
 <tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Urrutia Peña, Jasmin Adriana</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">	Mejora Landing Page, Mejora FrondEnd y Correccion TP1 </td></tr></tbody></table>
 
-### 5.3. Validation Interviews
+### 5.3. Validation Interviews.
 
 En la sección "Validation Interviews" de nuestro proyecto, nos enfocamos en validar la plataforma Fix Now, diseñada para conectar a personas con profesionales especializados en oficios como fontanería, carpintería, electricidad, entre otros. Esta fase crucial incluye entrevistas con usuarios potenciales, tanto quienes buscan servicios como los profesionales que los ofrecen.
 El propósito de estas entrevistas es comprender sus necesidades, expectativas y posibles problemas al utilizar una plataforma de este tipo. Además, se busca obtener retroalimentación sobre el sistema de monitoreo de consumo de electricidad y agua, con el fin de asegurar que sea funcional, intuitivo y realmente aporte valor.
@@ -2107,7 +2107,7 @@ Datos del entrevistado:
 - Nombre: Josue Muñiz
 - Edad: 18 años
 - Distrito de residencia: San Luis
-- Enlace: link
+- Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202319563_upc_edu_pe/Ed63EY9TPVBKrYVVJoA-MqYBO83-0IpFwuecQshv5pPZWw?e=PaGrk7
   
 ![USER 2](https://github.com/user-attachments/assets/8b1f6817-9b2d-4ec4-8cc9-8c01e83533e1)
 
@@ -2122,7 +2122,7 @@ Datos del entrevistado:
 - Nombre: Leonardo Caballa
 - Edad: 18 años
 - Distrito de residencia: Jesus Maria
-- Enlace: link
+- Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202319563_upc_edu_pe/EZhP4sMHGX9Nm7imK7gcdyYBMcqvqbWXeTMSj9e7X6uAyg?e=QYoqd4
   
 ![USER 3](https://github.com/user-attachments/assets/82160521-e5b6-432a-bd30-8f0470d084f7)
 
@@ -2140,7 +2140,7 @@ Datos del entrevistado:
 - Edad: 26 años
 - Distrito de residencia: Surquillo
 - Labor: Técnico electricista
-- Enlace: link
+- Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202319563_upc_edu_pe/ERFcU9rYptdMoureNmbk_LcBsl_OUjkdQCxtVvIFT5jUKg?e=uoRPZb
   
 ![TEC 1](https://github.com/user-attachments/assets/f6b94309-4202-4d93-9bfc-48341f8de3bc)
 
@@ -2156,9 +2156,9 @@ Datos del entrevistado:
 - Edad: 24 años
 - Distrito de residencia: Villa El Salvador
 - Labor: Gasfitero
-- Enlace: link
+- Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202319563_upc_edu_pe/ETpwov8nsfVDmwA5ut36DW8B0TJeBNwYfc9n8JwLbB6oNg?e=7Qw2AB
   
-link foto
+![TEC 2](https://github.com/user-attachments/assets/d4b3a3ad-c1fd-4760-8c3c-461a7b3dea6a)
 
 **Resumen de la entrevista:**
 Carlos Pacheco indicó durante la entrevista que encontró útil recibir solicitudes de trabajo directamente desde su celular. Al principio expresó dudas sobre el proceso de pagos y recomendó que este fuera claro para garantizar la recepción total del pago por sus servicios. Luego de explicarle que Fix Now cuenta con un sistema automatizado de pagos seguros y trazabilidad completa de las transacciones, manifestó sentirse mucho más confiado en la plataforma y dispuesto a utilizarla para obtener nuevos trabajos.
@@ -2172,9 +2172,9 @@ Datos del entrevistado:
 - Edad: 23 años
 - Distrito de residencia: San Juan de Lurigancho
 - Labor: Carpintero
-- Enlace: link
+- Enlace:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202319563_upc_edu_pe/EcBczL8Iv_1KrVQk65JePqMBU3uODT2R6BrR56PYmh6NqQ?e=PhL8d6
 
-link foto
+![TEC 3](https://github.com/user-attachments/assets/cf9fb1cc-0570-4303-a219-f56ef27135b4)
 
 **Resumen de la entrevista:**
 En entrevista con Ricardo Villanueva, carpintero de profesión, comentó que la página web le pareció muy completa, fácil de usar y con un diseño bastante ordenado. Destacó que la plataforma le resultó sumamente útil para organizar su trabajo y conseguir nuevos clientes. No realizó ninguna recomendación específica para mejorarla, ya que considera que actualmente cumple con todo lo que necesita. Manifestó estar entusiasmado por empezar a utilizarla y recomendársela a otros colegas.
