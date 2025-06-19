@@ -283,11 +283,25 @@ TB1: La documentación elaborada por el equipo fue clara, precisa y entendible, 
    5.2.1.6. [Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)<br>
    5.2.1.7. [Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)<br>
    5.2.1.8. [Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)<br>
-
+   5.2.3. [Sprint 3](#523-sprint-3)<br>
+   5.2.3.1. [Sprint Planning 3](#5231-sprint-planning-3)<br>
+   5.2.3.2. [Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)<br>
+   5.2.3.3. [Sprint Backlog 3](#5233-sprint-backlog-3)<br>
+   5.2.3.4. [Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)<br>
+   5.2.3.5. [Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)<br>
+   5.2.3.6. [Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)<br>
+   5.2.3.7. [Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)<br>
+   5.2.3.8. [Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)<br>
+   5.3. [Validation Interviews](#53-validation-interviews)<br>
+   5.3.1. [Diseño de Entrevistas](#531-diseño-de-entrevistas)<br>
+   5.3.2. [Registro de Entrevistas](#532-registro-de-entrevistas)<br>
+   5.3.3. [Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)<br>
+   5.4. [Video About-the-Product](#54-video-about-the-product)<br>
 6. [Conclusiones](#conclusiones)<br>
-   6.1 [Conclusiones y recomendaciones](#61-conclusiones-y-recomendaciones)<br>
+   6.1. [Conclusiones y recomendaciones](#61-conclusiones-y-recomendaciones)<br>
 7. [Bibliografía](#bibliografía)<br>
 8. [Anexos](#anexos)<br>
+
 
 # Student Outcomes
 
@@ -1934,6 +1948,65 @@ En la entrega del segundo sprint, se implementó la landing page completamente f
 <tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Muñiz Huayanca .Percy Alonso </td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">correciones de la primera entrega </td></tr>
 <tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Urrutia Peña, Jasmin Adriana</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">LogIn y register para los dos segmentos, Perfil  de Tecnico y Agenda Tecnico, documento del spring 2 y correciones de la primera entrega </td></tr></tbody></table>
 
+### 5.2.3. Sprint 3
+
+#### 5.2.3.1. Sprint Planning 3  
+
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-0pky">Sprint #</th>
+    <th class="tg-0pky">Date</th>
+    <th class="tg-0pky">Time</th>
+    <th class="tg-0pky">Location</th>
+    <th class="tg-0pky">Prepared By</th>
+    <th class="tg-0pky">Attendees</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">2</td>
+    <td class="tg-0pky">12/05/2025</td>
+    <td class="tg-0pky">12:00 p.m.</td>
+    <td class="tg-0pky">Coordinación por Discord</td>
+    <td class="tg-0pky"> Urrutia Peña, Jasmin Adriana</td>
+    <td class="tg-0pky"> Bustamante Leveau, Cameron Charllotte , De La Cruz Moreno, Roy Hernan, Hallasi Saravia, Miguel Angel, Muñiz Huayanca , Percy Alonso, Urrutia Peña, Jasmin Adriana
+
+ </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="4">Sprint 2 Goal</td>
+    <td class="tg-mq6t">Sprint 2 Velocity    </td>
+    <td class="tg-mq6t">Sum of Story Points   </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="4"><br>Actualizar el landing page, actualizar la aplicacion web y crear el backend para nuestra aplicacion.</td>
+    <td class="tg-0pky">25</td>
+    <td class="tg-0pky">25</td>
+  </tr>
+</tbody>
+</table>
+
+#### 5.2.3.2. Aspect Leaders and Collaborators  
+#### 5.2.3.3. Sprint Backlog 3  
+#### 5.2.3.4. Development Evidence for Sprint Review  
+#### 5.2.3.5. Execution Evidence for Sprint Review  
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review  
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review  
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Alumno</th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Actividad</th></tr></thead>
+<tbody><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Bustamante Leveau, Cameron Charllotte   </td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mejora FrondEnd y Correccion TP1</td></tr>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">De La Cruz Moreno, Roy Hernan</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Creacion BackEnd y Correccion TP1 </td></tr>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Hallasi Saravia, Miguel Angel  </td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">	Creacion BackEnd y Correccion TP1</td></tr>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">	Validacion de Entrevistas y Correccion TP1 </td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">correciones de la primera entrega </td></tr>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Urrutia Peña, Jasmin Adriana</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">	Mejora Landing Page, Mejora FrondEnd y Correccion TP1 </td></tr></tbody></table>
+
+### 5.3. Validation Interviews
+
+#### 5.3.1. Diseño de Entrevistas  
+#### 5.3.2. Registro de Entrevistas  
+#### 5.3.3. Evaluaciones según heurísticas  
+
+### 5.4. Video About-the-Product
 
 # Conclusiones
 
@@ -1966,7 +2039,9 @@ En la entrega del segundo sprint, se implementó la landing page completamente f
 
 # Anexos
 Video TB1: [https://drive.google.com/drive/folders/1FYpaCOuHbd2BEJQIOvsucBLAkW1WAv82?usp=sharing](https://drive.google.com/drive/folders/1FYpaCOuHbd2BEJQIOvsucBLAkW1WAv82?usp=sharing)<br>
+Video TP1:  [https://drive.google.com/drive/folders/1ggWRqMOP3KHIMJeAO4F73LdQYI9p_Y07?usp=sharing](https://drive.google.com/drive/folders/1ggWRqMOP3KHIMJeAO4F73LdQYI9p_Y07?usp=sharing)<br>
+Video TB2:
 Informe de Participacion: [https://docs.google.com/document/d/1k1vP93oioMjgFpdE4xLzgPQv96H5MYqSUJ3iejzpEWo/edit?usp=sharing](https://docs.google.com/document/d/1k1vP93oioMjgFpdE4xLzgPQv96H5MYqSUJ3iejzpEWo/edit?usp=sharing)<br>
 Link PPT:  [https://www.canva.com/design/DAGlhH0TIek/whdxIiLgy_T4ruGcK8JMyg/edit?utm_content=DAGlhH0TIek&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGlhH0TIek/whdxIiLgy_T4ruGcK8JMyg/edit?utm_content=DAGlhH0TIek&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)<br>
-Video TP:  [https://drive.google.com/drive/folders/1ggWRqMOP3KHIMJeAO4F73LdQYI9p_Y07?usp=sharing](https://drive.google.com/drive/folders/1ggWRqMOP3KHIMJeAO4F73LdQYI9p_Y07?usp=sharing)<br>
-Link de despliegue: https://fixit-app-1.vercel.app/<br>
+Link de despliegue Landing: [https://fixit-app-1.vercel.app](https://techmove-aw.github.io/FixNow-LandingPage/)/<br>
+Link de despliegue App Web: https://fixit-app-1.vercel.app/<br>
