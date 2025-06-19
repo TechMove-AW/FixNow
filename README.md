@@ -67,7 +67,21 @@
         Urrutia Peña, Jasmin Adriana
       </td>
       <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-        Actualización del Landing Page y capítulo V.
+        Actualización del Landing Page, Aplicacion Web y capítulo V.
+      </td>
+    </tr>
+    <tr>
+      <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">TB2</td>
+      <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">20/06/2025</td>
+      <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+        Bustamante Leveau, Cameron Charllotte <br>
+        De La Cruz Moreno, Roy Hernan <br>
+        Hallasi Saravia, Miguel Angel<br>
+        Muñiz Huayanca , Percy Alonso <br>
+        Urrutia Peña, Jasmin Adriana
+      </td>
+      <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+        Actualización del Landing Page, Actualizacion de Aplicacion Web, Creacion del Backend, Sprint 3 y Validacion de Entrevistas.
       </td>
     </tr>
   </tbody>
@@ -101,7 +115,17 @@ Para la actualización del informe a la entrega TP1, se repartió de manera equi
 |Muñiz Huayanca , Percy Alonso|Perfiles de los Trabajadores y Agendar cita trabajador|
 |Urrutia Peña, Jasmin Adriana| LogIn y register para los dos segmentos, Perfil  de Tecnico y Agenda Tecnico|
 
+**TB2**
 
+Para la actualización del informe a la entrega TB2, se repartió de manera equitativa de la siguiente manera para cada inegrante del equipo:
+
+|Integrante|Tareas Asignadas|
+|-|-|
+|Bustamante Leveau, Cameron Charllotte|Mejora FrondEnd y Correccion TP1|
+|De La Cruz Moreno, Roy Hernan|Creacion BackEnd y Correccion TP1|
+|Hallasi Saravia, Miguel Angel|Creacion BackEnd y Correccion TP1|
+|Muñiz Huayanca , Percy Alonso|Validacion de Entrevistas y Correccion TP1|
+|Urrutia Peña, Jasmin Adriana| Mejora Landing Page, Mejora FrondEnd y Correccion TP1|
 ## **Github Collaboration Insights**
 
 Todas las ramas se crearon siguiendo la metodología GitFlow, que garantiza una organización estructurada y eficiente del código. GitFlow facilita la colaboración en proyectos al establecer un flujo de trabajo estandarizado para el desarrollo, con ramas específicas para nuevas funcionalidades, corrección de errores y preparación de lanzamientos, asegurando un control de versiones más ordenado y predecible.
@@ -134,50 +158,52 @@ Los siguientes gráficos representan analíticos de commits en el repositorio de
 
 ## Student Outcome
 
-El curso contribuye al cumplimiento del Student Outcome ABET: </br> 
-**ABET – EAC - Student Outcome 3** 
-**Criterio:** Capacidad de comunicarse efectivamente con un rango de audiencias. 
-En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3.
-
-</br>
+El curso contribuye al cumplimiento del Student Outcome ABET:  
+**ABET – EAC - Student Outcome 3**  
+**Criterio:** Capacidad de comunicarse efectivamente con un rango de audiencias.  
+En el siguiente cuadro se describen las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3.
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
 <thead>
 <tr>
-<th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Criterio específico</span></th>
-<th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Acciones realizadas</span></th>
-<th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Conclusiones</span></th>
+<th style="border:1px solid black;padding:10px;font-family:Arial;font-size:14px;">Criterio específico</th>
+<th style="border:1px solid black;padding:10px;font-family:Arial;font-size:14px;">Acciones realizadas</th>
+<th style="border:1px solid black;padding:10px;font-family:Arial;font-size:14px;">Conclusiones</th>
 </tr>
 </thead>
 <tbody>
+
 <tr>
-<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Comunica oralmente con efectividad a diferentes rangos de audiencia</td>
-<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-Cameron Charllotte: <br> TB1: Me comuniqué eficazmente con mi equipo utilizando un lenguaje respetuoso y claro, expresando mis ideas de manera asertiva y cumpliendo con los compromisos asumidos. <br> TP: En la Sección de Publicaciones y la Agenda de Técnico, presenté avances semanales al equipo, explicando cómo estas funcionalidades facilitarían la interacción del técnico con los clientes, lo que permitió alinear expectativas y recibir retroalimentación oportuna de mis compañeros. <br> <br>
-Roy Hernan: <br> TB1: Durante las reuniones del grupo, me enfoqué en expresar con claridad mis ideas y propuestas, adaptando mi comunicación según el contexto, lo cual facilitó el entendimiento entre todos los integrantes. <br> TP: Al desarrollar la Página Home del Cliente, la Página Alertas del Cliente y la Página Servicios Agendados del Cliente, expliqué detalladamente al equipo cómo estas secciones mejorarían la experiencia del usuario, ajustando mi lenguaje para que tanto compañeros como docentes entendieran el propósito y la funcionalidad de cada página. <br> <br>
-Miguel Angel: <br> TB1: Colaboré activamente en las tareas asignadas, aplicando mis conocimientos y habilidades para cumplir con los objetivos del equipo en tiempo y forma. <br> TP: En las reuniones, compartí el progreso del Json-Server, el Catálogo de Trabajadores y las Alertas, asegurándome de usar un lenguaje técnico claro para que el equipo comprendiera cómo estas funcionalidades conectarían los datos con las interfaces del cliente y del técnico, fomentando una mejor coordinación. <br> <br>
-Percy Alonso: <br> TB1: <br> TP: Durante las sesiones de trabajo, comuniqué cómo los Perfiles de los Trabajadores y el sistema de Agendar cita trabajador optimizarían la gestión de citas, adaptando mi explicación para que el equipo entendiera los beneficios de estas funcionalidades, lo que facilitó la integración con otras secciones del proyecto. <br> <br>
-Jasmin Adriana: <br> TB1: Considero que mi comunicación con el grupo fue constante, lo cual nos ayudó a poder repartirnos las tareas y realizar un buen trabajo <br> TP: Al trabajar en el LogIn y Register para los dos segmentos, el Perfil de Técnico y la Agenda Técnico, mantuve una comunicación fluida con el equipo, explicando cómo estas funcionalidades garantizarían un acceso seguro y eficiente para los usuarios, ajustándome al nivel de comprensión de cada integrante para asegurar una colaboración efectiva. <br>
+<td style="border:1px solid black;padding:10px;font-family:Arial;font-size:14px;">Comunica oralmente con efectividad a diferentes rangos de audiencia</td>
+<td style="border:1px solid black;padding:10px;font-family:Arial;font-size:14px;">
+Cameron Charllotte: <br> TB1: Me comuniqué eficazmente con mi equipo utilizando un lenguaje respetuoso y claro, expresando mis ideas de manera asertiva y cumpliendo con los compromisos asumidos. <br> TP: En la Sección de Publicaciones y la Agenda de Técnico, presenté avances semanales al equipo, explicando cómo estas funcionalidades facilitarían la interacción del técnico con los clientes. <br> TB2: Coordiné la mejora del FrontEnd, comunicando ideas de forma clara para mejorar la experiencia del usuario. <br><br>
+Roy Hernan: <br> TB1: Durante las reuniones del grupo, me enfoqué en expresar con claridad mis ideas y propuestas, adaptando mi comunicación según el contexto. <br> TP: Al desarrollar la Página Home del Cliente, la Página Alertas del Cliente y la Página Servicios Agendados del Cliente, expliqué detalladamente al equipo cómo estas secciones mejorarían la experiencia del usuario. <br> TB2: Comuniqué eficazmente el estado y estructura del BackEnd, facilitando la integración con el FrontEnd. <br><br>
+Miguel Angel: <br> TB1: Colaboré activamente en las tareas asignadas, aplicando mis conocimientos y habilidades. <br> TP: Compartí el progreso del Json-Server, el Catálogo de Trabajadores y las Alertas, usando un lenguaje técnico claro. <br> TB2: Expliqué la arquitectura del BackEnd y cómo se conectaban las funcionalidades, asegurando comprensión en el equipo. <br><br>
+Percy Alonso: <br> TP: Durante las sesiones de trabajo, comuniqué cómo los Perfiles de los Trabajadores y el sistema de Agendar cita trabajador optimizarían la gestión de citas. <br> TB2: Expliqué los hallazgos de las entrevistas de forma clara al equipo, facilitando decisiones de diseño. <br><br>
+Jasmin Adriana: <br> TB1: Considero que mi comunicación con el grupo fue constante, lo cual nos ayudó a poder repartirnos las tareas. <br> TP: Al trabajar en el LogIn y Register para los dos segmentos, el Perfil de Técnico y la Agenda Técnico, mantuve una comunicación fluida. <br> TB2: Coordiné y comuniqué las mejoras en el FrontEnd y Landing Page, adaptando el lenguaje a cada integrante. <br>
 </td>
-<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-TB1: Durante el desarrollo del proyecto, cada integrante del equipo fue capaz de comunicar oralmente sus ideas de forma clara y adecuada al contexto, logrando que tanto compañeros como docentes comprendieran nuestras propuestas. Esta capacidad de adaptación en la comunicación nos permitió distribuir tareas eficientemente, resolver dudas en tiempo real y mantener una dinámica colaborativa efectiva en todo momento. <br> TP: Las contribuciones específicas, como la explicación de Roy sobre las páginas del cliente, la claridad de Miguel al presentar el Json-Server y las alertas, y la comunicación de Jasmin sobre el sistema de autenticación, aseguraron que el equipo y los docentes estuvieran alineados en los objetivos del proyecto, mejorando la coordinación general y la comprensión de las funcionalidades. <br>
+<td style="border:1px solid black;padding:10px;font-family:Arial;font-size:14px;">
+TB1: Cada integrante fue capaz de comunicar oralmente sus ideas de forma clara y adecuada al contexto, logrando que compañeros y docentes comprendieran las propuestas. Esto permitió distribuir tareas eficientemente y mantener una dinámica colaborativa efectiva. <br> TP: Las explicaciones de Roy sobre las páginas del cliente, la claridad de Miguel al presentar el Json-Server y la comunicación de Jasmin sobre autenticación, aseguraron una correcta coordinación. <br> TB2: Cameron lideró mejoras en FrontEnd explicando su impacto; Roy comunicó avances técnicos del BackEnd; Miguel explicó conexiones funcionales; Percy compartió hallazgos útiles de entrevistas y Jasmin coordinó mejoras de interfaz, todo con lenguaje adaptado a cada audiencia. <br>
 </td>
 </tr>
+
 <tr>
-<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Comunica por escrito con efectividad a diferentes rangos de audiencia.</td>
-<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-Cameron Charllotte: <br> TB1: Redacté documentos siguiendo los formatos solicitados, cuidando la ortografía y la claridad en la información. Además, realicé documentación que facilitó la organización del trabajo y la comprensión de los procesos por parte del equipo. <br> TP: Documenté detalladamente la Sección de Publicaciones y la Agenda de Técnico, creando guías claras que explicaban el flujo de trabajo para los técnicos, lo que permitió a los compañeros entender y validar estas funcionalidades antes de su integración. <br> <br>
-Roy Hernan: <br> TB1: Contribuí en varios puntos del trabajo, asegurándome de que la información fuera precisa, coherente y fácilmente comprensible tanto para compañeros como para docentes. <br> TP: Elaboré descripciones técnicas y funcionales para la Página Home del Cliente, la Página Alertas del Cliente y la Página Servicios Agendados del Cliente, asegurándome de que fueran comprensibles tanto para el equipo como para los docentes, lo que facilitó la retroalimentación y la aprobación de estas secciones. <br> <br>
-Miguel Angel: <br> TB1: Colaboré activamente en las tareas asignadas, aplicando mis conocimientos y habilidades para cumplir con los objetivos del equipo en tiempo y forma. <br> TP: Redacté documentación para el Json-Server, el Catálogo de Trabajadores y las Alertas, detallando su estructura y funcionamiento de manera clara, lo que ayudó al equipo a integrar estas funcionalidades con otras partes del sistema sin inconvenientes. <br> <br>
-Percy Alonso: <br> TB1: <br> TP: Documenté los Perfiles de los Trabajadores y el sistema de Agendar cita trabajador, proporcionando explicaciones claras y precisas que permitieron a los compañeros y docentes entender cómo estas funcionalidades mejorarían la experiencia del usuario final. <br> <br>
-Jasmin Adriana: <br> TB1: Realicé todas las actividades que me tocaron, creo que debería mejorar con mi gestión de tiempo pero en general me fue bien. <br> TP: Preparé documentación para el LogIn y Register, el Perfil de Técnico y la Agenda Técnico, asegurándome de que fuera clara y detallada, lo que facilitó al equipo y a los docentes comprender cómo estas funcionalidades garantizarían la seguridad y la usabilidad del sistema. <br>
+<td style="border:1px solid black;padding:10px;font-family:Arial;font-size:14px;">Comunica por escrito con efectividad a diferentes rangos de audiencia</td>
+<td style="border:1px solid black;padding:10px;font-family:Arial;font-size:14px;">
+Cameron Charllotte: <br> TB1: Redacté documentos cuidando la ortografía y la claridad en la información. <br> TP: Documenté detalladamente la Sección de Publicaciones y la Agenda de Técnico. <br> TB2: Detallé por escrito los cambios de FrontEnd y observaciones en la corrección del TP1. <br><br>
+Roy Hernan: <br> TB1: Contribuí en varios puntos del trabajo con información precisa y comprensible. <br> TP: Elaboré descripciones técnicas para la Página Home del Cliente, Alertas y Servicios Agendados. <br> TB2: Redacté explicaciones funcionales del BackEnd y participé en la corrección del TP1 con redacción técnica adecuada. <br><br>
+Miguel Angel: <br> TB1: Colaboré activamente en las tareas asignadas. <br> TP: Redacté documentación para el Json-Server, el Catálogo de Trabajadores y las Alertas. <br> TB2: Documenté la lógica del BackEnd y colaboré en la corrección escrita del TP1. <br><br>
+Percy Alonso: <br> TP: Documenté los Perfiles de los Trabajadores y Agendar cita trabajador. <br> TB2: Redacté hallazgos de entrevistas y colaboré en correcciones del TP1. <br><br>
+Jasmin Adriana: <br> TB1: Realicé todas las actividades que me tocaron. <br> TP: Preparé documentación para LogIn y Register, Perfil Técnico y Agenda Técnico. <br> TB2: Redacté observaciones y detalles técnicos sobre la Landing Page y FrontEnd en la corrección del TP1. <br>
 </td>
-<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-TB1: El trabajo en equipo se reflejó también en nuestra capacidad para comunicar por escrito de forma efectiva. La documentación que elaboramos —incluyendo informes, descripciones técnicas y contenido para la landing page— fue clara, precisa y entendible para distintas audiencias. Esto facilitó la validación del proyecto por parte de los docentes y aseguró que el producto final comunicara correctamente su propósito y funcionalidad. <br> TP: La documentación de Cameron sobre la Agenda de Técnico, las descripciones de Roy para las páginas del cliente, y los documentos de Miguel sobre el Json-Server y las alertas, entre otros, aseguraron que tanto el equipo como los docentes pudieran validar fácilmente las funcionalidades, garantizando que el producto final fuera claro y funcional para todas las audiencias. <br>
+<td style="border:1px solid black;padding:10px;font-family:Arial;font-size:14px;">
+TB1: La documentación elaborada por el equipo fue clara, precisa y entendible, facilitando la validación por parte de los docentes. <br> TP: La documentación de Cameron, las descripciones de Roy y los documentos de Miguel aseguraron validación rápida. <br> TB2: Cameron elaboró documentación visual clara sobre mejoras, Roy explicó procesos funcionales del BackEnd, Miguel detalló la lógica interna, Percy documentó entrevistas validadas y Jasmin estructuró información útil sobre la interfaz final. Todo con redacción clara y adaptada. <br>
 </td>
 </tr>
+
 </tbody>
 </table>
+
 
 # Contenido
 
