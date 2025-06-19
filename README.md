@@ -2051,8 +2051,134 @@ En la entrega del tercer sprint, se implementó una aplicación web completament
 
 ### 5.3. Validation Interviews
 
-#### 5.3.1. Diseño de Entrevistas  
-#### 5.3.2. Registro de Entrevistas  
+En la sección "Validation Interviews" de nuestro proyecto, nos enfocamos en validar la plataforma Fix Now, diseñada para conectar a personas con profesionales especializados en oficios como fontanería, carpintería, electricidad, entre otros. Esta fase crucial incluye entrevistas con usuarios potenciales, tanto quienes buscan servicios como los profesionales que los ofrecen.
+El propósito de estas entrevistas es comprender sus necesidades, expectativas y posibles problemas al utilizar una plataforma de este tipo. Además, se busca obtener retroalimentación sobre el sistema de monitoreo de consumo de electricidad y agua, con el fin de asegurar que sea funcional, intuitivo y realmente aporte valor.
+A través de este proceso, buscamos garantizar que Fix Now no solo cumpla con los requisitos técnicos, sino que también se ajuste a las dinámicas reales de los usuarios y fomente un uso eficiente de los recursos en el hogar.
+
+#### 5.3.1. Diseño de Entrevistas.
+En esta sección se especifican los objetivos de usuario que guiarán nuestras entrevistas, fundamentales para asegurar que la plataforma Fix Now responda a las necesidades reales tanto de los usuarios que buscan servicios como de los profesionales que los ofrecen.
+
+A continuación, se presentan los user goals:
+
+User Goal: Buscar un profesional especializado
+User Persona: Usuarios generales (hogares, pequeñas empresas).
+Explicación del flujo: El usuario accederá a la plataforma, introducirá el servicio que necesita (ej. fontanero), y se le mostrará una lista de profesionales disponibles cerca de su ubicación, junto con sus calificaciones y tarifas.
+
+User Goal: Solicitar un servicio
+User Persona: Usuarios generales.
+Explicación del flujo: Tras seleccionar un profesional, el usuario podrá enviar una solicitud detallando el problema o necesidad. Recibirá una confirmación y podrá hacer seguimiento en tiempo real del estado del servicio.
+
+User Goal: Registrarse como profesional
+User Persona: Profesionales especializados en oficios.
+Explicación del flujo: Los profesionales podrán registrarse en la plataforma proporcionando su información personal, especialidad, experiencia y certificaciones. Luego, podrán ser contactados por los usuarios que requieran sus servicios.
+
+User Goal: Monitorear consumo de electricidad y agua
+User Persona: Usuarios generales interesados en el uso eficiente de recursos.
+Explicación del flujo: Desde el panel principal, el usuario podrá visualizar en tiempo real el consumo de electricidad y agua de su hogar. Además, recibirá alertas si se detectan fugas o consumos anómalos.
+
+User Goal: Gestionar perfil personal o profesional
+User Persona: Usuarios generales y profesionales.
+Explicación del flujo: Los usuarios podrán modificar su información personal o profesional, gestionar sus métodos de pago o cobro, establecer preferencias de notificación y ver el historial de servicios brindados o solicitados.
+
+#### 5.3.2. Registro de Entrevistas.
+
+**Segmento: Usuarios Clientes**
+
+**Entrevista 1:**
+Datos del entrevistador:
+- Nombre: Percy Alonso Muñiz Huayanca
+  
+Datos del entrevistado:
+- Nombre: Jarol Saquiray
+- Edad: 18 años
+- Distrito de residencia: Miraflores
+- Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202319563_upc_edu_pe/EaG-VszAJGVCo1RehKLJ-JsBXKsxr8PbmO8CSsgO3wZ0Yw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=O50JOh
+  
+![USER 1](https://github.com/user-attachments/assets/b10822fb-6753-4077-b3a0-4b528baf2ed0)
+
+**Resumen de la entrevista:**
+En una entrevista con Jarol Saquiray, nos comentó que en general le gustó mucho la propuesta de la página web, destacando lo sencillo que resultó navegar por las opciones y encontrar los servicios disponibles. Sin embargo, expresó su preocupación en torno a la seguridad, sobre todo al momento de realizar pagos en línea y al recibir técnicos en su domicilio. Considera que sería importante reforzar los mecanismos de verificación de los profesionales para generar más confianza en los usuarios.
+
+**Entrevista 2:**
+Datos del entrevistador:
+- Nombre: Percy Alonso Muñiz Huayanca
+  
+Datos del entrevistado:
+- Nombre: Josue Muñiz
+- Edad: 18 años
+- Distrito de residencia: San Luis
+- Enlace: link
+  
+![USER 2](https://github.com/user-attachments/assets/8b1f6817-9b2d-4ec4-8cc9-8c01e83533e1)
+
+**Resumen de la entrevista:**
+Durante la entrevista, Josue Muñiz destacó que la página web le pareció moderna y funcional, con una buena estructura que facilita la búsqueda de técnicos. No obstante, manifestó inquietudes similares sobre el tema de seguridad, haciendo énfasis en que sería necesario contar con medidas más claras para proteger los datos de los usuarios y garantizar que los profesionales registrados sean realmente confiables. Sugirió incluir algún tipo de verificación visible o sellos de seguridad.
+
+**Entrevista 3:**
+Datos del entrevistador:
+- Nombre: Percy Alonso Muñiz Huayanca
+  
+Datos del entrevistado:
+- Nombre: Leonardo Caballa
+- Edad: 18 años
+- Distrito de residencia: Jesus Maria
+- Enlace: link
+  
+![USER 3](https://github.com/user-attachments/assets/82160521-e5b6-432a-bd30-8f0470d084f7)
+
+**Resumen de la entrevista:**
+En conversación con Leonardo Caballa, pudimos conocer que le encantó la propuesta de la plataforma. No obstante, comentó que el diseño podría mejorarse en términos de intuitividad, ya que algunas opciones no le resultaron completamente claras en su primer uso. Considera que haciendo pequeños ajustes en la interfaz la experiencia sería aún más fluida para los nuevos usuarios.
+
+
+**Segmento: Tecnicos Profesionales**
+**Entrevista 1:**
+Datos del entrevistador:
+- Nombre: Percy Alonso Muñiz Huayanca
+  
+Datos del entrevistado:
+- Nombre: Sebastián Rojas 
+- Edad: 26 años
+- Distrito de residencia: Surquillo
+- Labor: Técnico electricista
+- Enlace: link
+  
+![TEC 1](https://github.com/user-attachments/assets/f6b94309-4202-4d93-9bfc-48341f8de3bc)
+
+**Resumen de la entrevista:**
+En entrevista con el técnico electricista Sebastián Rojas, comentó que le parecía una excelente oportunidad contar con una plataforma para llegar a más clientes. Inicialmente recomendó que se incluya una opción para que los técnicos puedan mostrar fotografías de sus trabajos anteriores y recibir calificaciones. Durante la conversación se le explicó que la plataforma ya cuenta con un sistema de perfil profesional donde se pueden agregar fotos de trabajos realizados y reseñas de clientes. Al conocerlo, se mostró conforme con la propuesta e interesado en registrarse como técnico.
+
+**Entrevista 2:**
+Datos del entrevistador:
+- Nombre: Percy Alonso Muñiz Huayanca
+  
+Datos del entrevistado:
+- Nombre: Carlos Pacheco
+- Edad: 24 años
+- Distrito de residencia: Villa El Salvador
+- Labor: Gasfitero
+- Enlace: link
+  
+link foto
+
+**Resumen de la entrevista:**
+Carlos Pacheco indicó durante la entrevista que encontró útil recibir solicitudes de trabajo directamente desde su celular. Al principio expresó dudas sobre el proceso de pagos y recomendó que este fuera claro para garantizar la recepción total del pago por sus servicios. Luego de explicarle que Fix Now cuenta con un sistema automatizado de pagos seguros y trazabilidad completa de las transacciones, manifestó sentirse mucho más confiado en la plataforma y dispuesto a utilizarla para obtener nuevos trabajos.
+
+**Entrevista 3:**
+Datos del entrevistador:
+- Nombre: Percy Alonso Muñiz Huayanca
+  
+Datos del entrevistado:
+- Nombre: Ricardo Villanueva
+- Edad: 23 años
+- Distrito de residencia: San Juan de Lurigancho
+- Labor: Carpintero
+- Enlace: link
+
+link foto
+
+**Resumen de la entrevista:**
+En entrevista con Ricardo Villanueva, carpintero de profesión, comentó que la página web le pareció muy completa, fácil de usar y con un diseño bastante ordenado. Destacó que la plataforma le resultó sumamente útil para organizar su trabajo y conseguir nuevos clientes. No realizó ninguna recomendación específica para mejorarla, ya que considera que actualmente cumple con todo lo que necesita. Manifestó estar entusiasmado por empezar a utilizarla y recomendársela a otros colegas.
+
 #### 5.3.3. Evaluaciones según heurísticas  
 
 ### 5.4. Video About-the-Product
