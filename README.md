@@ -2018,7 +2018,15 @@ https://trello.com/invite/b/6824086a4f83b2b829b2275b/ATTIfdb6191deb46292083ef612
 </tbody></table>
 
 #### 5.2.3.5. Execution Evidence for Sprint Review  
-En el sprint 3, se completó el desarrollo de la implementación de la aplicación web. Al mismo tiempo, se avanzó parcialmente en el desarrollo del backend, permitiendo su conexión con la base de datos. A continuación, se muestran algunas evidencias.
+En la entrega del tercer sprint, se actualizo la landing, se implementó una aplicación web completamente funcional, cumpliendo con las user stories correspondientes a este entregable. Además, se lanzó una versión parcial del backend.
+
+-Idioma a Landing Page
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcny3boogYnJdaPoN5mXZmNiorYWHfTU3O3TYtIPl-f3T9eN1PFvm_dqw1NcmKjagcAiLRUrO1Gds4eRnH7VQynMkzSZ-xVFq2ihz1Q5Gokgvr24oDDjIdiLq13U2qeqcofd__W0A?key=7puNeFNuRxctQ2AJvg4YMA" />
+-Idioma a Aplicacion Web
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcOQJmE7k8wyYxEbeVFyhCYwl4yw4k7Vj4QwLCv29_OAU_GxrW1SE7cK3xi4SfmZ3UAirV5i-GTaTxzDO1zKzUxpKV8w8RkUbf6fKDvJe6aJFmtPJY77lXZ6e0V2BWzw3UIne5uLg?key=7puNeFNuRxctQ2AJvg4YMA" />
+-Primera version backend
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdrcnRINXTXnvCSavs03VFUP_rTuiWjNq7rJjNoWk3kcTvfklxqClh5NYwotn_vtigaxez3mQyw0veEDDDlq5Gt4pV1cRNPo_lojmm4O_sZTrDx654pl3rKW5rCH7aQk5oa86sH8w?key=7puNeFNuRxctQ2AJvg4YMA" />
+
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review  
 En el sprint 3, se planificó concentrarse exclusivamente en el backend y, en parte, en mejorar la aplicación web. Esto incluyó conectar la base de datos con el backend y el frontend. Inicialmente, el trabajo se realizó de manera local y, posteriormente, se implementó en un host, que ahora está integrado en la aplicación web frontend desplegada. A continuación, se ofrece el enlace para acceder: 
 
@@ -2038,6 +2046,7 @@ En el sprint 3, se planificó concentrarse exclusivamente en el backend y, en pa
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review  
 En la entrega del tercer sprint, se implementó una aplicación web completamente funcional, cumpliendo con las user stories correspondientes a este entregable. Además, se lanzó una versión parcial del backend.
+<img src="[https://lh7-rt.googleusercontent.com/docsz/AD_4nXdrcnRINXTXnvCSavs03VFUP_rTuiWjNq7rJjNoWk3kcTvfklxqClh5NYwotn_vtigaxez3mQyw0veEDDDlq5Gt4pV1cRNPo_lojmm4O_sZTrDx654pl3rKW5rCH7aQk5oa86sH8w?key=7puNeFNuRxctQ2AJvg4YMA](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfpnYXKvVbvy34yNqRx-vzay9vT2SlEo3dZBDvp_i-JqN92z142-Yckf6MnW43s2ZsvWxU30sp3rDhdpTe0ASEXHFfeP01CmX9nbcUEFroX1LpvvyEGHEzvfRNOo5aUE9VPlDYm1g?key=7puNeFNuRxctQ2AJvg4YMA)" />
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Alumno</th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Actividad</th></tr></thead>
