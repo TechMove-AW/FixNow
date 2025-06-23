@@ -2199,6 +2199,163 @@ En entrevista con Ricardo Villanueva, carpintero de profesión, comentó que la 
 
 #### 5.3.3. Evaluaciones según heurísticas  
 
+### UX Heuristics & Principles Evaluation  
+**Usability – Inclusive Design – Information Architecture**  
+
+**CARRERA:** Ingeniería de Software  
+**CURSO:** Desarrollo de Aplicaciones Open Source  
+**SECCIÓN:** 4310
+**PROFESORES:** Ivan Robles Fernández
+**AUDITOR:** Fix Now Team  
+**CLIENTE(S):** Jarol Saquiray, Josue Muñiz, Leonardo Caballa, Sebastián Rojas, Carlos Pacheco, Ricardo Villanueva  
+
+---
+
+### SITE o APP A EVALUAR  
+**Fix Now – Plataforma de conexión entre usuarios y técnicos especializados**
+
+---
+
+### TAREAS A EVALUAR  
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Registro de un nuevo usuario  
+2. Búsqueda de un técnico por especialidad  
+3. Revisión del perfil del técnico  
+4. Solicitud de servicio  
+5. Registro de técnico en la plataforma  
+6. Visualización de servicios solicitados  
+7. Pago del servicio  
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+1. Sistema de notificaciones en tiempo real  
+2. Visualización de historial de servicios pasados  
+4. Recomendaciones automáticas según historial
+5. Sistema de soporte al cliente
+
+---
+
+### ESCALA DE SEVERIDAD
+
+| Nivel | Descripción |
+|-------|-------------|
+| 1 | Problema superficial: se supera fácilmente o es poco frecuente. No necesita ser corregido salvo que haya tiempo disponible. |
+| 2 | Problema menor: ocurre ocasionalmente y genera cierta fricción. Prioridad baja. |
+| 3 | Problema mayor: ocurre frecuentemente o impide un uso fluido. Prioridad alta. |
+| 4 | Problema muy grave: bloquea completamente al usuario. Debe corregirse antes del lanzamiento. |
+
+---
+
+### TABLA RESUMEN
+
+| # | Problema | Severidad | Heurística/Principio violado |
+|--|----------|-----------|-------------------------------|
+| 1 | Falta de verificación visible de técnicos | 4 | Usability: Confianza y seguridad |
+| 2 | Interfaz poco clara en el primer uso | 3 | Usability: Consistencia y estándares |
+| 3 | No se explican los métodos de pago desde el inicio | 3 | Information Architecture: ¿Es claro? |
+| 4 | No se destaca la protección de datos personales | 3 | Inclusive Design: Protección del usuario |
+| 5 | No hay tutorial de navegación inicial para nuevos usuarios | 1 | Usability: Ayuda y documentación |
+| 6 | No hay botón para cancelar solicitud de servicio en curso | 3 | Usability: Control del usuario |
+| 7 | Falta de texto alternativo en imágenes de perfil o trabajos de técnicos | 3 | Inclusive Design: Proporciona experiencias comparables |
+| 8 | Información del perfil del técnico muy dispersa | 2 | Information Architecture: ¿Es usable? |
+| 9 | No hay historial claro de servicios anteriores solicitados | 2 | Information Architecture: ¿Es accesible? |
+
+---
+
+### DESCRIPCIÓN DE PROBLEMAS
+
+---
+
+**PROBLEMA #1: Falta de verificación visible de técnicos**  
+**Severidad:** 4  
+**Heurística violada:** Usabilidad – Confianza y seguridad  
+**Problema:**  
+Los usuarios expresaron preocupación al solicitar técnicos sin conocer su verificación o credenciales. La ausencia de un distintivo claro que indique que el técnico ha sido validado por la plataforma genera desconfianza y podría limitar la conversión de visitas a contrataciones.  
+**Recomendación:**  
+Implementar un sello de verificación visible en los perfiles de técnicos validados, con un breve texto explicando el proceso de verificación.
+
+---
+
+**PROBLEMA #2: Interfaz poco clara en el primer uso**  
+**Severidad:** 3  
+**Heurística violada:** Usabilidad – Consistencia y estándares  
+**Problema:**  
+Algunas opciones no resultaron del todo intuitivas para usuarios nuevos, dificultando la navegación inicial.  
+**Recomendación:**  
+Simplificar la distribución del contenido destacando las acciones principales con iconos y etiquetas claras.
+
+---
+
+**PROBLEMA #3: No se explican los métodos de pago desde el inicio**  
+**Severidad:** 3  
+**Heurística violada:** Arquitectura de Información – ¿Es claro?  
+**Problema:**  
+Técnicos mostraron inseguridad sobre cómo funciona el sistema de pagos, lo cual genera dudas al registrarse.  
+**Recomendación:**  
+Agregar una sección clara y visible que explique el flujo de pagos con pasos e ilustraciones.
+
+---
+
+**PROBLEMA #4: No se destaca la protección de datos personales**  
+**Severidad:** 3  
+**Heurística violada:** Diseño inclusivo – Protección del usuario  
+**Problema:**  
+La app no muestra de manera clara la política de privacidad ni cómo se protegen los datos de los usuarios.  
+**Recomendación:**  
+Incluir un resumen visible de la política de privacidad desde el proceso de registro y el menú principal.
+
+---
+
+**PROBLEMA #5: No hay tutorial de navegación inicial para nuevos usuarios**  
+**Severidad:** 1  
+**Heurística violada:** Usabilidad – Ayuda y documentación  
+**Problema:**  
+Falta de una guía inicial que oriente al usuario en su primer uso de la app.  
+**Recomendación:**  
+Agregar un recorrido interactivo en el primer inicio de sesión que explique las funciones clave.
+
+---
+
+**PROBLEMA #6: No hay botón para cancelar solicitud de servicio en curso**  
+**Severidad:** 3  
+**Heurística violada:** Usabilidad – Control del usuario  
+**Problema:**  
+Una vez enviada una solicitud de servicio, no se permite cancelarla desde la interfaz, limitando al usuario en caso de error o cambio de decisión.  
+**Recomendación:**  
+Agregar un botón “Cancelar solicitud” visible en la pantalla de seguimiento del servicio.
+
+---
+
+**PROBLEMA #7: Falta de texto alternativo en imágenes de perfil o trabajos de técnicos**  
+**Severidad:** 3  
+**Heurística violada:** Diseño inclusivo – Proporciona experiencias comparables  
+**Problema:**  
+Las imágenes no contienen descripciones alternativas, impidiendo que usuarios con lectores de pantalla comprendan su contenido.  
+**Recomendación:**  
+Agregar atributos `alt` con descripciones relevantes a todas las imágenes subidas por técnicos.
+
+---
+
+**PROBLEMA #8: Información del perfil del técnico muy dispersa**  
+**Severidad:** 2  
+**Heurística violada:** Arquitectura de Información – ¿Es usable?  
+**Problema:**  
+Los perfiles de técnicos no agrupan bien la información, generando navegación extensa y poco clara.  
+**Recomendación:**  
+Reestructurar el perfil en pestañas (tabs) como: experiencia, calificaciones, fotos, disponibilidad.
+
+---
+
+**PROBLEMA #9: No hay historial claro de servicios anteriores solicitados**  
+**Severidad:** 2  
+**Heurística violada:** Arquitectura de Información – ¿Es accesible?  
+**Problema:**  
+Los usuarios no pueden consultar de forma sencilla sus servicios anteriores, lo que impide dar seguimiento o repetir solicitudes.  
+**Recomendación:**  
+Incluir una sección “Mi historial” en el menú principal con opciones para repetir servicio o contactar técnico anterior.
+
+
 ### 5.4. Video About-the-Product
 
 # Conclusiones
@@ -2209,6 +2366,9 @@ En entrevista con Ricardo Villanueva, carpintero de profesión, comentó que la 
 
 **TP:**
 - En este segundo entregable, el equipo logró cumplir satisfactoriamente con los objetivos propuestos. Se completó el segundo Sprint y se desarrolló una aplicación web funcional, intuitiva y con una estética cuidada, reflejando el compromiso y la dedicación del equipo en cada etapa del proceso.
+
+**TB2:**
+- En este tercer entreglable, el equipo cumplio con las tareas que se le designaron. Aprendimos a solucionar problemas juntos y se desarrollo un satisfactorio trabajo. Actualizamos versiones y comenzamos con la creacion del backend.
 
 # Bibliografía
 
@@ -2236,5 +2396,6 @@ Video TP1:  [https://drive.google.com/drive/folders/1ggWRqMOP3KHIMJeAO4F73LdQYI9
 Video TB2:
 Informe de Participacion: [https://docs.google.com/document/d/1k1vP93oioMjgFpdE4xLzgPQv96H5MYqSUJ3iejzpEWo/edit?usp=sharing](https://docs.google.com/document/d/1k1vP93oioMjgFpdE4xLzgPQv96H5MYqSUJ3iejzpEWo/edit?usp=sharing)<br>
 Link PPT:  [https://www.canva.com/design/DAGlhH0TIek/whdxIiLgy_T4ruGcK8JMyg/edit?utm_content=DAGlhH0TIek&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGlhH0TIek/whdxIiLgy_T4ruGcK8JMyg/edit?utm_content=DAGlhH0TIek&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)<br>
-Link de despliegue Landing: [https://fixit-app-1.vercel.app](https://techmove-aw.github.io/FixNow-LandingPage/)/<br>
-Link de despliegue App Web: https://fixit-app-1.vercel.app/<br>
+Link de despliegue Landing: [https://techmove-aw.github.io/FixNow-LandingPage/](https://techmove-aw.github.io/FixNow-LandingPage/)/<br>
+Link de despliegue App Web: [https://fixit-app-1.vercel.app](https://fixit-app-1.vercel.app)/<br>
+Link de despliegue BackEnd: [https://fixnow-backend-production.up.railway.app/swagger-ui/index.html](https://fixnow-backend-production.up.railway.app/swagger-ui/index.html)/<br>
