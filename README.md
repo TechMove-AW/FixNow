@@ -1986,13 +1986,7 @@ En la entrega del segundo sprint, se implementó la landing page completamente f
 </table>
 
 #### 5.2.3.2. Aspect Leaders and Collaborators  
-| Team Member (Last Name, First Name)             | GitHub Username   | Mejora FrondEnd y Correccion TP1 Leader (L) / Collaborator (C) | Creacion BackEnd y Correcion Leader (L) / Collaborator (C) |  Creacion BackEnd y Correcion Leader (L) / Collaborator (C)|Validacion de Entrevistas y Correcion Leader (L) / Collaborator (C) |Mejora Landing Page, Mejora FrondEnd Y Correccion (L) / Collaborator (C) |
-|-------------------------------------------------|-------------------|---------------------------------------------|---------------------------------------------|-----|---------------------------------------------|
-| Bustamante Leveau, Cameron Charllotte             | YUTIX     | L                                           | C                                           | C | C                                           | C |
-| De La Cruz Moreno, Roy Hernan                   | Przemekwa           | C                                           | L                                           | C | C                                           | C |
-| Hallasi Saravia, Miguel Angel          | Alonso Muñiz     | C                                           | C                                           | L | C                                           | C |
-| Muñoz Huancaya, Pery Alonso                   | mhallasi          | C                                          | C                                           | C | L                                          | C |
-| Urrutia Peña, Jasmin Adriana                  | SrtaYeis           | C                                           | C                                           | C | C                                           | L |
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfZdZJZuJD1qjrTgpIsJMaT1i0PoRVT2NTsq1RDFv2NGgpE9NUn-XWzvxJQoaEGwq9r93o69YPmdBc7Dx3fSC_g7nrFq1OsansJFQA22sJF4DKVpRk-gIRGbbhhUibLPD_qkOJ6?key=1dJGnN6npKiiIXjmTYDlbg" />
 
 #### 5.2.3.3. Sprint Backlog 3
 En el tercer sprint backlog, el equipo siguió avanzando en la actualización de las aplicaciones web frontend, integradas con el backend y la base de datos. Para asegurar una distribución equilibrada de las tareas, empleamos el sprint board, dividiendo las user stories y asignándolas a los integrantes del equipo.
