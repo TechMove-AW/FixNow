@@ -2360,7 +2360,8 @@ Incluir una sección “Mi historial” en el menú principal con opciones para 
 
 
 ### 5.4. Video About-the-Product
-
+-Link: https://drive.google.com/file/d/1-QrkHAjZucOUIhOx-Hws5qYeEt4LpZO-/view?usp=sharing
+<a href="https://ibb.co/pBfsQV7Q"><img src="https://i.ibb.co/Q3PqkSgk/imag3434.jpg" alt="imag3434" border="0" /></a>
 # Conclusiones
 
 ## 6.1 Conclusiones y recomendaciones
@@ -2394,11 +2395,9 @@ Incluir una sección “Mi historial” en el menú principal con opciones para 
 - Tune, N. (s.f.). Domain-Driven Architecture Diagrams. Medium. Recuperado de [https://medium.com/nick-tune-tech-strategy-blog/domain-driven-architecture ](https://medium.com/nick-tune-tech-strategy-blog/domain-driven-architecture)
 
 # Anexos
-Video TB1: [https://drive.google.com/drive/folders/1FYpaCOuHbd2BEJQIOvsucBLAkW1WAv82?usp=sharing](https://drive.google.com/drive/folders/1FYpaCOuHbd2BEJQIOvsucBLAkW1WAv82?usp=sharing)<br>
-Video TP1:  [https://drive.google.com/drive/folders/1ggWRqMOP3KHIMJeAO4F73LdQYI9p_Y07?usp=sharing](https://drive.google.com/drive/folders/1ggWRqMOP3KHIMJeAO4F73LdQYI9p_Y07?usp=sharing)<br>
-Video TB2:
 Informe de Participacion: [https://docs.google.com/document/d/1k1vP93oioMjgFpdE4xLzgPQv96H5MYqSUJ3iejzpEWo/edit?usp=sharing](https://docs.google.com/document/d/1k1vP93oioMjgFpdE4xLzgPQv96H5MYqSUJ3iejzpEWo/edit?usp=sharing)<br>
 Link PPT:  [https://www.canva.com/design/DAGlhH0TIek/whdxIiLgy_T4ruGcK8JMyg/edit?utm_content=DAGlhH0TIek&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGlhH0TIek/whdxIiLgy_T4ruGcK8JMyg/edit?utm_content=DAGlhH0TIek&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)<br>
 Link de despliegue Landing: [https://techmove-aw.github.io/FixNow-LandingPage/](https://techmove-aw.github.io/FixNow-LandingPage/)/<br>
 Link de despliegue App Web: [https://fixit-app-1.vercel.app](https://fixit-app-1.vercel.app)/<br>
 Link de despliegue BackEnd: [https://fixnow-backend-production.up.railway.app/swagger-ui/index.html](https://fixnow-backend-production.up.railway.app/swagger-ui/index.html)/<br>
+Video About the Team: https://www.canva.com/design/DAGrHwXkm8Y/nLkXgW1cmAVqI3rWFEDOAA/edit?utm_content=DAGrHwXkm8Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton<br>
