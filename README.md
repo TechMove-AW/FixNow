@@ -2053,7 +2053,11 @@ En el sprint 3, se planificó concentrarse exclusivamente en el backend y, en pa
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review  
 En la entrega del tercer sprint, se implementó una aplicación web completamente funcional, cumpliendo con las user stories correspondientes a este entregable. Además, se lanzó una versión parcial del backend.
-<img src="[https://lh7-rt.googleusercontent.com/docsz/AD_4nXdrcnRINXTXnvCSavs03VFUP_rTuiWjNq7rJjNoWk3kcTvfklxqClh5NYwotn_vtigaxez3mQyw0veEDDDlq5Gt4pV1cRNPo_lojmm4O_sZTrDx654pl3rKW5rCH7aQk5oa86sH8w?key=7puNeFNuRxctQ2AJvg4YMA](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfpnYXKvVbvy34yNqRx-vzay9vT2SlEo3dZBDvp_i-JqN92z142-Yckf6MnW43s2ZsvWxU30sp3rDhdpTe0ASEXHFfeP01CmX9nbcUEFroX1LpvvyEGHEzvfRNOo5aUE9VPlDYm1g?key=7puNeFNuRxctQ2AJvg4YMA)" />
+-Idioma a Aplicacion Web
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcOQJmE7k8wyYxEbeVFyhCYwl4yw4k7Vj4QwLCv29_OAU_GxrW1SE7cK3xi4SfmZ3UAirV5i-GTaTxzDO1zKzUxpKV8w8RkUbf6fKDvJe6aJFmtPJY77lXZ6e0V2BWzw3UIne5uLg?key=7puNeFNuRxctQ2AJvg4YMA" />
+-Primera version backend
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdrcnRINXTXnvCSavs03VFUP_rTuiWjNq7rJjNoWk3kcTvfklxqClh5NYwotn_vtigaxez3mQyw0veEDDDlq5Gt4pV1cRNPo_lojmm4O_sZTrDx654pl3rKW5rCH7aQk5oa86sH8w?key=7puNeFNuRxctQ2AJvg4YMA" />
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf2_oc-FOrlHPcTjt0rRxEipCONLIWOQfVpQeSL8OgEsx9XuFn_kV9dQ7dU3iLTcLdKYmWnKTY--TcfKzUH2WfjoHGJMmkCjL1HqwqgOo7p11uR3G6zJsCgU_QB9Sizkmjh2PsB3A?key=1dJGnN6npKiiIXjmTYDlbg" />
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Alumno</th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Actividad</th></tr></thead>
