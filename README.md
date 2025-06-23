@@ -2053,6 +2053,7 @@ En el sprint 3, se planificó concentrarse exclusivamente en el backend y, en pa
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review  
 En la entrega del tercer sprint, se implementó una aplicación web completamente funcional, cumpliendo con las user stories correspondientes a este entregable. Además, se lanzó una versión parcial del backend.
+Link del backend: https://fixnow-backend-production.up.railway.app/swagger-ui/index.html
 -Idioma a Aplicacion Web
 <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcOQJmE7k8wyYxEbeVFyhCYwl4yw4k7Vj4QwLCv29_OAU_GxrW1SE7cK3xi4SfmZ3UAirV5i-GTaTxzDO1zKzUxpKV8w8RkUbf6fKDvJe6aJFmtPJY77lXZ6e0V2BWzw3UIne5uLg?key=7puNeFNuRxctQ2AJvg4YMA" />
 -Primera version backend
