@@ -2290,6 +2290,14 @@ En este Sprint #4, hemos finalizado la integración completa del backend con la 
 <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>4/07/2025   </td></tr>
 </tbody></table>
 
+#### 5.2.4.7.Software Deployment Evidence for Sprint Review.
+En la entrega del cuarto sprint, se finalizó el back end y conexión al front end, cumpliendo con las user stories correspondientes. ADemás de poder deployarlos.
+
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdhrC1vuZg2GwDrKUct0t5Av1Apzhq1FiqojqqJSpZE9yBV9XLHEyhiuWtMyUHiHfDBHh53uVtFkjZLYCAujzfbwxXd2NkxNcRxPCFJS1Pg67tPWmCj7Jcy5xhz2IrGfht2XAZKlw?key=hxT4dZs06q_GylK59gjqhA"><br>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXesKBBxhcBaog-8OeiM8Kb63a9POTtGwV_Y9BZnirKCFgiRdcB42QHG-YCWL2dbBUflpEgSMyohZkpGFR69j8SoN-xk9ad8bWPhax0Vify9mU9l9hkOSZ5UGU5zBsS0qwOgiBX1Qw?key=hxT4dZs06q_GylK59gjqhA"><br>
+
+Link: https://fixnow-backend-production.up.railway.app/swagger-ui/index.html
+
 <div id='5.2.4.8.'><h5> 5.2.4.8.Team Collaboration Insights during Sprint.</h5></div>
 
 | Alumno | Actividad |
