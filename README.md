@@ -140,7 +140,6 @@ Para la actualización del informe a la entrega TB2, se repartió de manera equi
 |Hallasi Saravia, Miguel Angel|Creacion BackEnd y Correccion TP1|
 |Muñiz Huayanca , Percy Alonso|Validacion de Entrevistas y Correccion TP1|
 |Urrutia Peña, Jasmin Adriana| Mejora Landing Page, Mejora FrondEnd y Correccion TP1|
-## **Github Collaboration Insights**
 
 **TF1**
 
@@ -152,6 +151,8 @@ Para la actualización y finalización del informe a la entrega TF1, se reparti�
 <tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Hallasi Saravia, Miguel Angel</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Sprint Backlog 4 - Services Documentation Evidence for Sprint Review - Evaluaciones según heurísticas</td></tr>
 <tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Muñiz Huayanca , Percy Alonso</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Sprint Backlog 4 - Execution Evidence for Sprint Review - Registro de Entrevistas</td></tr>
 <tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Urrutia Peña, Jasmin Adriana</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Sprint Planning 4 - Development Evidence for Sprint Review - Team Collaboration Insights during Sprint.</td></tr></tbody></table>
+
+## **Github Collaboration Insights**
 
 Todas las ramas se crearon siguiendo la metodología GitFlow, que garantiza una organización estructurada y eficiente del código. GitFlow facilita la colaboración en proyectos al establecer un flujo de trabajo estandarizado para el desarrollo, con ramas específicas para nuevas funcionalidades, corrección de errores y preparación de lanzamientos, asegurando un control de versiones más ordenado y predecible.
 
