@@ -84,6 +84,20 @@
         Actualización del Landing Page, Actualizacion de Aplicacion Web, Creacion del Backend, Sprint 3 y Validacion de Entrevistas.
       </td>
     </tr>
+	      <tr>
+      <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">TF</td>
+      <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">4/07/2025</td>
+      <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+        Bustamante Leveau, Cameron Charllotte <br>
+        De La Cruz Moreno, Roy Hernan <br>
+        Hallasi Saravia, Miguel Angel<br>
+        Muñiz Huayanca , Percy Alonso <br>
+        Urrutia Peña, Jasmin Adriana
+      </td>
+      <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+        Finalización del back end y proyecto.
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -127,6 +141,17 @@ Para la actualización del informe a la entrega TB2, se repartió de manera equi
 |Muñiz Huayanca , Percy Alonso|Validacion de Entrevistas y Correccion TP1|
 |Urrutia Peña, Jasmin Adriana| Mejora Landing Page, Mejora FrondEnd y Correccion TP1|
 ## **Github Collaboration Insights**
+
+**TF1**
+
+Para la actualización y finalización del informe a la entrega TF1, se repartió de manera equitativa de la siguiente manera para cada inegrante del equipo:
+
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Integrante</span></th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Tareas Asignadas</span></th></tr></thead>
+<tbody><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Bustamante Leveau, Cameron Charllotte</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Sprint Planning 4 - Testing Suite Evidence for Sprint Review - Diseño de Entrevistas</td></tr>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">De La Cruz Moreno, Roy Hernan</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Development Evidence for Sprint Review - Software Deployment Evidence for Sprint Review.</td></tr>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Hallasi Saravia, Miguel Angel</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Sprint Backlog 4 - Services Documentation Evidence for Sprint Review - Evaluaciones según heurísticas</td></tr>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Muñiz Huayanca , Percy Alonso</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Sprint Backlog 4 - Execution Evidence for Sprint Review - Registro de Entrevistas</td></tr>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Urrutia Peña, Jasmin Adriana</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Sprint Planning 4 - Development Evidence for Sprint Review - Team Collaboration Insights during Sprint.</td></tr></tbody></table>
 
 Todas las ramas se crearon siguiendo la metodología GitFlow, que garantiza una organización estructurada y eficiente del código. GitFlow facilita la colaboración en proyectos al establecer un flujo de trabajo estandarizado para el desarrollo, con ramas específicas para nuevas funcionalidades, corrección de errores y preparación de lanzamientos, asegurando un control de versiones más ordenado y predecible.
 
