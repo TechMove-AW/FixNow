@@ -2202,6 +2202,66 @@ Repositorio: https://github.com/TechMove-AW/FixNow-App
 #### 5.2.4.5.Execution Evidence for Sprint Review.
 En este Sprint #4, hemos culminado el desarrollo del backend, estableciendo una conexión sólida con la base de datos y optimizando el rendimiento general de la aplicación. Con la integración completa de las secciones de consumo, control y producción, estamos preparados para realizar las últimas pruebas y ajustes antes de la entrega final del proyecto.
 
+<h5>Worker Categories:</h5>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfCa2BDKGJJ_HGXN3Gfbcg9CHqgmk_XEalMXGl-RzotoHCtO5Soc0DL6q8akdSeZ98_WtCDcjuO5EIVIWMYY6R6AXez4zHNJWq60akbSY0eSk9M2JTVS25OYT-e_Ox6QxmeP14naQ?key=-IWMJMiTP3Weq3oc6oWx-w"><br>
+Metodo Get:<br>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdtC23IramHOL-pU0Cd8nxjwiqr4TB0xErxOfJ-SXxJqEVaUhdjjVjECmIbdzgUCJtSoDzZP6UVqnvpi-uA02tBN1vEp_Pz90S0CvqtygHHvXh_mgsbA7_0M0fYcMI14dEZOad_Vg?key=-IWMJMiTP3Weq3oc6oWx-w"><br>
+Metodo Post:<br>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcC6pDLZDEF72zq3HjN7NROGxBxJ0Mk4N1uIwOVIqfY1qutxXUO4A8ys2K5ATC0Fb5e1cuQ2IBibeus6LY8HvfZOvDmBw9pfGc4Uk-dadWnClXCpcy-cP83pkAa-VNi8xobo5i2Zw?key=-IWMJMiTP3Weq3oc6oWx-w"><br>
+Metodo Get(Slug):<br>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcWlByyERjPyG2r6Zq9nlicMXp2Dg5InbuafZCqQFB2iG1cQgDMxBxRVGzOwZ1cTJJ2DXqY2a0NrCX5MVIF8F13uhiuieB_MYDvB1-Wr0RhFVgzm8TBXqHtWSrphn7RfB5RB44pXw?key=-IWMJMiTP3Weq3oc6oWx-w"><br>
+Metodo Get(id):<br>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdRmvunDVQNGB2eve7dOCmUC5BvPh-p5eR46YR_YRYVLyYAHwwaUg26TPMDfXuH6EpJmXU977Bl2mPqIFzkHLAgmHFcHXhBxq7VFydfFMLwyn2Dw7aNQ_zWsUdL0E9EZdQFp9nyMw?key=-IWMJMiTP3Weq3oc6oWx-w"><br>
+
+<h5>Authentication:</h5>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcSuq_kCpj7aJ5G63GemZvhx3VVNqy2hUqdGoF0Nv_pZNerLiVWyFNKc863gxs9imBXgdJyhJ2v-Ec_SGb7oWawaP4UVnsBUeaXged7KO7viM9afizguCoxPgZ_JhETcnbg5rfZEA?key=-IWMJMiTP3Weq3oc6oWx-w"><br>
+Metodo Post(sing p):<br>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdRamgTu1Z1J9QMJFuA-YFmWQla_Or3d1AYNqlHZwUpl_Kr0fcp8h6E0F5btj8qv8YCBmNEYTbvrgGk-kAuzsFCVyHpaqnmJDaMKSuiLYRcC-S7l9yzF69r1ThlKZVMsYiEnx2Ldg?key=-IWMJMiTP3Weq3oc6oWx-w"><br>
+Metodo Post(sing in):<br>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXffBSdICwERjtNTbj09EIMrj0lKgz0mUjpWwDNm_kKRbGIxD10s4PD7p2NGf6vvqcF04SE0bItVs_YeXmNjYYn450RLdUgMIyJ7UIpffIz-jTPBaHOluLc_uzkuuV1cWL2NMKu-?key=-IWMJMiTP3Weq3oc6oWx-w"><br>
+
+<h5>Users:</h5>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd9BZrUfuw5FsdXXNiuYua_0Nfg3-EAv2DUbDq54IBJXmZII1kuY7RgM-nPUO38nnpCmEI0Y4Dek2FHt-IqyZsRYMDgJc2MIyCKGA_UXWKNWcH8qHTv6D635gBMPRpsOVUCIa6YSw?key=-IWMJMiTP3Weq3oc6oWx-w"><br>
+Metodo Post:<br>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcuQkpXjOC6WXiW0w-B503sC_xCczZgGMGpRU6AwUFKaA4_RKI8t4Cv5SGrkn1IJ2viX7CW8fypBY0SFF9ClFh9KrPEINgtDdwxUrjBEyca0pvZY8QY0M9L36sDdNY7j3GLVTeQnA?key=-IWMJMiTP3Weq3oc6oWx-w"><br>
+Metodo Get:<br>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfybHEeg5LTw5X6a_Dei_EajUfpKRFJ115QyKt1MpYGBbB92VDArV_rP7ifvuqRTnOjGNlf8ILiSVu3djWCU2eDdnlFSQIs1mGf3FTakrGvjMoJNZrpmfr5uDqUSUpV-29VhABEMg?key=-IWMJMiTP3Weq3oc6oWx-w"><br>
+
+<h5>Workers:</h5>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc1FUIREB8zAGZMJz7W3cyD9e6SS83JMa2USN3i_oRP4KWQ8zzl-lfmwAdpHQ3CD2VBALB24ExXFWpIA2gg8VbrAYki1AqhYpzpoYGTxNaeA0kwnLAkWi_wpfD38U0MVA_Tbqj1yQ?key=-IWMJMiTP3Weq3oc6oWx-w"><br>
+Metodo Get:<br>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeTDjCrKaEFFv_QBOnx7GQ57TNdveel3HBXtOQLi_iIwxHrD4O9QB4fBmzay5MNi6YOjG07z1C_Ftzg27rju-0iXq4qhVbf2ZutpeuU2Wc1riidQMRS57ooREg-DocOwNIGgvP_?key=-IWMJMiTP3Weq3oc6oWx-w"><br>
+Metodo Post:<br>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfFDE9JGhgzHoJe6HGzOxRyY5nqkPbXCDnCyB_Qf9q9lwFy-R8hRwgWsClwWrGG5ZB-PSOtdBiYUVQgWqKe-YQgulli2U125pBwwm9y7qbTD234WQ84u4W5KOQV0ua5cg9aEHA_8A?key=-IWMJMiTP3Weq3oc6oWx-w"><br>
+Metodo Post(worker id):<br>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfxa7Cv4aQ42rpfRauZ1JrXayi5vycovK9r_NHLcztEazWM5E--azdN2G2erqhjmvHXfvjy5qgCHa1IbAPmHhGz6CSZZvjOLVP-jo-XQottbjxgc65T96k_RTDIe4NA3cVAPqKHPA?key=-IWMJMiTP3Weq3oc6oWx-w"><br>
+Metodo Delete(worker id):<br>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdNRkjzhA4OoBD1bTPWNk5INAyY7hHsAtoGYt08hTSJay7QEtqNRJFtSnQY-I3i1UEtotJ9jbTAk_Fh1vkcn2jDfh_uqz4PYfVkfuFGa92Ld3SCeTsT-XtKkFFSM9bpu9AExQnMtQ?key=-IWMJMiTP3Weq3oc6oWx-w"><br>
+Metodo Get(worker id):<br>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcuV0fnOWTLACW7kLlT16tjk2VscMG7Jslh4KH9GjZULQxQpwmlIy_v20n1BEWjQ1icphZxtcV2tHrYxzeaJ7oYiEghSFyTTau2fnQWuO1gBXjs1ps6xrYPf7a_vky7Eu8eAqu2tA?key=-IWMJMiTP3Weq3oc6oWx-w"><br>
+
+<h5>Alerts:</h5>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfRx6jYcC83HfP9ptaUy6UT-Gxz6FLHOBii_WOFiUTbCdv0riqZI56IiCrmqo0rwyBjx5UumRfQl41bx3JfMEMFsjSXct2lLVyn867tCRxIw0urFJDFPFgeXv6V3ZE7M3kqH1_CFg?key=-IWMJMiTP3Weq3oc6oWx-w"><br>
+Metodo Put:<br>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeKDd6QSogaGR4DoUGNp7XBKtTmj0cx4R6zD1nZ7-v89nA_1ztpyyJ_-1xaojDVfirFIPRgCGlZcLl_AVloPVDorYKRVjngti0Ac5iHV2U1NJNAkib6KwkDwF_Sqq_kFqN3qyHJKA?key=-IWMJMiTP3Weq3oc6oWx-w"><br>
+Metodo Post:<br>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd-RyZFnnlHet2UcAJSUnfFrQG9HboEf7lMZtZ2dBuZyHnWjESTH_-_OEW-OcFfpcKMcL-edPyCdC32olefF3HjgqjVMdyJszYpvBWRasKZ0Wn26F0OKxqIdMmQGLysE8ZGn04k0A?key=-IWMJMiTP3Weq3oc6oWx-w"><br>
+Metodo Get(user id):<br>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcMRcwX6EQKSuYltviwAQtaFIYZxRcVrl8xENji-VngJSymzpzbjJUF4GeY33P_MU6ICzCkzfveIvsNdCpPUGQECAz7Uw4Cp6Pj7umN8Gm4UzmM_XDGS68Iyzo0-jKBEzjE2qBR1w?key=-IWMJMiTP3Weq3oc6oWx-w"><br>
+Metodo Get(user id):<br>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe-jJLz5emNMXI2wxinGeBfa-9gJrLoUdehROQUreSqhc_pJ1_94anvFXbilLRmEnanKva0R9XqHZEaCzbMv6v6aXG6ObefsloFGUWkWgheez3zQBIxbO7tWbOwjSbK29m9kn4y-w?key=-IWMJMiTP3Weq3oc6oWx-w"><br>
+
+<h5>User Reviews:</h5>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfBRXx91KE4XfPf2jPIsCVw9a3QqPpaTILEHBfD3uIznXLR_OWP6peN9kZfp4J_nsnmd3aoxT4NF7IDieX1tWQeXIx44P5iQjKIRyzWAkwlhMDO8AroKOIswebf3os6a3zxNzzMXw?key=-IWMJMiTP3Weq3oc6oWx-w"><br>
+Metodo Get:<br>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe6y9-BmdtVQHqNDFenJGsrDbHxYYK-h6SwB9EvouTUuRmJTYAnem5EVvRYxR8Dp6s4jIuCCyQ19WBYgxaBUZtQsrPF41lcFqPOrZDv3i9MktJYBAs6Fs9_htDgZsedSZhrW_vdpQ?key=-IWMJMiTP3Weq3oc6oWx-w"><br>
+Metodo Post:<br>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdi5ufF9zzutf4x9XbTZmr8emIfBzo8IFxhad7ovVoccVUlop6z2UhYipBJklbBgHrLip2Y01ClSxUOKdaE-NVKvVS-lDG4ZrSIYESp-QF3dUrRaqBhnZ14HHu6-QTG0f_0OI7rWQ?key=-IWMJMiTP3Weq3oc6oWx-w"><br>
+Metodo Get(worker id):<br>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcYJxTgMsqivSpi6UfwCqizGG1FhYZt98utjanAs60wdDerKXQr9sHBqUlPPcFZVT_9BJT8yoJRFRdw6u2eV2R18iuniEOhUND7_u2EtLdLpJ0mqSrgF5Z-GgPz3LD01_Jp91-cNA?key=-IWMJMiTP3Weq3oc6oWx-w"><br>
+
+
+
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review  
 En este Sprint #4, hemos finalizado la integración completa del backend con la aplicación web. Tras conectar la base de datos y optimizar el rendimiento, hemos desplegado la aplicación en un entorno de producción. Ahora se puede acceder a todas las funcionalidades de la aplicación.
 
