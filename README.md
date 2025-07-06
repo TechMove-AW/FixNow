@@ -2204,6 +2204,16 @@ En este Sprint #4, hemos finalizado la integración completa del backend con la 
 <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>4/07/2025   </td></tr>
 </tbody></table>
 
+<div id='5.2.4.8.'><h5> 5.2.4.8.Team Collaboration Insights during Sprint.</h5></div>
+
+| Alumno | Actividad |
+|-----------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Bustamante Leveau Cameron Charllotte | Sprint Planning 4 - Development Evidence for Sprint Review - Team Collaboration Insights during Sprint.             |
+| De La Cruz Moreno, Roy Hernan | Sprint Planning 4 - Testing Suite Evidence for Sprint Review |
+| Hallasi Saravia, Miguel Angel | Sprint Backlog 4 - Services Documentation Evidence for Sprint Review |
+| Urrutia Peña, Jasmin Adriana | Development Evidence for Sprint Review - Software Deployment Evidence for Sprint Review. - Video About-the-Product. |
+| Muñiz Huayanca , Percy Alonso | Sprint Backlog 4 - Execution Evidence for Sprint Review |
+
 
 ### 5.3. Validation Interviews.
 
