@@ -2614,6 +2614,9 @@ Incluir una sección “Mi historial” en el menú principal con opciones para 
 **TB2:**
 - En este tercer entreglable, el equipo cumplio con las tareas que se le designaron. Aprendimos a solucionar problemas juntos y se desarrollo un satisfactorio trabajo. Actualizamos versiones y comenzamos con la creacion del backend.
 
+**TP:**
+- En este ultimo entreglable, el equipo cumplio con las tareas que se le designaron. Culminamos el proyecto y se validaron todos los aspectos que requeriamos.
+
 # Bibliografía
 
 - The Markdown Guide. (s.f.). The Markdown Guide. Recuperado de [https://www.markdownguide.org/ ](https://www.markdownguide.org/)
